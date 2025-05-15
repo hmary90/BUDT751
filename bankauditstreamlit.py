@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fx8RGBQGkAw07DhJKtOOgNbnhfo1DsbI
 """
 
-!pip install streamlit
-
 # Step 1: Install required packages
 !pip install streamlit pyngrok --quiet
 
