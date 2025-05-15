@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fx8RGBQGkAw07DhJKtOOgNbnhfo1DsbI
 """
 
-# Step 2: Write the app code to a file (replace with your code or use filename I created earlier)
-with open("app.py", "w") as f:
-    f.write('''
 import streamlit as st
 from streamlit.components.v1 import html
 
@@ -93,13 +90,13 @@ st.subheader("🌟 Key Features")
 cols = st.columns(3)
 for i, col in enumerate(cols):
     with col:
-        st.markdown("""
+        st.markdown(f"""
         <div class="feature-card">
             <img src="https://via.placeholder.com/150" width="100%"/>
-            <h3>Feature {}</h3>
+            <h3>Feature {i+1}</h3>
             <p>Description of the feature and how it benefits the user.</p>
         </div>
-        """.format(i+1), unsafe_allow_html=True)
+        """, unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
@@ -136,4 +133,3 @@ st.markdown("""
 </footer>
 """, unsafe_allow_html=True)
 
-''')
