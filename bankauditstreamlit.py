@@ -51,13 +51,24 @@ custom_css = """
     .features {
         padding: 3rem 2rem;
     }
+
+    .features-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 2rem;
+    }
+
     .feature-card {
+        flex: 1;
+        min-width: 250px;
+        max-width: 32%;
         background: white;
         padding: 2rem;
         border-radius: 10px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-        margin-bottom: 2rem;
     }
+    
     .cta {
         background-color: #3f51b5;
         color: white;
@@ -94,48 +105,51 @@ st.markdown("""
 # --- Feature Showcase ---
 st.markdown("<div id='features' class='features'>", unsafe_allow_html=True)
 st.subheader("🌟 Key Features")
-cols = st.columns(3)
-st.markdown(f"""
-        <div class="feature-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
-            <h3 STYLE="color:#000000">Catches More Errors & Risks (Improved Accuracy) </h3>
-            <ul STYLE="color:#000000">
-                <li>Instead of spending hours manually checking invoices or journal entries, the AI scans thousands of records in minutes.</li>
-                <li>Auditors can now focus soley on the flagged issues, not the entire dataset</li>
-                <li>Can spot patterns of fraud or errors that humans might miss—like duplicate invoices or unusual transactions at odd times.</li>
-            </ul>
-        </div>
-        """, unsafe_allow_html=True)
+col1, col2, col3 = st.columns(3)
 
-st.markdown(f"""
-        <div class="feature-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
-            <h3 STYLE="color:#000000">Auto-Writes Reports (Automatic Reporting)</h3>
-            <ul STYLE="color:#000000">
-                <li>After analysis, the AI (via the LLM) can generate summaries, audit findings, or explanations in clear language. </li>
-                <li>This saves time for the auditor and ensures consistent quality.</li>
-            </ul>
-        </div>
-        """, unsafe_allow_html=True)
+with col1:
+    st.markdown(f"""
+            <div class="feature-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
+                <h3 STYLE="color:#000000">Catches More Errors & Risks (Improved Accuracy) </h3>
+                <ul STYLE="color:#000000">
+                    <li>Instead of spending hours manually checking invoices or journal entries, the AI scans thousands of records in minutes.</li>
+                    <li>Auditors can now focus soley on the flagged issues, not the entire dataset</li>
+                    <li>Can spot patterns of fraud or errors that humans might miss—like duplicate invoices or unusual transactions at odd times.</li>
+                </ul>
+            </div>
+            """, unsafe_allow_html=True)
 
-st.markdown(f"""
-        <div class="feature-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
-            <h3 STYLE="color:#000000"> Serves as a Smart Assistant (Expert Insight) </h3>
-            <ul STYLE="color:#000000">
-                <li>Auditors can ask the AI questions like:
-                    <ul>
-                        <li>“Why was this flagged?”</li>
-                        <li>“Summarize all contract risks.”</li>
-                    </ul>
-                </li>
-                <li>The model gives quick, knowledgeable answers based on the data.</li>
-            </ul>
-        </div>
-        """, unsafe_allow_html=True)
+with col2:
+    st.markdown(f"""
+            <div class="feature-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
+                <h3 STYLE="color:#000000">Auto-Writes Reports (Automatic Reporting)</h3>
+                <ul STYLE="color:#000000">
+                    <li>After analysis, the AI (via the LLM) can generate summaries, audit findings, or explanations in clear language. </li>
+                    <li>This saves time for the auditor and ensures consistent quality.</li>
+                </ul>
+            </div>
+            """, unsafe_allow_html=True)
+
+with col3:
+    st.markdown(f"""
+            <div class="feature-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
+                <h3 STYLE="color:#000000"> Serves as a Smart Assistant (Expert Insight) </h3>
+                <ul STYLE="color:#000000">
+                    <li>Auditors can ask the AI questions like:
+                        <ul>
+                            <li>“Why was this flagged?”</li>
+                            <li>“Summarize all contract risks.”</li>
+                        </ul>
+                    </li>
+                    <li>The model gives quick, knowledgeable answers based on the data.</li>
+                </ul>
+            </div>
+            """, unsafe_allow_html=True)
         
 st.markdown("</div>", unsafe_allow_html=True)
-
 # --- Interactive Demo ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
 st.subheader("🚀 Try It Out")
@@ -169,3 +183,4 @@ st.markdown("""
     <p>&copy; 2025 Your Company Name. All rights reserved.</p>
 </footer>
 """, unsafe_allow_html=True)
+
