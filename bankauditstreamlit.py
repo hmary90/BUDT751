@@ -52,21 +52,17 @@ custom_css = """
         padding: 3rem 2rem;
     }
 
-    .features-row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        gap: 2rem;
-    }
 
     .feature-card {
-        flex: 1;
-        min-width: 250px;
-        max-width: 32%;
         background: white;
         padding: 2rem;
         border-radius: 10px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        height: 600px; /* Adjust as needed */
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     }
     
     .cta {
