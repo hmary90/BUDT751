@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fx8RGBQGkAw07DhJKtOOgNbnhfo1DsbI
 """
 
-# Step 1: Install required packages
-!pip install streamlit pyngrok --quiet
-
 # Step 2: Write the app code to a file (replace with your code or use filename I created earlier)
 with open("app.py", "w") as f:
     f.write('''
