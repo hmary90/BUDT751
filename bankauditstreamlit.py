@@ -137,20 +137,3 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 ''')
-
-# Step 3: Start Streamlit with ngrok tunnel
-from pyngrok import ngrok
-import subprocess
-
-# Kill any previous tunnels
-ngrok.kill()
-
-# Create a tunnel to port 8501
-public_url = ngrok.connect(port=8501)
-print("Streamlit app is live at:", public_url)
-
-# Run Streamlit app
-process = subprocess.Popen(["streamlit", "run", "app.py"])
-
-process.terminate()
-ngrok.kill()
