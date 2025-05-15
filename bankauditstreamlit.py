@@ -11,7 +11,7 @@ import streamlit as st
 from streamlit.components.v1 import html
 
 # --- Page Config ---
-st.set_page_config(page_title="Your Product Landing Page", layout="wide")
+st.set_page_config(page_title="Audit Portal", layout="wide")
 
 # --- Custom CSS ---
 custom_css = """
@@ -34,7 +34,7 @@ custom_css = """
         float: right;
     }
     .nav a {
-        margin: 0 1rem;
+        margin: 0.4rem;
         text-decoration: none;
         color: #555;
     }
@@ -67,7 +67,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 # --- Header ---
 st.markdown("""
 <header>
-    <div class="logo">[Your Logo]</div>
+    <div class="logo">The Audit Portal</div>
     <div class="nav">
         <a href="#features">Features</a>
         <a href="#demo">Demo</a>
@@ -79,8 +79,11 @@ st.markdown("""
 # --- Hero / Value Prop ---
 st.markdown("""
 <div class="hero">
-    <h1>Welcome to [Your Product]</h1>
-    <p>Your compelling value proposition goes here. Explain how your product solves a problem or creates value.</p>
+    <h1>Welcome to The Audit Portal</h1>
+    <p>Auditors spend a large amount of time manually checking documents, matching records,
+    and writing reports. These tasks are repetitive, error-prone, and slow, especially when
+    dealing with high volumes of data. Here is your smart system that can analyze and
+    explain audit data quickly and accurately. </p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -92,7 +95,7 @@ for i, col in enumerate(cols):
     with col:
         st.markdown(f"""
         <div class="feature-card">
-            <img src="https://via.placeholder.com/150" width="100%"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
             <h3>Feature {i+1}</h3>
             <p>Description of the feature and how it benefits the user.</p>
         </div>
@@ -109,7 +112,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 # --- Call to Action ---
 st.markdown("""
 <div class="cta">
-    <h2>Get Started with [Your Product] Today</h2>
+    <h2>Get Started with The Audit Portal Today</h2>
     <p>Ready to see real impact? Contact us now or sign up for early access.</p>
 </div>
 """, unsafe_allow_html=True)
