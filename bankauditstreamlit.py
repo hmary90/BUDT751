@@ -27,8 +27,8 @@ custom_css = """
         display: flex;
         justify-content: space-between;
         align-items: center;
-        
     }
+
     .logo {
         font-size: 1.5rem;
         font-weight: bold;
@@ -100,8 +100,8 @@ for i, col in enumerate(cols):
         st.markdown(f"""
         <div class="feature-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
-            <h3>Feature {i+1}</h3>
-            <p>Description of the feature and how it benefits the user.</p>
+            <h3 STYLE="color:#000000">Feature {i+1}</h3>
+            <p STYLE="color:#000000">Description of the feature and how it benefits the user.</p>
         </div>
         """, unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
