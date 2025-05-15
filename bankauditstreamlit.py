@@ -21,9 +21,13 @@ custom_css = """
         font-family: 'Helvetica Neue', sans-serif;
     }
     header, footer {
-        background-color: #ffffff;
+       background-color: #ffffff;
         padding: 1rem 2rem;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
     }
     .logo {
         font-size: 1.5rem;
@@ -34,7 +38,7 @@ custom_css = """
         float: right;
     }
     .nav a {
-        margin: 0.4rem;
+        margin: 0 0.75rem;
         text-decoration: none;
         color: #555;
     }
