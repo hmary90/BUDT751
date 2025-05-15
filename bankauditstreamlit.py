@@ -95,15 +95,45 @@ st.markdown("""
 st.markdown("<div id='features' class='features'>", unsafe_allow_html=True)
 st.subheader("🌟 Key Features")
 cols = st.columns(3)
-for i, col in enumerate(cols):
-    with col:
-        st.markdown(f"""
+st.markdown(f"""
         <div class="feature-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
-            <h3 STYLE="color:#000000">Feature {i+1}</h3>
-            <p STYLE="color:#000000">Description of the feature and how it benefits the user.</p>
+            <h3 STYLE="color:#000000">Catches More Errors & Risks (Improved Accuracy) </h3>
+            <ul STYLE="color:#000000">
+                <li>Instead of spending hours manually checking invoices or journal entries, the AI scans thousands of records in minutes.</li>
+                <li>Auditors can now focus soley on the flagged issues, not the entire dataset</li>
+                <li>Can spot patterns of fraud or errors that humans might miss—like duplicate invoices or unusual transactions at odd times.</li>
+            </ul>
         </div>
         """, unsafe_allow_html=True)
+
+st.markdown(f"""
+        <div class="feature-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
+            <h3 STYLE="color:#000000">Auto-Writes Reports (Automatic Reporting)</h3>
+            <ul STYLE="color:#000000">
+                <li>After analysis, the AI (via the LLM) can generate summaries, audit findings, or explanations in clear language. </li>
+                <li>This saves time for the auditor and ensures consistent quality.</li>
+            </ul>
+        </div>
+        """, unsafe_allow_html=True)
+
+st.markdown(f"""
+        <div class="feature-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
+            <h3 STYLE="color:#000000"> Serves as a Smart Assistant (Expert Insight) </h3>
+            <ul STYLE="color:#000000">
+                <li>Auditors can ask the AI questions like:
+                    <ul>
+                        <li>“Why was this flagged?”</li>
+                        <li>“Summarize all contract risks.”</li>
+                    </ul>
+                </li>
+                <li>The model gives quick, knowledgeable answers based on the data.</li>
+            </ul>
+        </div>
+        """, unsafe_allow_html=True)
+        
 st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
