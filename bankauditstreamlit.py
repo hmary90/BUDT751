@@ -146,15 +146,7 @@ with col3:
                 </ul>
             </div>
             """, unsafe_allow_html=True)
-        
 st.markdown("</div>", unsafe_allow_html=True)
-# --- Interactive Demo ---
-st.markdown("<div id='demo'>", unsafe_allow_html=True)
-st.subheader("🚀 Try It Out")
-option = st.selectbox("Select a demo option:", ["Option A", "Option B", "Option C"])
-st.write(f"You selected: {option}")
-st.markdown("</div>", unsafe_allow_html=True)
-
 # --- Dataset ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
 # --- CSV Viewer Section ---
@@ -199,6 +191,12 @@ st.dataframe(df, use_container_width=True)
 st.markdown("</div>", unsafe_allow_html=True)
 
 
+# --- Interactive Demo ---
+st.markdown("<div id='demo'>", unsafe_allow_html=True)
+st.subheader("🚀 Try It Out")
+option = st.selectbox("Select a demo option:", ["Option A", "Option B", "Option C"])
+st.write(f"You selected: {option}")
+st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Call to Action ---
 st.markdown("""
