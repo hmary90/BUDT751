@@ -159,6 +159,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
 # --- CSV Viewer Section ---
 st.subheader("📄 Audit Data Explorer")
+st.write(f"Here is the data that has been given to the demo model. These files are every business transaction for an Oil Comapany in one quarter. Data Consultants are given the task to audit their books. There are thousands of transactions and it would take months to go through.")
 
 # Define your CSV paths and summaries
 csv_files = {
@@ -166,21 +167,21 @@ csv_files = {
         "path": "data/bank_statement.csv",
         "summary": "🔍 A full export of processed bank transactions including dates, vendors, and amounts."
     },
-    "Expense Reports": {
-        "path": "data/purchase_invoices.csv",
-        "summary": "🧾 Submitted expense reports with approval status, amounts, and employee IDs."
-    },
-    "Audit Logs": {
-        "path": "data/receipts.csv",
-        "summary": "📋 System audit logs capturing who accessed what, and when."
-    },
     "Vendor Payments": {
-        "path": "data/sales_invoices.csv",
-        "summary": "🏦 Payment records for vendors, showing invoice dates, due dates, and payment status."
+        "path": "data/purchase_invoices.csv",
+        "summary": " 🏦Payment records for vendors, showing invoice dates and summary of order."
     },
-    "Revenue Sheet": {
+    "Receipt of Sales": {
+        "path": "data/receipts.csv",
+        "summary": "📋 Record of sale given to customers of the oil company."
+    },
+    "Log of Sales": {
+        "path": "data/sales_invoices.csv",
+        "summary": "💰 Internal record of sales. Helps to recogize quantity of oil being sold."
+    },
+    "Outgoing/Pending Payments": {
         "path": "data/supplier_statements.csv",
-        "summary": "💰 Monthly and quarterly revenue across product lines and regions."
+        "summary": "🏦Payment records for vendors, showing invoice dates, and recognizes payment status."
     }
 }
 
