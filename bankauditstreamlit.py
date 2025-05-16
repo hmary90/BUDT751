@@ -9,6 +9,8 @@ Original file is located at
 
 import streamlit as st
 from streamlit.components.v1 import html
+import pandas as pd
+
 
 # --- Page Config ---
 st.set_page_config(page_title="Audit Portal", layout="wide")
@@ -152,6 +154,50 @@ st.subheader("🚀 Try It Out")
 option = st.selectbox("Select a demo option:", ["Option A", "Option B", "Option C"])
 st.write(f"You selected: {option}")
 st.markdown("</div>", unsafe_allow_html=True)
+
+# --- Dataset ---
+st.markdown("<div id='demo'>", unsafe_allow_html=True)
+# --- CSV Viewer Section ---
+st.subheader("📄 Audit Data Explorer")
+
+# Define your CSV paths and summaries
+csv_files = {
+    "Bank Transactions": {
+        "path": "data/bank_statement.csv",
+        "summary": "🔍 A full export of processed bank transactions including dates, vendors, and amounts."
+    },
+    "Expense Reports": {
+        "path": "data/purchase_invoices.csv",
+        "summary": "🧾 Submitted expense reports with approval status, amounts, and employee IDs."
+    },
+    "Audit Logs": {
+        "path": "data/receipts.csv",
+        "summary": "📋 System audit logs capturing who accessed what, and when."
+    },
+    "Vendor Payments": {
+        "path": "data/sales_invoices.csv",
+        "summary": "🏦 Payment records for vendors, showing invoice dates, due dates, and payment status."
+    },
+    "Revenue Sheet": {
+        "path": "data/supplier_statements.csv",
+        "summary": "💰 Monthly and quarterly revenue across product lines and regions."
+    }
+}
+
+# Dropdown to choose the dataset
+selected = st.selectbox("Choose a dataset to view:", list(csv_files.keys()))
+
+# Load and display the chosen CSV
+file_info = csv_files[selected]
+df = pd.read_csv(file_info["path"])
+
+# Show summary and preview
+st.markdown(f"**About this dataset:** {file_info['summary']}")
+st.dataframe(df, use_container_width=True)
+
+st.markdown("</div>", unsafe_allow_html=True)
+
+
 
 # --- Call to Action ---
 st.markdown("""
