@@ -1,0 +1,2055 @@
+Date,Document,Supplier Name,Payment Ref #Invoice number,Description,Debit (Amount Owed),Credit (Payments/Credit Notes Applied)
+7/1/2024,Invoice,Total,PINV2212,Gasoline Delivery,29500.0,
+7/1/2024,Payment,Engen,PAY_PINV2212,Payment for PINV2212,,29500.0
+7/1/2024,Invoice,Total,PINV2240,Gasoline Delivery,24600.0,
+7/1/2024,Payment,Engen,PAY_PINV2240,Payment for PINV2240,,24600.0
+7/1/2024,Invoice,Total,PINV2007,Gasoline Delivery,29500.0,
+7/1/2024,Payment,Engen,PAY_PINV2007,Payment for PINV2007,,29500.0
+7/1/2024,Invoice,Total,PINV2006,Gasoline Delivery,32750.0,
+7/1/2024,Payment,Engen,PAY_PINV2006,Payment for PINV2006,,32750.0
+7/1/2024,Invoice,Total,PINV2252,Diesel Delivery,38700.0,
+7/1/2024,Payment,Engen,PAY_PINV2252,Payment for PINV2252,,38700.0
+7/1/2024,Invoice,Total,PINV2363,Gasoline Delivery,32250.0,
+7/1/2024,Payment,Engen,PAY_PINV2363,Payment for PINV2363,,32250.0
+7/2/2024,Invoice,Total,PINV2074,Gasoline Delivery,23400.0,
+7/2/2024,Payment,Engen,PAY_PINV2074,Payment for PINV2074,,23400.0
+7/2/2024,Invoice,Total,PINV2207,Diesel Delivery,32100.0,
+7/2/2024,Payment,Engen,PAY_PINV2207,Payment for PINV2207,,32100.0
+7/2/2024,Invoice,Total,PINV2314,Diesel Delivery,15750.0,
+7/2/2024,Payment,Engen,PAY_PINV2314,Payment for PINV2314,,15750.0
+7/2/2024,Invoice,Total,PINV2380,Gasoline Delivery,36900.0,
+7/2/2024,Payment,Engen,PAY_PINV2380,Payment for PINV2380,,36900.0
+7/2/2024,Invoice,Total,PINV2139,Gasoline Delivery,26400.0,
+7/2/2024,Payment,Engen,PAY_PINV2139,Payment for PINV2139,,26400.0
+7/3/2024,Invoice,Total,PINV2452,Gasoline Delivery,19650.0,
+7/3/2024,Payment,Engen,PAY_PINV2452,Payment for PINV2452,,19650.0
+7/3/2024,Invoice,Total,PINV2003,Gasoline Delivery,17550.0,
+7/3/2024,Payment,Engen,PAY_PINV2003,Payment for PINV2003,,17550.0
+7/3/2024,Invoice,Total,PINV2368,Diesel Delivery,18450.0,
+7/3/2024,Payment,Engen,PAY_PINV2368,Payment for PINV2368,,18450.0
+7/3/2024,Invoice,Total,PINV2234,Diesel Delivery,21000.0,
+7/3/2024,Payment,Engen,PAY_PINV2234,Payment for PINV2234,,21000.0
+7/3/2024,Invoice,Total,PINV2351,Diesel Delivery,27500.0,
+7/3/2024,Payment,Engen,PAY_PINV2351,Payment for PINV2351,,27500.0
+7/3/2024,Invoice,Total,PINV2339,Gasoline Delivery,36900.0,
+7/3/2024,Payment,Engen,PAY_PINV2339,Payment for PINV2339,,36900.0
+7/3/2024,Invoice,Total,PINV2243,Gasoline Delivery,32250.0,
+7/3/2024,Payment,Engen,PAY_PINV2243,Payment for PINV2243,,32250.0
+7/3/2024,Invoice,Total,PINV2071,Diesel Delivery,16500.0,
+7/3/2024,Payment,Engen,PAY_PINV2071,Payment for PINV2071,,16500.0
+7/4/2024,Invoice,Total,PINV2300,Gasoline Delivery,24800.0,
+7/4/2024,Payment,Engen,PAY_PINV2300,Payment for PINV2300,,24800.0
+7/4/2024,Invoice,Total,PINV2243,Diesel Delivery,22200.0,
+7/4/2024,Payment,Engen,PAY_PINV2243,Payment for PINV2243,,22200.0
+7/4/2024,Invoice,Total,PINV2335,Gasoline Delivery,22800.0,
+7/4/2024,Payment,Engen,PAY_PINV2335,Payment for PINV2335,,22800.0
+7/5/2024,Invoice,Total,PINV2295,Gasoline Delivery,25600.0,
+7/5/2024,Payment,Engen,PAY_PINV2295,Payment for PINV2295,,25600.0
+7/5/2024,Invoice,Total,PINV2391,Diesel Delivery,16650.0,
+7/5/2024,Payment,Engen,PAY_PINV2391,Payment for PINV2391,,16650.0
+7/5/2024,Invoice,Total,PINV2285,Gasoline Delivery,25400.0,
+7/5/2024,Payment,Engen,PAY_PINV2285,Payment for PINV2285,,25400.0
+7/5/2024,Invoice,Total,PINV2523,Gasoline Delivery,36600.0,
+7/5/2024,Payment,Engen,PAY_PINV2523,Payment for PINV2523,,36600.0
+7/5/2024,Invoice,Total,PINV2553,Gasoline Delivery,16950.0,
+7/5/2024,Payment,Engen,PAY_PINV2553,Payment for PINV2553,,16950.0
+7/6/2024,Invoice,Total,PINV2390,Diesel Delivery,19050.0,
+7/6/2024,Payment,Engen,PAY_PINV2390,Payment for PINV2390,,19050.0
+7/6/2024,Invoice,Total,PINV2393,Gasoline Delivery,35400.0,
+7/6/2024,Payment,Engen,PAY_PINV2393,Payment for PINV2393,,35400.0
+7/6/2024,Invoice,Total,PINV2055,Diesel Delivery,24200.0,
+7/6/2024,Payment,Engen,PAY_PINV2055,Payment for PINV2055,,24200.0
+7/6/2024,Invoice,Total,PINV2473,Gasoline Delivery,26600.0,
+7/6/2024,Payment,Engen,PAY_PINV2473,Payment for PINV2473,,26600.0
+7/6/2024,Invoice,Total,PINV2029,Gasoline Delivery,39300.0,
+7/6/2024,Payment,Engen,PAY_PINV2029,Payment for PINV2029,,39300.0
+7/6/2024,Invoice,Total,PINV2371,Gasoline Delivery,28750.0,
+7/6/2024,Payment,Engen,PAY_PINV2371,Payment for PINV2371,,28750.0
+7/7/2024,Invoice,Total,PINV2061,Diesel Delivery,31500.0,
+7/7/2024,Payment,Engen,PAY_PINV2061,Payment for PINV2061,,31500.0
+7/7/2024,Invoice,Total,PINV2147,Gasoline Delivery,29000.0,
+7/7/2024,Payment,Engen,PAY_PINV2147,Payment for PINV2147,,29000.0
+7/7/2024,Invoice,Total,PINV2174,Gasoline Delivery,24600.0,
+7/7/2024,Payment,Engen,PAY_PINV2174,Payment for PINV2174,,24600.0
+7/7/2024,Invoice,Total,PINV2034,Gasoline Delivery,26200.0,
+7/7/2024,Payment,Engen,PAY_PINV2034,Payment for PINV2034,,26200.0
+7/7/2024,Invoice,Total,PINV2177,Gasoline Delivery,22600.0,
+7/7/2024,Payment,Engen,PAY_PINV2177,Payment for PINV2177,,22600.0
+7/7/2024,Invoice,Total,PINV2182,Gasoline Delivery,36600.0,
+7/7/2024,Payment,Engen,PAY_PINV2182,Payment for PINV2182,,36600.0
+7/7/2024,Invoice,Total,PINV2101,Diesel Delivery,33000.0,
+7/7/2024,Payment,Engen,PAY_PINV2101,Payment for PINV2101,,33000.0
+7/7/2024,Invoice,Total,PINV2051,Diesel Delivery,30000.0,
+7/7/2024,Payment,Engen,PAY_PINV2051,Payment for PINV2051,,30000.0
+7/7/2024,Invoice,Total,PINV2035,Gasoline Delivery,23000.0,
+7/7/2024,Payment,Engen,PAY_PINV2035,Payment for PINV2035,,23000.0
+7/8/2024,Invoice,Total,PINV2119,Diesel Delivery,18150.0,
+7/8/2024,Payment,Engen,PAY_PINV2119,Payment for PINV2119,,18150.0
+7/8/2024,Invoice,Total,PINV2374,Gasoline Delivery,34800.0,
+7/8/2024,Payment,Engen,PAY_PINV2374,Payment for PINV2374,,34800.0
+7/8/2024,Invoice,Total,PINV2284,Diesel Delivery,16800.0,
+7/8/2024,Payment,Engen,PAY_PINV2284,Payment for PINV2284,,16800.0
+7/8/2024,Invoice,Total,PINV2197,Diesel Delivery,18900.0,
+7/8/2024,Payment,Engen,PAY_PINV2197,Payment for PINV2197,,18900.0
+7/8/2024,Invoice,Total,PINV2453,Gasoline Delivery,35700.0,
+7/8/2024,Payment,Engen,PAY_PINV2453,Payment for PINV2453,,35700.0
+7/8/2024,Invoice,Total,PINV2012,Diesel Delivery,25200.0,
+7/8/2024,Payment,Engen,PAY_PINV2012,Payment for PINV2012,,25200.0
+7/8/2024,Invoice,Total,PINV2267,Diesel Delivery,37500.0,
+7/8/2024,Payment,Engen,PAY_PINV2267,Payment for PINV2267,,37500.0
+7/8/2024,Invoice,Total,PINV2008,Gasoline Delivery,28250.0,
+7/8/2024,Payment,Engen,PAY_PINV2008,Payment for PINV2008,,28250.0
+7/8/2024,Invoice,Total,PINV2024,Gasoline Delivery,27000.0,
+7/8/2024,Payment,Engen,PAY_PINV2024,Payment for PINV2024,,27000.0
+7/9/2024,Invoice,Total,PINV2388,Diesel Delivery,25600.0,
+7/9/2024,Payment,Engen,PAY_PINV2388,Payment for PINV2388,,25600.0
+7/9/2024,Invoice,Total,PINV2266,Diesel Delivery,15900.0,
+7/9/2024,Payment,Engen,PAY_PINV2266,Payment for PINV2266,,15900.0
+7/9/2024,Invoice,Total,PINV2491,Gasoline Delivery,26600.0,
+7/9/2024,Payment,Engen,PAY_PINV2491,Payment for PINV2491,,26600.0
+7/9/2024,Invoice,Total,PINV2146,Gasoline Delivery,26200.0,
+7/9/2024,Payment,Engen,PAY_PINV2146,Payment for PINV2146,,26200.0
+7/9/2024,Invoice,Total,PINV2333,Gasoline Delivery,34500.0,
+7/9/2024,Payment,Engen,PAY_PINV2333,Payment for PINV2333,,34500.0
+7/9/2024,Invoice,Total,PINV2016,Gasoline Delivery,36600.0,
+7/9/2024,Payment,Engen,PAY_PINV2016,Payment for PINV2016,,36600.0
+7/10/2024,Invoice,Total,PINV2014,Diesel Delivery,31800.0,
+7/10/2024,Payment,Engen,PAY_PINV2014,Payment for PINV2014,,31800.0
+7/10/2024,Invoice,Total,PINV2277,Gasoline Delivery,18450.0,
+7/10/2024,Payment,Engen,PAY_PINV2277,Payment for PINV2277,,18450.0
+7/10/2024,Invoice,Total,PINV2286,Diesel Delivery,27250.0,
+7/10/2024,Payment,Engen,PAY_PINV2286,Payment for PINV2286,,27250.0
+7/10/2024,Invoice,Total,PINV2298,Diesel Delivery,24200.0,
+7/10/2024,Payment,Engen,PAY_PINV2298,Payment for PINV2298,,24200.0
+7/10/2024,Invoice,Total,PINV2344,Gasoline Delivery,27500.0,
+7/10/2024,Payment,Engen,PAY_PINV2344,Payment for PINV2344,,27500.0
+7/11/2024,Invoice,Total,PINV2114,Gasoline Delivery,26800.0,
+7/11/2024,Payment,Engen,PAY_PINV2114,Payment for PINV2114,,26800.0
+7/11/2024,Invoice,Total,PINV2291,Diesel Delivery,37500.0,
+7/11/2024,Payment,Engen,PAY_PINV2291,Payment for PINV2291,,37500.0
+7/12/2024,Invoice,Total,PINV2472,Gasoline Delivery,29250.0,
+7/12/2024,Payment,Engen,PAY_PINV2472,Payment for PINV2472,,29250.0
+7/12/2024,Invoice,Total,PINV2224,Diesel Delivery,23800.0,
+7/12/2024,Payment,Engen,PAY_PINV2224,Payment for PINV2224,,23800.0
+7/12/2024,Invoice,Total,PINV2192,Gasoline Delivery,37500.0,
+7/12/2024,Payment,Engen,PAY_PINV2192,Payment for PINV2192,,37500.0
+7/12/2024,Invoice,Total,PINV2382,Diesel Delivery,30500.0,
+7/12/2024,Payment,Engen,PAY_PINV2382,Payment for PINV2382,,30500.0
+7/12/2024,Invoice,Total,PINV2490,Gasoline Delivery,29000.0,
+7/12/2024,Payment,Engen,PAY_PINV2490,Payment for PINV2490,,29000.0
+7/12/2024,Invoice,Total,PINV2210,Diesel Delivery,33000.0,
+7/12/2024,Payment,Engen,PAY_PINV2210,Payment for PINV2210,,33000.0
+7/12/2024,Invoice,Total,PINV2493,Gasoline Delivery,34500.0,
+7/12/2024,Payment,Engen,PAY_PINV2493,Payment for PINV2493,,34500.0
+7/12/2024,Invoice,Total,PINV2131,Diesel Delivery,27000.0,
+7/12/2024,Payment,Engen,PAY_PINV2131,Payment for PINV2131,,27000.0
+7/12/2024,Invoice,Total,PINV2231,Diesel Delivery,23200.0,
+7/12/2024,Payment,Engen,PAY_PINV2231,Payment for PINV2231,,23200.0
+7/13/2024,Invoice,Total,PINV2226,Gasoline Delivery,38700.0,
+7/13/2024,Payment,Engen,PAY_PINV2226,Payment for PINV2226,,38700.0
+7/13/2024,Invoice,Total,PINV2249,Diesel Delivery,15900.0,
+7/13/2024,Payment,Engen,PAY_PINV2249,Payment for PINV2249,,15900.0
+7/13/2024,Invoice,Total,PINV2193,Diesel Delivery,32700.0,
+7/13/2024,Payment,Engen,PAY_PINV2193,Payment for PINV2193,,32700.0
+7/14/2024,Invoice,Total,PINV2406,Diesel Delivery,36900.0,
+7/14/2024,Payment,Engen,PAY_PINV2406,Payment for PINV2406,,36900.0
+7/14/2024,Invoice,Total,PINV2311,Gasoline Delivery,19800.0,
+7/14/2024,Payment,Engen,PAY_PINV2311,Payment for PINV2311,,19800.0
+7/14/2024,Invoice,Total,PINV2058,Diesel Delivery,30000.0,
+7/14/2024,Payment,Engen,PAY_PINV2058,Payment for PINV2058,,30000.0
+7/14/2024,Invoice,Total,PINV2361,Diesel Delivery,32250.0,
+7/14/2024,Payment,Engen,PAY_PINV2361,Payment for PINV2361,,32250.0
+7/14/2024,Invoice,Total,PINV2438,Gasoline Delivery,30000.0,
+7/14/2024,Payment,Engen,PAY_PINV2438,Payment for PINV2438,,30000.0
+7/15/2024,Invoice,Total,PINV2210,Gasoline Delivery,34200.0,
+7/15/2024,Payment,Engen,PAY_PINV2210,Payment for PINV2210,,34200.0
+7/15/2024,Invoice,Total,PINV2108,Diesel Delivery,23600.0,
+7/15/2024,Payment,Engen,PAY_PINV2108,Payment for PINV2108,,23600.0
+7/15/2024,Invoice,Total,PINV2205,Diesel Delivery,19200.0,
+7/15/2024,Payment,Engen,PAY_PINV2205,Payment for PINV2205,,19200.0
+7/15/2024,Invoice,Total,PINV2039,Diesel Delivery,31250.0,
+7/15/2024,Payment,Engen,PAY_PINV2039,Payment for PINV2039,,31250.0
+7/16/2024,Invoice,Total,PINV2103,Gasoline Delivery,25200.0,
+7/16/2024,Payment,Engen,PAY_PINV2103,Payment for PINV2103,,25200.0
+7/16/2024,Invoice,Total,PINV2511,Gasoline Delivery,23000.0,
+7/16/2024,Payment,Engen,PAY_PINV2511,Payment for PINV2511,,23000.0
+7/16/2024,Invoice,Total,PINV2084,Gasoline Delivery,32500.0,
+7/16/2024,Payment,Engen,PAY_PINV2084,Payment for PINV2084,,32500.0
+7/16/2024,Invoice,Total,PINV2503,Gasoline Delivery,18150.0,
+7/16/2024,Payment,Engen,PAY_PINV2503,Payment for PINV2503,,18150.0
+7/16/2024,Invoice,Total,PINV2369,Gasoline Delivery,32500.0,
+7/16/2024,Payment,Engen,PAY_PINV2369,Payment for PINV2369,,32500.0
+7/16/2024,Invoice,Total,PINV2450,Gasoline Delivery,19650.0,
+7/16/2024,Payment,Engen,PAY_PINV2450,Payment for PINV2450,,19650.0
+7/16/2024,Invoice,Total,PINV2044,Gasoline Delivery,29750.0,
+7/16/2024,Payment,Engen,PAY_PINV2044,Payment for PINV2044,,29750.0
+7/16/2024,Invoice,Total,PINV2156,Diesel Delivery,23400.0,
+7/16/2024,Payment,Engen,PAY_PINV2156,Payment for PINV2156,,23400.0
+7/16/2024,Invoice,Total,PINV2438,Diesel Delivery,23600.0,
+7/16/2024,Payment,Engen,PAY_PINV2438,Payment for PINV2438,,23600.0
+7/17/2024,Invoice,Total,PINV2312,Diesel Delivery,34500.0,
+7/17/2024,Payment,Engen,PAY_PINV2312,Payment for PINV2312,,34500.0
+7/17/2024,Invoice,Total,PINV2046,Diesel Delivery,19200.0,
+7/17/2024,Payment,Engen,PAY_PINV2046,Payment for PINV2046,,19200.0
+7/17/2024,Invoice,Total,PINV2022,Diesel Delivery,24200.0,
+7/17/2024,Payment,Engen,PAY_PINV2022,Payment for PINV2022,,24200.0
+7/18/2024,Invoice,Total,PINV2555,Gasoline Delivery,17550.0,
+7/18/2024,Payment,Engen,PAY_PINV2555,Payment for PINV2555,,17550.0
+7/18/2024,Invoice,Total,PINV2524,Gasoline Delivery,17850.0,
+7/18/2024,Payment,Engen,PAY_PINV2524,Payment for PINV2524,,17850.0
+7/18/2024,Invoice,Total,PINV2338,Gasoline Delivery,40200.0,
+7/18/2024,Payment,Engen,PAY_PINV2338,Payment for PINV2338,,40200.0
+7/18/2024,Invoice,Total,PINV2251,Diesel Delivery,22400.0,
+7/18/2024,Payment,Engen,PAY_PINV2251,Payment for PINV2251,,22400.0
+7/18/2024,Invoice,Total,PINV2295,Diesel Delivery,23800.0,
+7/18/2024,Payment,Engen,PAY_PINV2295,Payment for PINV2295,,23800.0
+7/19/2024,Invoice,Total,PINV2342,Gasoline Delivery,29250.0,
+7/19/2024,Payment,Engen,PAY_PINV2342,Payment for PINV2342,,29250.0
+7/19/2024,Invoice,Total,PINV2167,Gasoline Delivery,25400.0,
+7/19/2024,Payment,Engen,PAY_PINV2167,Payment for PINV2167,,25400.0
+7/19/2024,Invoice,Total,PINV2021,Gasoline Delivery,23800.0,
+7/19/2024,Payment,Engen,PAY_PINV2021,Payment for PINV2021,,23800.0
+7/19/2024,Invoice,Total,PINV2241,Gasoline Delivery,33750.0,
+7/19/2024,Payment,Engen,PAY_PINV2241,Payment for PINV2241,,33750.0
+7/19/2024,Invoice,Total,PINV2195,Gasoline Delivery,34800.0,
+7/19/2024,Payment,Engen,PAY_PINV2195,Payment for PINV2195,,34800.0
+7/20/2024,Invoice,Total,PINV2271,Gasoline Delivery,26200.0,
+7/20/2024,Payment,Engen,PAY_PINV2271,Payment for PINV2271,,26200.0
+7/20/2024,Invoice,Total,PINV2228,Diesel Delivery,18450.0,
+7/20/2024,Payment,Engen,PAY_PINV2228,Payment for PINV2228,,18450.0
+7/20/2024,Invoice,Total,PINV2072,Gasoline Delivery,37800.0,
+7/20/2024,Payment,Engen,PAY_PINV2072,Payment for PINV2072,,37800.0
+7/20/2024,Invoice,Total,PINV2519,Gasoline Delivery,26200.0,
+7/20/2024,Payment,Engen,PAY_PINV2519,Payment for PINV2519,,26200.0
+7/20/2024,Invoice,Total,PINV2100,Diesel Delivery,34200.0,
+7/20/2024,Payment,Engen,PAY_PINV2100,Payment for PINV2100,,34200.0
+7/20/2024,Invoice,Total,PINV2345,Diesel Delivery,19200.0,
+7/20/2024,Payment,Engen,PAY_PINV2345,Payment for PINV2345,,19200.0
+7/20/2024,Invoice,Total,PINV2170,Gasoline Delivery,26400.0,
+7/20/2024,Payment,Engen,PAY_PINV2170,Payment for PINV2170,,26400.0
+7/21/2024,Invoice,Total,PINV2028,Diesel Delivery,17100.0,
+7/21/2024,Payment,Engen,PAY_PINV2028,Payment for PINV2028,,17100.0
+7/21/2024,Invoice,Total,PINV2002,Gasoline Delivery,31500.0,
+7/21/2024,Payment,Engen,PAY_PINV2002,Payment for PINV2002,,31500.0
+7/21/2024,Invoice,Total,PINV2038,Gasoline Delivery,25000.0,
+7/21/2024,Payment,Engen,PAY_PINV2038,Payment for PINV2038,,25000.0
+7/22/2024,Invoice,Total,PINV2417,Gasoline Delivery,17550.0,
+7/22/2024,Payment,Engen,PAY_PINV2417,Payment for PINV2417,,17550.0
+7/22/2024,Invoice,Total,PINV2043,Gasoline Delivery,19650.0,
+7/22/2024,Payment,Engen,PAY_PINV2043,Payment for PINV2043,,19650.0
+7/22/2024,Invoice,Total,PINV2166,Gasoline Delivery,30750.0,
+7/22/2024,Payment,Engen,PAY_PINV2166,Payment for PINV2166,,30750.0
+7/22/2024,Invoice,Total,PINV2081,Gasoline Delivery,38400.0,
+7/22/2024,Payment,Engen,PAY_PINV2081,Payment for PINV2081,,38400.0
+7/22/2024,Invoice,Total,PINV2134,Gasoline Delivery,18150.0,
+7/22/2024,Payment,Engen,PAY_PINV2134,Payment for PINV2134,,18150.0
+7/23/2024,Invoice,Total,PINV2095,Diesel Delivery,23200.0,
+7/23/2024,Payment,Engen,PAY_PINV2095,Payment for PINV2095,,23200.0
+7/23/2024,Invoice,Total,PINV2447,Diesel Delivery,16350.0,
+7/23/2024,Payment,Engen,PAY_PINV2447,Payment for PINV2447,,16350.0
+7/23/2024,Invoice,Total,PINV2378,Gasoline Delivery,31000.0,
+7/23/2024,Payment,Engen,PAY_PINV2378,Payment for PINV2378,,31000.0
+7/24/2024,Invoice,Total,PINV2018,Diesel Delivery,23400.0,
+7/24/2024,Payment,Engen,PAY_PINV2018,Payment for PINV2018,,23400.0
+7/24/2024,Invoice,Total,PINV2352,Gasoline Delivery,32000.0,
+7/24/2024,Payment,Engen,PAY_PINV2352,Payment for PINV2352,,32000.0
+7/24/2024,Invoice,Total,PINV2109,Gasoline Delivery,32750.0,
+7/24/2024,Payment,Engen,PAY_PINV2109,Payment for PINV2109,,32750.0
+7/24/2024,Invoice,Total,PINV2168,Diesel Delivery,29750.0,
+7/24/2024,Payment,Engen,PAY_PINV2168,Payment for PINV2168,,29750.0
+7/24/2024,Invoice,Total,PINV2113,Gasoline Delivery,18900.0,
+7/24/2024,Payment,Engen,PAY_PINV2113,Payment for PINV2113,,18900.0
+7/24/2024,Invoice,Total,PINV2055,Gasoline Delivery,24800.0,
+7/24/2024,Payment,Engen,PAY_PINV2055,Payment for PINV2055,,24800.0
+7/24/2024,Invoice,Total,PINV2091,Gasoline Delivery,16950.0,
+7/24/2024,Payment,Engen,PAY_PINV2091,Payment for PINV2091,,16950.0
+7/25/2024,Invoice,Total,PINV2351,Gasoline Delivery,35700.0,
+7/25/2024,Payment,Engen,PAY_PINV2351,Payment for PINV2351,,35700.0
+7/25/2024,Invoice,Total,PINV2189,Diesel Delivery,35100.0,
+7/25/2024,Payment,Engen,PAY_PINV2189,Payment for PINV2189,,35100.0
+7/25/2024,Invoice,Total,PINV2357,Diesel Delivery,27250.0,
+7/25/2024,Payment,Engen,PAY_PINV2357,Payment for PINV2357,,27250.0
+7/25/2024,Invoice,Total,PINV2366,Gasoline Delivery,35400.0,
+7/25/2024,Payment,Engen,PAY_PINV2366,Payment for PINV2366,,35400.0
+7/25/2024,Invoice,Total,PINV2090,Gasoline Delivery,17850.0,
+7/25/2024,Payment,Engen,PAY_PINV2090,Payment for PINV2090,,17850.0
+7/25/2024,Invoice,Total,PINV2242,Diesel Delivery,27750.0,
+7/25/2024,Payment,Engen,PAY_PINV2242,Payment for PINV2242,,27750.0
+7/25/2024,Invoice,Total,PINV2194,Diesel Delivery,24800.0,
+7/25/2024,Payment,Engen,PAY_PINV2194,Payment for PINV2194,,24800.0
+7/26/2024,Invoice,Total,PINV2136,Gasoline Delivery,24400.0,
+7/26/2024,Payment,Engen,PAY_PINV2136,Payment for PINV2136,,24400.0
+7/26/2024,Invoice,Total,PINV2283,Gasoline Delivery,35400.0,
+7/26/2024,Payment,Engen,PAY_PINV2283,Payment for PINV2283,,35400.0
+7/27/2024,Invoice,Total,PINV2372,Diesel Delivery,34800.0,
+7/27/2024,Payment,Engen,PAY_PINV2372,Payment for PINV2372,,34800.0
+7/27/2024,Invoice,Total,PINV2341,Gasoline Delivery,16500.0,
+7/27/2024,Payment,Engen,PAY_PINV2341,Payment for PINV2341,,16500.0
+7/27/2024,Invoice,Total,PINV2130,Diesel Delivery,29000.0,
+7/27/2024,Payment,Engen,PAY_PINV2130,Payment for PINV2130,,29000.0
+7/27/2024,Invoice,Total,PINV2140,Gasoline Delivery,37800.0,
+7/27/2024,Payment,Engen,PAY_PINV2140,Payment for PINV2140,,37800.0
+7/27/2024,Invoice,Total,PINV2133,Diesel Delivery,17250.0,
+7/27/2024,Payment,Engen,PAY_PINV2133,Payment for PINV2133,,17250.0
+7/28/2024,Invoice,Total,PINV2540,Gasoline Delivery,17850.0,
+7/28/2024,Payment,Engen,PAY_PINV2540,Payment for PINV2540,,17850.0
+7/28/2024,Invoice,Total,PINV2327,Gasoline Delivery,34200.0,
+7/28/2024,Payment,Engen,PAY_PINV2327,Payment for PINV2327,,34200.0
+7/28/2024,Invoice,Total,PINV2054,Diesel Delivery,25000.0,
+7/28/2024,Payment,Engen,PAY_PINV2054,Payment for PINV2054,,25000.0
+7/28/2024,Invoice,Total,PINV2135,Gasoline Delivery,19950.0,
+7/28/2024,Payment,Engen,PAY_PINV2135,Payment for PINV2135,,19950.0
+7/28/2024,Invoice,Total,PINV2189,Gasoline Delivery,19050.0,
+7/28/2024,Payment,Engen,PAY_PINV2189,Payment for PINV2189,,19050.0
+7/28/2024,Invoice,Total,PINV2142,Diesel Delivery,27750.0,
+7/28/2024,Payment,Engen,PAY_PINV2142,Payment for PINV2142,,27750.0
+7/29/2024,Invoice,Total,PINV2123,Gasoline Delivery,40500.0,
+7/29/2024,Payment,Engen,PAY_PINV2123,Payment for PINV2123,,40500.0
+7/29/2024,Invoice,Total,PINV2324,Diesel Delivery,27750.0,
+7/29/2024,Payment,Engen,PAY_PINV2324,Payment for PINV2324,,27750.0
+7/29/2024,Invoice,Total,PINV2106,Gasoline Delivery,16800.0,
+7/29/2024,Payment,Engen,PAY_PINV2106,Payment for PINV2106,,16800.0
+7/29/2024,Invoice,Total,PINV2396,Diesel Delivery,27000.0,
+7/29/2024,Payment,Engen,PAY_PINV2396,Payment for PINV2396,,27000.0
+7/29/2024,Invoice,Total,PINV2278,Diesel Delivery,28750.0,
+7/29/2024,Payment,Engen,PAY_PINV2278,Payment for PINV2278,,28750.0
+7/30/2024,Invoice,Total,PINV2181,Gasoline Delivery,39000.0,
+7/30/2024,Payment,Engen,PAY_PINV2181,Payment for PINV2181,,39000.0
+7/30/2024,Invoice,Total,PINV2315,Diesel Delivery,22600.0,
+7/30/2024,Payment,Engen,PAY_PINV2315,Payment for PINV2315,,22600.0
+7/30/2024,Invoice,Total,PINV2085,Gasoline Delivery,16950.0,
+7/30/2024,Payment,Engen,PAY_PINV2085,Payment for PINV2085,,16950.0
+7/30/2024,Invoice,Total,PINV2212,Diesel Delivery,17400.0,
+7/30/2024,Payment,Engen,PAY_PINV2212,Payment for PINV2212,,17400.0
+7/30/2024,Invoice,Total,PINV2113,Diesel Delivery,17100.0,
+7/30/2024,Payment,Engen,PAY_PINV2113,Payment for PINV2113,,17100.0
+7/30/2024,Invoice,Total,PINV2197,Gasoline Delivery,39600.0,
+7/30/2024,Payment,Engen,PAY_PINV2197,Payment for PINV2197,,39600.0
+7/31/2024,Invoice,Total,PINV2307,Gasoline Delivery,35700.0,
+7/31/2024,Payment,Engen,PAY_PINV2307,Payment for PINV2307,,35700.0
+7/31/2024,Invoice,Total,PINV2162,Diesel Delivery,18300.0,
+7/31/2024,Payment,Engen,PAY_PINV2162,Payment for PINV2162,,18300.0
+7/31/2024,Invoice,Total,PINV2549,Gasoline Delivery,18600.0,
+7/31/2024,Payment,Engen,PAY_PINV2549,Payment for PINV2549,,18600.0
+7/31/2024,Invoice,Total,PINV2071,Gasoline Delivery,28250.0,
+7/31/2024,Payment,Engen,PAY_PINV2071,Payment for PINV2071,,28250.0
+7/31/2024,Invoice,Total,PINV2432,Gasoline Delivery,22800.0,
+7/31/2024,Payment,Engen,PAY_PINV2432,Payment for PINV2432,,22800.0
+7/31/2024,Invoice,Total,PINV2320,Gasoline Delivery,23400.0,
+7/31/2024,Payment,Engen,PAY_PINV2320,Payment for PINV2320,,23400.0
+7/31/2024,Invoice,Total,PINV2154,Diesel Delivery,17550.0,
+7/31/2024,Payment,Engen,PAY_PINV2154,Payment for PINV2154,,17550.0
+8/1/2024,Invoice,Total,PINV2408,Gasoline Delivery,36900.0,
+8/1/2024,Payment,Engen,PAY_PINV2408,Payment for PINV2408,,36900.0
+8/1/2024,Invoice,Total,PINV2199,Gasoline Delivery,31250.0,
+8/1/2024,Payment,Engen,PAY_PINV2199,Payment for PINV2199,,31250.0
+8/1/2024,Invoice,Total,PINV2225,Diesel Delivery,16950.0,
+8/1/2024,Payment,Engen,PAY_PINV2225,Payment for PINV2225,,16950.0
+8/1/2024,Invoice,Total,PINV2150,Gasoline Delivery,39900.0,
+8/1/2024,Payment,Engen,PAY_PINV2150,Payment for PINV2150,,39900.0
+8/1/2024,Invoice,Total,PINV2531,Gasoline Delivery,19050.0,
+8/1/2024,Payment,Engen,PAY_PINV2531,Payment for PINV2531,,19050.0
+8/1/2024,Invoice,Total,PINV2088,Gasoline Delivery,23200.0,
+8/1/2024,Payment,Engen,PAY_PINV2088,Payment for PINV2088,,23200.0
+8/2/2024,Invoice,Total,PINV2545,Gasoline Delivery,30000.0,
+8/2/2024,Payment,Engen,PAY_PINV2545,Payment for PINV2545,,30000.0
+8/2/2024,Invoice,Total,PINV2039,Gasoline Delivery,18600.0,
+8/2/2024,Payment,Engen,PAY_PINV2039,Payment for PINV2039,,18600.0
+8/2/2024,Invoice,Total,PINV2041,Gasoline Delivery,28750.0,
+8/2/2024,Payment,Engen,PAY_PINV2041,Payment for PINV2041,,28750.0
+8/2/2024,Invoice,Total,PINV2499,Gasoline Delivery,18750.0,
+8/2/2024,Payment,Engen,PAY_PINV2499,Payment for PINV2499,,18750.0
+8/2/2024,Invoice,Total,PINV2399,Diesel Delivery,32000.0,
+8/2/2024,Payment,Engen,PAY_PINV2399,Payment for PINV2399,,32000.0
+8/2/2024,Invoice,Total,PINV2032,Diesel Delivery,16800.0,
+8/2/2024,Payment,Engen,PAY_PINV2032,Payment for PINV2032,,16800.0
+8/3/2024,Invoice,Total,PINV2020,Diesel Delivery,30500.0,
+8/3/2024,Payment,Engen,PAY_PINV2020,Payment for PINV2020,,30500.0
+8/3/2024,Invoice,Total,PINV2027,Diesel Delivery,32700.0,
+8/3/2024,Payment,Engen,PAY_PINV2027,Payment for PINV2027,,32700.0
+8/4/2024,Invoice,Total,PINV2053,Diesel Delivery,21800.0,
+8/4/2024,Payment,Engen,PAY_PINV2053,Payment for PINV2053,,21800.0
+8/4/2024,Invoice,Total,PINV2394,Gasoline Delivery,28000.0,
+8/4/2024,Payment,Engen,PAY_PINV2394,Payment for PINV2394,,28000.0
+8/4/2024,Invoice,Total,PINV2033,Diesel Delivery,16050.0,
+8/4/2024,Payment,Engen,PAY_PINV2033,Payment for PINV2033,,16050.0
+8/4/2024,Invoice,Total,PINV2457,Gasoline Delivery,33500.0,
+8/4/2024,Payment,Engen,PAY_PINV2457,Payment for PINV2457,,33500.0
+8/4/2024,Invoice,Total,PINV2343,Diesel Delivery,29750.0,
+8/4/2024,Payment,Engen,PAY_PINV2343,Payment for PINV2343,,29750.0
+8/4/2024,Invoice,Total,PINV2311,Diesel Delivery,24000.0,
+8/4/2024,Payment,Engen,PAY_PINV2311,Payment for PINV2311,,24000.0
+8/4/2024,Invoice,Total,PINV2282,Gasoline Delivery,39900.0,
+8/4/2024,Payment,Engen,PAY_PINV2282,Payment for PINV2282,,39900.0
+8/5/2024,Invoice,Total,PINV2141,Gasoline Delivery,17100.0,
+8/5/2024,Payment,Engen,PAY_PINV2141,Payment for PINV2141,,17100.0
+8/5/2024,Invoice,Total,PINV2101,Gasoline Delivery,30000.0,
+8/5/2024,Payment,Engen,PAY_PINV2101,Payment for PINV2101,,30000.0
+8/5/2024,Invoice,Total,PINV2514,Gasoline Delivery,25200.0,
+8/5/2024,Payment,Engen,PAY_PINV2514,Payment for PINV2514,,25200.0
+8/5/2024,Invoice,Total,PINV2463,Diesel Delivery,22600.0,
+8/5/2024,Payment,Engen,PAY_PINV2463,Payment for PINV2463,,22600.0
+8/5/2024,Invoice,Total,PINV2337,Gasoline Delivery,37200.0,
+8/5/2024,Payment,Engen,PAY_PINV2337,Payment for PINV2337,,37200.0
+8/5/2024,Invoice,Total,PINV2027,Gasoline Delivery,39000.0,
+8/5/2024,Payment,Engen,PAY_PINV2027,Payment for PINV2027,,39000.0
+8/5/2024,Invoice,Total,PINV2532,Gasoline Delivery,17850.0,
+8/5/2024,Payment,Engen,PAY_PINV2532,Payment for PINV2532,,17850.0
+8/5/2024,Invoice,Total,PINV2541,Gasoline Delivery,16800.0,
+8/5/2024,Payment,Engen,PAY_PINV2541,Payment for PINV2541,,16800.0
+8/5/2024,Invoice,Total,PINV2421,Diesel Delivery,19050.0,
+8/5/2024,Payment,Engen,PAY_PINV2421,Payment for PINV2421,,19050.0
+8/5/2024,Invoice,Total,PINV2437,Gasoline Delivery,29250.0,
+8/5/2024,Payment,Engen,PAY_PINV2437,Payment for PINV2437,,29250.0
+8/6/2024,Invoice,Total,PINV2173,Gasoline Delivery,33600.0,
+8/6/2024,Payment,Engen,PAY_PINV2173,Payment for PINV2173,,33600.0
+8/6/2024,Invoice,Total,PINV2238,Diesel Delivery,16950.0,
+8/6/2024,Payment,Engen,PAY_PINV2238,Payment for PINV2238,,16950.0
+8/6/2024,Invoice,Total,PINV2288,Diesel Delivery,27000.0,
+8/6/2024,Payment,Engen,PAY_PINV2288,Payment for PINV2288,,27000.0
+8/6/2024,Invoice,Total,PINV2349,Gasoline Delivery,17100.0,
+8/6/2024,Payment,Engen,PAY_PINV2349,Payment for PINV2349,,17100.0
+8/6/2024,Invoice,Total,PINV2092,Diesel Delivery,26750.0,
+8/6/2024,Payment,Engen,PAY_PINV2092,Payment for PINV2092,,26750.0
+8/6/2024,Invoice,Total,PINV2190,Diesel Delivery,35100.0,
+8/6/2024,Payment,Engen,PAY_PINV2190,Payment for PINV2190,,35100.0
+8/6/2024,Invoice,Total,PINV2143,Gasoline Delivery,37200.0,
+8/6/2024,Payment,Engen,PAY_PINV2143,Payment for PINV2143,,37200.0
+8/6/2024,Invoice,Total,PINV2370,Diesel Delivery,15900.0,
+8/6/2024,Payment,Engen,PAY_PINV2370,Payment for PINV2370,,15900.0
+8/7/2024,Invoice,Total,PINV2255,Diesel Delivery,31500.0,
+8/7/2024,Payment,Engen,PAY_PINV2255,Payment for PINV2255,,31500.0
+8/7/2024,Invoice,Total,PINV2322,Diesel Delivery,25600.0,
+8/7/2024,Payment,Engen,PAY_PINV2322,Payment for PINV2322,,25600.0
+8/7/2024,Invoice,Total,PINV2184,Diesel Delivery,24000.0,
+8/7/2024,Payment,Engen,PAY_PINV2184,Payment for PINV2184,,24000.0
+8/7/2024,Invoice,Total,PINV2183,Gasoline Delivery,27750.0,
+8/7/2024,Payment,Engen,PAY_PINV2183,Payment for PINV2183,,27750.0
+8/7/2024,Invoice,Total,PINV2262,Diesel Delivery,23200.0,
+8/7/2024,Payment,Engen,PAY_PINV2262,Payment for PINV2262,,23200.0
+8/7/2024,Invoice,Total,PINV2508,Gasoline Delivery,19650.0,
+8/7/2024,Payment,Engen,PAY_PINV2508,Payment for PINV2508,,19650.0
+8/8/2024,Invoice,Total,PINV2123,Diesel Delivery,31750.0,
+8/8/2024,Payment,Engen,PAY_PINV2123,Payment for PINV2123,,31750.0
+8/9/2024,Invoice,Total,PINV2126,Gasoline Delivery,18600.0,
+8/9/2024,Payment,Engen,PAY_PINV2126,Payment for PINV2126,,18600.0
+8/9/2024,Invoice,Total,PINV2081,Diesel Delivery,23200.0,
+8/9/2024,Payment,Engen,PAY_PINV2081,Payment for PINV2081,,23200.0
+8/9/2024,Invoice,Total,PINV2299,Diesel Delivery,31800.0,
+8/9/2024,Payment,Engen,PAY_PINV2299,Payment for PINV2299,,31800.0
+8/9/2024,Invoice,Total,PINV2333,Diesel Delivery,31500.0,
+8/9/2024,Payment,Engen,PAY_PINV2333,Payment for PINV2333,,31500.0
+8/9/2024,Invoice,Total,PINV2229,Gasoline Delivery,23800.0,
+8/9/2024,Payment,Engen,PAY_PINV2229,Payment for PINV2229,,23800.0
+8/10/2024,Invoice,Total,PINV2245,Gasoline Delivery,18450.0,
+8/10/2024,Payment,Engen,PAY_PINV2245,Payment for PINV2245,,18450.0
+8/10/2024,Invoice,Total,PINV2533,Gasoline Delivery,17100.0,
+8/10/2024,Payment,Engen,PAY_PINV2533,Payment for PINV2533,,17100.0
+8/10/2024,Invoice,Total,PINV2143,Diesel Delivery,32250.0,
+8/10/2024,Payment,Engen,PAY_PINV2143,Payment for PINV2143,,32250.0
+8/11/2024,Invoice,Total,PINV2525,Gasoline Delivery,23200.0,
+8/11/2024,Payment,Engen,PAY_PINV2525,Payment for PINV2525,,23200.0
+8/11/2024,Invoice,Total,PINV2354,Diesel Delivery,18900.0,
+8/11/2024,Payment,Engen,PAY_PINV2354,Payment for PINV2354,,18900.0
+8/11/2024,Invoice,Total,PINV2097,Gasoline Delivery,22200.0,
+8/11/2024,Payment,Engen,PAY_PINV2097,Payment for PINV2097,,22200.0
+8/11/2024,Invoice,Total,PINV2177,Diesel Delivery,30250.0,
+8/11/2024,Payment,Engen,PAY_PINV2177,Payment for PINV2177,,30250.0
+8/11/2024,Invoice,Total,PINV2128,Gasoline Delivery,34800.0,
+8/11/2024,Payment,Engen,PAY_PINV2128,Payment for PINV2128,,34800.0
+8/11/2024,Invoice,Total,PINV2420,Diesel Delivery,16350.0,
+8/11/2024,Payment,Engen,PAY_PINV2420,Payment for PINV2420,,16350.0
+8/11/2024,Invoice,Total,PINV2488,Gasoline Delivery,26200.0,
+8/11/2024,Payment,Engen,PAY_PINV2488,Payment for PINV2488,,26200.0
+8/11/2024,Invoice,Total,PINV2023,Gasoline Delivery,33500.0,
+8/11/2024,Payment,Engen,PAY_PINV2023,Payment for PINV2023,,33500.0
+8/11/2024,Invoice,Total,PINV2485,Gasoline Delivery,29500.0,
+8/11/2024,Payment,Engen,PAY_PINV2485,Payment for PINV2485,,29500.0
+8/11/2024,Invoice,Total,PINV2304,Diesel Delivery,19500.0,
+8/11/2024,Payment,Engen,PAY_PINV2304,Payment for PINV2304,,19500.0
+8/12/2024,Invoice,Total,PINV2260,Gasoline Delivery,18450.0,
+8/12/2024,Payment,Engen,PAY_PINV2260,Payment for PINV2260,,18450.0
+8/12/2024,Invoice,Total,PINV2354,Gasoline Delivery,38400.0,
+8/12/2024,Payment,Engen,PAY_PINV2354,Payment for PINV2354,,38400.0
+8/12/2024,Invoice,Total,PINV2005,Gasoline Delivery,32000.0,
+8/12/2024,Payment,Engen,PAY_PINV2005,Payment for PINV2005,,32000.0
+8/12/2024,Invoice,Total,PINV2320,Diesel Delivery,23800.0,
+8/12/2024,Payment,Engen,PAY_PINV2320,Payment for PINV2320,,23800.0
+8/12/2024,Invoice,Total,PINV2358,Gasoline Delivery,30500.0,
+8/12/2024,Payment,Engen,PAY_PINV2358,Payment for PINV2358,,30500.0
+8/12/2024,Invoice,Total,PINV2505,Gasoline Delivery,17550.0,
+8/12/2024,Payment,Engen,PAY_PINV2505,Payment for PINV2505,,17550.0
+8/12/2024,Invoice,Total,PINV2227,Gasoline Delivery,37800.0,
+8/12/2024,Payment,Engen,PAY_PINV2227,Payment for PINV2227,,37800.0
+8/12/2024,Invoice,Total,PINV2384,Diesel Delivery,25400.0,
+8/12/2024,Payment,Engen,PAY_PINV2384,Payment for PINV2384,,25400.0
+8/13/2024,Invoice,Total,PINV2161,Gasoline Delivery,28000.0,
+8/13/2024,Payment,Engen,PAY_PINV2161,Payment for PINV2161,,28000.0
+8/13/2024,Invoice,Total,PINV2259,Gasoline Delivery,19950.0,
+8/13/2024,Payment,Engen,PAY_PINV2259,Payment for PINV2259,,19950.0
+8/13/2024,Invoice,Total,PINV2382,Gasoline Delivery,30500.0,
+8/13/2024,Payment,Engen,PAY_PINV2382,Payment for PINV2382,,30500.0
+8/13/2024,Invoice,Total,PINV2031,Diesel Delivery,37500.0,
+8/13/2024,Payment,Engen,PAY_PINV2031,Payment for PINV2031,,37500.0
+8/13/2024,Invoice,Total,PINV2456,Diesel Delivery,31000.0,
+8/13/2024,Payment,Engen,PAY_PINV2456,Payment for PINV2456,,31000.0
+8/13/2024,Invoice,Total,PINV2290,Gasoline Delivery,32500.0,
+8/13/2024,Payment,Engen,PAY_PINV2290,Payment for PINV2290,,32500.0
+8/14/2024,Invoice,Total,PINV2273,Gasoline Delivery,33250.0,
+8/14/2024,Payment,Engen,PAY_PINV2273,Payment for PINV2273,,33250.0
+8/14/2024,Invoice,Total,PINV2013,Diesel Delivery,38100.0,
+8/14/2024,Payment,Engen,PAY_PINV2013,Payment for PINV2013,,38100.0
+8/14/2024,Invoice,Total,PINV2381,Diesel Delivery,23000.0,
+8/14/2024,Payment,Engen,PAY_PINV2381,Payment for PINV2381,,23000.0
+8/14/2024,Invoice,Total,PINV2340,Diesel Delivery,26750.0,
+8/14/2024,Payment,Engen,PAY_PINV2340,Payment for PINV2340,,26750.0
+8/14/2024,Invoice,Total,PINV2109,Diesel Delivery,26000.0,
+8/14/2024,Payment,Engen,PAY_PINV2109,Payment for PINV2109,,26000.0
+8/14/2024,Invoice,Total,PINV2310,Diesel Delivery,38700.0,
+8/14/2024,Payment,Engen,PAY_PINV2310,Payment for PINV2310,,38700.0
+8/15/2024,Invoice,Total,PINV2424,Diesel Delivery,21000.0,
+8/15/2024,Payment,Engen,PAY_PINV2424,Payment for PINV2424,,21000.0
+8/15/2024,Invoice,Total,PINV2011,Gasoline Delivery,26600.0,
+8/15/2024,Payment,Engen,PAY_PINV2011,Payment for PINV2011,,26600.0
+8/15/2024,Invoice,Total,PINV2067,Gasoline Delivery,28500.0,
+8/15/2024,Payment,Engen,PAY_PINV2067,Payment for PINV2067,,28500.0
+8/15/2024,Invoice,Total,PINV2411,Gasoline Delivery,24000.0,
+8/15/2024,Payment,Engen,PAY_PINV2411,Payment for PINV2411,,24000.0
+8/15/2024,Invoice,Total,PINV2331,Gasoline Delivery,17100.0,
+8/15/2024,Payment,Engen,PAY_PINV2331,Payment for PINV2331,,17100.0
+8/15/2024,Invoice,Total,PINV2275,Diesel Delivery,22000.0,
+8/15/2024,Payment,Engen,PAY_PINV2275,Payment for PINV2275,,22000.0
+8/15/2024,Invoice,Total,PINV2234,Gasoline Delivery,36600.0,
+8/15/2024,Payment,Engen,PAY_PINV2234,Payment for PINV2234,,36600.0
+8/15/2024,Invoice,Total,PINV2340,Gasoline Delivery,18300.0,
+8/15/2024,Payment,Engen,PAY_PINV2340,Payment for PINV2340,,18300.0
+8/16/2024,Invoice,Total,PINV2227,Diesel Delivery,26750.0,
+8/16/2024,Payment,Engen,PAY_PINV2227,Payment for PINV2227,,26750.0
+8/16/2024,Invoice,Total,PINV2152,Diesel Delivery,19200.0,
+8/16/2024,Payment,Engen,PAY_PINV2152,Payment for PINV2152,,19200.0
+8/16/2024,Invoice,Total,PINV2418,Diesel Delivery,21000.0,
+8/16/2024,Payment,Engen,PAY_PINV2418,Payment for PINV2418,,21000.0
+8/16/2024,Invoice,Total,PINV2025,Gasoline Delivery,18900.0,
+8/16/2024,Payment,Engen,PAY_PINV2025,Payment for PINV2025,,18900.0
+8/16/2024,Invoice,Total,PINV2219,Gasoline Delivery,18150.0,
+8/16/2024,Payment,Engen,PAY_PINV2219,Payment for PINV2219,,18150.0
+8/16/2024,Invoice,Total,PINV2078,Gasoline Delivery,25000.0,
+8/16/2024,Payment,Engen,PAY_PINV2078,Payment for PINV2078,,25000.0
+8/17/2024,Invoice,Total,PINV2348,Gasoline Delivery,17550.0,
+8/17/2024,Payment,Engen,PAY_PINV2348,Payment for PINV2348,,17550.0
+8/17/2024,Invoice,Total,PINV2535,Gasoline Delivery,23800.0,
+8/17/2024,Payment,Engen,PAY_PINV2535,Payment for PINV2535,,23800.0
+8/17/2024,Invoice,Total,PINV2060,Gasoline Delivery,33600.0,
+8/17/2024,Payment,Engen,PAY_PINV2060,Payment for PINV2060,,33600.0
+8/17/2024,Invoice,Total,PINV2512,Gasoline Delivery,16800.0,
+8/17/2024,Payment,Engen,PAY_PINV2512,Payment for PINV2512,,16800.0
+8/17/2024,Invoice,Total,PINV2166,Diesel Delivery,25200.0,
+8/17/2024,Payment,Engen,PAY_PINV2166,Payment for PINV2166,,25200.0
+8/17/2024,Invoice,Total,PINV2359,Diesel Delivery,32400.0,
+8/17/2024,Payment,Engen,PAY_PINV2359,Payment for PINV2359,,32400.0
+8/17/2024,Invoice,Total,PINV2208,Diesel Delivery,21400.0,
+8/17/2024,Payment,Engen,PAY_PINV2208,Payment for PINV2208,,21400.0
+8/18/2024,Invoice,Total,PINV2066,Diesel Delivery,34500.0,
+8/18/2024,Payment,Engen,PAY_PINV2066,Payment for PINV2066,,34500.0
+8/18/2024,Invoice,Total,PINV2270,Gasoline Delivery,34200.0,
+8/18/2024,Payment,Engen,PAY_PINV2270,Payment for PINV2270,,34200.0
+8/18/2024,Invoice,Total,PINV2127,Diesel Delivery,24800.0,
+8/18/2024,Payment,Engen,PAY_PINV2127,Payment for PINV2127,,24800.0
+8/19/2024,Invoice,Total,PINV2518,Gasoline Delivery,18150.0,
+8/19/2024,Payment,Engen,PAY_PINV2518,Payment for PINV2518,,18150.0
+8/19/2024,Invoice,Total,PINV2492,Gasoline Delivery,26000.0,
+8/19/2024,Payment,Engen,PAY_PINV2492,Payment for PINV2492,,26000.0
+8/19/2024,Invoice,Total,PINV2435,Gasoline Delivery,22600.0,
+8/19/2024,Payment,Engen,PAY_PINV2435,Payment for PINV2435,,22600.0
+8/19/2024,Invoice,Total,PINV2302,Gasoline Delivery,37800.0,
+8/19/2024,Payment,Engen,PAY_PINV2302,Payment for PINV2302,,37800.0
+8/19/2024,Invoice,Total,PINV2199,Diesel Delivery,32000.0,
+8/19/2024,Payment,Engen,PAY_PINV2199,Payment for PINV2199,,32000.0
+8/19/2024,Invoice,Total,PINV2517,Gasoline Delivery,33000.0,
+8/19/2024,Payment,Engen,PAY_PINV2517,Payment for PINV2517,,33000.0
+8/19/2024,Invoice,Total,PINV2426,Gasoline Delivery,30000.0,
+8/19/2024,Payment,Engen,PAY_PINV2426,Payment for PINV2426,,30000.0
+8/19/2024,Invoice,Total,PINV2272,Gasoline Delivery,18600.0,
+8/19/2024,Payment,Engen,PAY_PINV2272,Payment for PINV2272,,18600.0
+8/19/2024,Invoice,Total,PINV2083,Diesel Delivery,22800.0,
+8/19/2024,Payment,Engen,PAY_PINV2083,Payment for PINV2083,,22800.0
+8/19/2024,Invoice,Total,PINV2171,Gasoline Delivery,39600.0,
+8/19/2024,Payment,Engen,PAY_PINV2171,Payment for PINV2171,,39600.0
+8/19/2024,Invoice,Total,PINV2463,Gasoline Delivery,31750.0,
+8/19/2024,Payment,Engen,PAY_PINV2463,Payment for PINV2463,,31750.0
+8/20/2024,Invoice,Total,PINV2232,Diesel Delivery,26250.0,
+8/20/2024,Payment,Engen,PAY_PINV2232,Payment for PINV2232,,26250.0
+8/20/2024,Invoice,Total,PINV2272,Diesel Delivery,37200.0,
+8/20/2024,Payment,Engen,PAY_PINV2272,Payment for PINV2272,,37200.0
+8/21/2024,Invoice,Total,PINV2398,Gasoline Delivery,32750.0,
+8/21/2024,Payment,Engen,PAY_PINV2398,Payment for PINV2398,,32750.0
+8/21/2024,Invoice,Total,PINV2416,Diesel Delivery,16500.0,
+8/21/2024,Payment,Engen,PAY_PINV2416,Payment for PINV2416,,16500.0
+8/21/2024,Invoice,Total,PINV2374,Diesel Delivery,19200.0,
+8/21/2024,Payment,Engen,PAY_PINV2374,Payment for PINV2374,,19200.0
+8/21/2024,Invoice,Total,PINV2265,Gasoline Delivery,38700.0,
+8/21/2024,Payment,Engen,PAY_PINV2265,Payment for PINV2265,,38700.0
+8/22/2024,Invoice,Total,PINV2164,Gasoline Delivery,35700.0,
+8/22/2024,Payment,Engen,PAY_PINV2164,Payment for PINV2164,,35700.0
+8/22/2024,Invoice,Total,PINV2439,Diesel Delivery,33000.0,
+8/22/2024,Payment,Engen,PAY_PINV2439,Payment for PINV2439,,33000.0
+8/22/2024,Invoice,Total,PINV2446,Diesel Delivery,28500.0,
+8/22/2024,Payment,Engen,PAY_PINV2446,Payment for PINV2446,,28500.0
+8/23/2024,Invoice,Total,PINV2516,Gasoline Delivery,39900.0,
+8/23/2024,Payment,Engen,PAY_PINV2516,Payment for PINV2516,,39900.0
+8/23/2024,Invoice,Total,PINV2359,Gasoline Delivery,16500.0,
+8/23/2024,Payment,Engen,PAY_PINV2359,Payment for PINV2359,,16500.0
+8/23/2024,Invoice,Total,PINV2372,Gasoline Delivery,19500.0,
+8/23/2024,Payment,Engen,PAY_PINV2372,Payment for PINV2372,,19500.0
+8/23/2024,Invoice,Total,PINV2000,Gasoline Delivery,17100.0,
+8/23/2024,Payment,Engen,PAY_PINV2000,Payment for PINV2000,,17100.0
+8/23/2024,Invoice,Total,PINV2067,Diesel Delivery,19050.0,
+8/23/2024,Payment,Engen,PAY_PINV2067,Payment for PINV2067,,19050.0
+8/23/2024,Invoice,Total,PINV2262,Gasoline Delivery,19350.0,
+8/23/2024,Payment,Engen,PAY_PINV2262,Payment for PINV2262,,19350.0
+8/23/2024,Invoice,Total,PINV2454,Diesel Delivery,29000.0,
+8/23/2024,Payment,Engen,PAY_PINV2454,Payment for PINV2454,,29000.0
+8/23/2024,Invoice,Total,PINV2415,Diesel Delivery,25000.0,
+8/23/2024,Payment,Engen,PAY_PINV2415,Payment for PINV2415,,25000.0
+8/24/2024,Invoice,Total,PINV2267,Gasoline Delivery,25600.0,
+8/24/2024,Payment,Engen,PAY_PINV2267,Payment for PINV2267,,25600.0
+8/24/2024,Invoice,Total,PINV2386,Diesel Delivery,24600.0,
+8/24/2024,Payment,Engen,PAY_PINV2386,Payment for PINV2386,,24600.0
+8/24/2024,Invoice,Total,PINV2269,Gasoline Delivery,26400.0,
+8/24/2024,Payment,Engen,PAY_PINV2269,Payment for PINV2269,,26400.0
+8/24/2024,Invoice,Total,PINV2312,Gasoline Delivery,30750.0,
+8/24/2024,Payment,Engen,PAY_PINV2312,Payment for PINV2312,,30750.0
+8/24/2024,Invoice,Total,PINV2010,Gasoline Delivery,26400.0,
+8/24/2024,Payment,Engen,PAY_PINV2010,Payment for PINV2010,,26400.0
+8/24/2024,Invoice,Total,PINV2462,Diesel Delivery,30500.0,
+8/24/2024,Payment,Engen,PAY_PINV2462,Payment for PINV2462,,30500.0
+8/25/2024,Invoice,Total,PINV2313,Diesel Delivery,16950.0,
+8/25/2024,Payment,Engen,PAY_PINV2313,Payment for PINV2313,,16950.0
+8/25/2024,Invoice,Total,PINV2426,Diesel Delivery,18450.0,
+8/25/2024,Payment,Engen,PAY_PINV2426,Payment for PINV2426,,18450.0
+8/25/2024,Invoice,Total,PINV2001,Gasoline Delivery,40200.0,
+8/25/2024,Payment,Engen,PAY_PINV2001,Payment for PINV2001,,40200.0
+8/25/2024,Invoice,Total,PINV2040,Diesel Delivery,23000.0,
+8/25/2024,Payment,Engen,PAY_PINV2040,Payment for PINV2040,,23000.0
+8/25/2024,Invoice,Total,PINV2046,Gasoline Delivery,19950.0,
+8/25/2024,Payment,Engen,PAY_PINV2046,Payment for PINV2046,,19950.0
+8/25/2024,Invoice,Total,PINV2376,Diesel Delivery,16650.0,
+8/25/2024,Payment,Engen,PAY_PINV2376,Payment for PINV2376,,16650.0
+8/25/2024,Invoice,Total,PINV2336,Diesel Delivery,16650.0,
+8/25/2024,Payment,Engen,PAY_PINV2336,Payment for PINV2336,,16650.0
+8/25/2024,Invoice,Total,PINV2188,Diesel Delivery,38400.0,
+8/25/2024,Payment,Engen,PAY_PINV2188,Payment for PINV2188,,38400.0
+8/26/2024,Invoice,Total,PINV2271,Diesel Delivery,29250.0,
+8/26/2024,Payment,Engen,PAY_PINV2271,Payment for PINV2271,,29250.0
+8/26/2024,Invoice,Total,PINV2303,Diesel Delivery,16800.0,
+8/26/2024,Payment,Engen,PAY_PINV2303,Payment for PINV2303,,16800.0
+8/26/2024,Invoice,Total,PINV2538,Gasoline Delivery,17550.0,
+8/26/2024,Payment,Engen,PAY_PINV2538,Payment for PINV2538,,17550.0
+8/26/2024,Invoice,Total,PINV2429,Gasoline Delivery,19200.0,
+8/26/2024,Payment,Engen,PAY_PINV2429,Payment for PINV2429,,19200.0
+8/27/2024,Invoice,Total,PINV2236,Gasoline Delivery,39900.0,
+8/27/2024,Payment,Engen,PAY_PINV2236,Payment for PINV2236,,39900.0
+8/27/2024,Invoice,Total,PINV2174,Diesel Delivery,34200.0,
+8/27/2024,Payment,Engen,PAY_PINV2174,Payment for PINV2174,,34200.0
+8/27/2024,Invoice,Total,PINV2238,Gasoline Delivery,29250.0,
+8/27/2024,Payment,Engen,PAY_PINV2238,Payment for PINV2238,,29250.0
+8/28/2024,Invoice,Total,PINV2172,Gasoline Delivery,17400.0,
+8/28/2024,Payment,Engen,PAY_PINV2172,Payment for PINV2172,,17400.0
+8/28/2024,Invoice,Total,PINV2214,Gasoline Delivery,25000.0,
+8/28/2024,Payment,Engen,PAY_PINV2214,Payment for PINV2214,,25000.0
+8/28/2024,Invoice,Total,PINV2336,Gasoline Delivery,37200.0,
+8/28/2024,Payment,Engen,PAY_PINV2336,Payment for PINV2336,,37200.0
+8/28/2024,Invoice,Total,PINV2223,Gasoline Delivery,24600.0,
+8/28/2024,Payment,Engen,PAY_PINV2223,Payment for PINV2223,,24600.0
+8/28/2024,Invoice,Total,PINV2297,Diesel Delivery,21800.0,
+8/28/2024,Payment,Engen,PAY_PINV2297,Payment for PINV2297,,21800.0
+8/28/2024,Invoice,Total,PINV2009,Gasoline Delivery,38100.0,
+8/28/2024,Payment,Engen,PAY_PINV2009,Payment for PINV2009,,38100.0
+8/29/2024,Invoice,Total,PINV2241,Diesel Delivery,19200.0,
+8/29/2024,Payment,Engen,PAY_PINV2241,Payment for PINV2241,,19200.0
+8/29/2024,Invoice,Total,PINV2274,Gasoline Delivery,26400.0,
+8/29/2024,Payment,Engen,PAY_PINV2274,Payment for PINV2274,,26400.0
+8/29/2024,Invoice,Total,PINV2175,Diesel Delivery,24600.0,
+8/29/2024,Payment,Engen,PAY_PINV2175,Payment for PINV2175,,24600.0
+8/29/2024,Invoice,Total,PINV2347,Gasoline Delivery,19050.0,
+8/29/2024,Payment,Engen,PAY_PINV2347,Payment for PINV2347,,19050.0
+8/29/2024,Invoice,Total,PINV2161,Diesel Delivery,23200.0,
+8/29/2024,Payment,Engen,PAY_PINV2161,Payment for PINV2161,,23200.0
+8/29/2024,Invoice,Total,PINV2391,Gasoline Delivery,39000.0,
+8/29/2024,Payment,Engen,PAY_PINV2391,Payment for PINV2391,,39000.0
+8/29/2024,Invoice,Total,PINV2483,Gasoline Delivery,25200.0,
+8/29/2024,Payment,Engen,PAY_PINV2483,Payment for PINV2483,,25200.0
+8/30/2024,Invoice,Total,PINV2556,Gasoline Delivery,40200.0,
+8/30/2024,Payment,Engen,PAY_PINV2556,Payment for PINV2556,,40200.0
+8/30/2024,Invoice,Total,PINV2288,Gasoline Delivery,34800.0,
+8/30/2024,Payment,Engen,PAY_PINV2288,Payment for PINV2288,,34800.0
+8/30/2024,Invoice,Total,PINV2142,Gasoline Delivery,28750.0,
+8/30/2024,Payment,Engen,PAY_PINV2142,Payment for PINV2142,,28750.0
+8/30/2024,Invoice,Total,PINV2476,Gasoline Delivery,29000.0,
+8/30/2024,Payment,Engen,PAY_PINV2476,Payment for PINV2476,,29000.0
+8/31/2024,Invoice,Total,PINV2209,Gasoline Delivery,24800.0,
+8/31/2024,Payment,Engen,PAY_PINV2209,Payment for PINV2209,,24800.0
+8/31/2024,Invoice,Total,PINV2160,Diesel Delivery,31250.0,
+8/31/2024,Payment,Engen,PAY_PINV2160,Payment for PINV2160,,31250.0
+8/31/2024,Invoice,Total,PINV2225,Gasoline Delivery,36300.0,
+8/31/2024,Payment,Engen,PAY_PINV2225,Payment for PINV2225,,36300.0
+8/31/2024,Invoice,Total,PINV2344,Diesel Delivery,37800.0,
+8/31/2024,Payment,Engen,PAY_PINV2344,Payment for PINV2344,,37800.0
+9/1/2024,Invoice,Total,PINV2557,Gasoline Delivery,29500.0,
+9/1/2024,Payment,Engen,PAY_PINV2557,Payment for PINV2557,,29500.0
+9/1/2024,Invoice,Total,PINV2339,Diesel Delivery,17850.0,
+9/1/2024,Payment,Engen,PAY_PINV2339,Payment for PINV2339,,17850.0
+9/1/2024,Invoice,Total,PINV2244,Gasoline Delivery,36300.0,
+9/1/2024,Payment,Engen,PAY_PINV2244,Payment for PINV2244,,36300.0
+9/1/2024,Invoice,Total,PINV2451,Diesel Delivery,17700.0,
+9/1/2024,Payment,Engen,PAY_PINV2451,Payment for PINV2451,,17700.0
+9/1/2024,Invoice,Total,PINV2506,Gasoline Delivery,33500.0,
+9/1/2024,Payment,Engen,PAY_PINV2506,Payment for PINV2506,,33500.0
+9/2/2024,Invoice,Total,PINV2296,Diesel Delivery,25600.0,
+9/2/2024,Payment,Engen,PAY_PINV2296,Payment for PINV2296,,25600.0
+9/2/2024,Invoice,Total,PINV2099,Diesel Delivery,25800.0,
+9/2/2024,Payment,Engen,PAY_PINV2099,Payment for PINV2099,,25800.0
+9/2/2024,Invoice,Total,PINV2276,Gasoline Delivery,24400.0,
+9/2/2024,Payment,Engen,PAY_PINV2276,Payment for PINV2276,,24400.0
+9/2/2024,Invoice,Total,PINV2037,Diesel Delivery,24800.0,
+9/2/2024,Payment,Engen,PAY_PINV2037,Payment for PINV2037,,24800.0
+9/2/2024,Invoice,Total,PINV2047,Diesel Delivery,37800.0,
+9/2/2024,Payment,Engen,PAY_PINV2047,Payment for PINV2047,,37800.0
+9/3/2024,Invoice,Total,PINV2306,Gasoline Delivery,29500.0,
+9/3/2024,Payment,Engen,PAY_PINV2306,Payment for PINV2306,,29500.0
+9/3/2024,Invoice,Total,PINV2396,Gasoline Delivery,29000.0,
+9/3/2024,Payment,Engen,PAY_PINV2396,Payment for PINV2396,,29000.0
+9/3/2024,Invoice,Total,PINV2140,Diesel Delivery,30000.0,
+9/3/2024,Payment,Engen,PAY_PINV2140,Payment for PINV2140,,30000.0
+9/3/2024,Invoice,Total,PINV2457,Diesel Delivery,36000.0,
+9/3/2024,Payment,Engen,PAY_PINV2457,Payment for PINV2457,,36000.0
+9/3/2024,Invoice,Total,PINV2308,Diesel Delivery,38400.0,
+9/3/2024,Payment,Engen,PAY_PINV2308,Payment for PINV2308,,38400.0
+9/3/2024,Invoice,Total,PINV2116,Gasoline Delivery,19950.0,
+9/3/2024,Payment,Engen,PAY_PINV2116,Payment for PINV2116,,19950.0
+9/4/2024,Invoice,Total,PINV2047,Gasoline Delivery,27750.0,
+9/4/2024,Payment,Engen,PAY_PINV2047,Payment for PINV2047,,27750.0
+9/4/2024,Invoice,Total,PINV2430,Diesel Delivery,32700.0,
+9/4/2024,Payment,Engen,PAY_PINV2430,Payment for PINV2430,,32700.0
+9/5/2024,Invoice,Total,PINV2447,Gasoline Delivery,40500.0,
+9/5/2024,Payment,Engen,PAY_PINV2447,Payment for PINV2447,,40500.0
+9/5/2024,Invoice,Total,PINV2122,Gasoline Delivery,39900.0,
+9/5/2024,Payment,Engen,PAY_PINV2122,Payment for PINV2122,,39900.0
+9/5/2024,Invoice,Total,PINV2459,Gasoline Delivery,24600.0,
+9/5/2024,Payment,Engen,PAY_PINV2459,Payment for PINV2459,,24600.0
+9/6/2024,Invoice,Total,PINV2230,Diesel Delivery,19350.0,
+9/6/2024,Payment,Engen,PAY_PINV2230,Payment for PINV2230,,19350.0
+9/6/2024,Invoice,Total,PINV2180,Gasoline Delivery,19500.0,
+9/6/2024,Payment,Engen,PAY_PINV2180,Payment for PINV2180,,19500.0
+9/6/2024,Invoice,Total,PINV2298,Gasoline Delivery,22800.0,
+9/6/2024,Payment,Engen,PAY_PINV2298,Payment for PINV2298,,22800.0
+9/7/2024,Invoice,Total,PINV2077,Gasoline Delivery,18150.0,
+9/7/2024,Payment,Engen,PAY_PINV2077,Payment for PINV2077,,18150.0
+9/7/2024,Invoice,Total,PINV2441,Gasoline Delivery,19650.0,
+9/7/2024,Payment,Engen,PAY_PINV2441,Payment for PINV2441,,19650.0
+9/7/2024,Invoice,Total,PINV2200,Diesel Delivery,32000.0,
+9/7/2024,Payment,Engen,PAY_PINV2200,Payment for PINV2200,,32000.0
+9/7/2024,Invoice,Total,PINV2310,Gasoline Delivery,29000.0,
+9/7/2024,Payment,Engen,PAY_PINV2310,Payment for PINV2310,,29000.0
+9/7/2024,Invoice,Total,PINV2087,Diesel Delivery,19050.0,
+9/7/2024,Payment,Engen,PAY_PINV2087,Payment for PINV2087,,19050.0
+9/8/2024,Invoice,Total,PINV2353,Gasoline Delivery,19500.0,
+9/8/2024,Payment,Engen,PAY_PINV2353,Payment for PINV2353,,19500.0
+9/8/2024,Invoice,Total,PINV2419,Gasoline Delivery,23600.0,
+9/8/2024,Payment,Engen,PAY_PINV2419,Payment for PINV2419,,23600.0
+9/8/2024,Invoice,Total,PINV2436,Diesel Delivery,18150.0,
+9/8/2024,Payment,Engen,PAY_PINV2436,Payment for PINV2436,,18150.0
+9/8/2024,Invoice,Total,PINV2444,Gasoline Delivery,24000.0,
+9/8/2024,Payment,Engen,PAY_PINV2444,Payment for PINV2444,,24000.0
+9/9/2024,Invoice,Total,PINV2328,Diesel Delivery,33900.0,
+9/9/2024,Payment,Engen,PAY_PINV2328,Payment for PINV2328,,33900.0
+9/9/2024,Invoice,Total,PINV2411,Diesel Delivery,28500.0,
+9/9/2024,Payment,Engen,PAY_PINV2411,Payment for PINV2411,,28500.0
+9/9/2024,Invoice,Total,PINV2202,Diesel Delivery,32250.0,
+9/9/2024,Payment,Engen,PAY_PINV2202,Payment for PINV2202,,32250.0
+9/10/2024,Invoice,Total,PINV2380,Diesel Delivery,32250.0,
+9/10/2024,Payment,Engen,PAY_PINV2380,Payment for PINV2380,,32250.0
+9/10/2024,Invoice,Total,PINV2096,Gasoline Delivery,25400.0,
+9/10/2024,Payment,Engen,PAY_PINV2096,Payment for PINV2096,,25400.0
+9/10/2024,Invoice,Total,PINV2082,Gasoline Delivery,29750.0,
+9/10/2024,Payment,Engen,PAY_PINV2082,Payment for PINV2082,,29750.0
+9/10/2024,Invoice,Total,PINV2552,Gasoline Delivery,17850.0,
+9/10/2024,Payment,Engen,PAY_PINV2552,Payment for PINV2552,,17850.0
+9/10/2024,Invoice,Total,PINV2299,Gasoline Delivery,32250.0,
+9/10/2024,Payment,Engen,PAY_PINV2299,Payment for PINV2299,,32250.0
+9/10/2024,Invoice,Total,PINV2370,Gasoline Delivery,35400.0,
+9/10/2024,Payment,Engen,PAY_PINV2370,Payment for PINV2370,,35400.0
+9/10/2024,Invoice,Total,PINV2289,Gasoline Delivery,30250.0,
+9/10/2024,Payment,Engen,PAY_PINV2289,Payment for PINV2289,,30250.0
+9/10/2024,Invoice,Total,PINV2077,Diesel Delivery,25400.0,
+9/10/2024,Payment,Engen,PAY_PINV2077,Payment for PINV2077,,25400.0
+9/11/2024,Invoice,Total,PINV2407,Diesel Delivery,17700.0,
+9/11/2024,Payment,Engen,PAY_PINV2407,Payment for PINV2407,,17700.0
+9/11/2024,Invoice,Total,PINV2093,Gasoline Delivery,23600.0,
+9/11/2024,Payment,Engen,PAY_PINV2093,Payment for PINV2093,,23600.0
+9/11/2024,Invoice,Total,PINV2403,Diesel Delivery,33600.0,
+9/11/2024,Payment,Engen,PAY_PINV2403,Payment for PINV2403,,33600.0
+9/11/2024,Invoice,Total,PINV2042,Diesel Delivery,23200.0,
+9/11/2024,Payment,Engen,PAY_PINV2042,Payment for PINV2042,,23200.0
+9/11/2024,Invoice,Total,PINV2386,Gasoline Delivery,25200.0,
+9/11/2024,Payment,Engen,PAY_PINV2386,Payment for PINV2386,,25200.0
+9/11/2024,Invoice,Total,PINV2544,Gasoline Delivery,23800.0,
+9/11/2024,Payment,Engen,PAY_PINV2544,Payment for PINV2544,,23800.0
+9/12/2024,Invoice,Total,PINV2537,Gasoline Delivery,26400.0,
+9/12/2024,Payment,Engen,PAY_PINV2537,Payment for PINV2537,,26400.0
+9/12/2024,Invoice,Total,PINV2377,Gasoline Delivery,33750.0,
+9/12/2024,Payment,Engen,PAY_PINV2377,Payment for PINV2377,,33750.0
+9/13/2024,Invoice,Total,PINV2350,Gasoline Delivery,36300.0,
+9/13/2024,Payment,Engen,PAY_PINV2350,Payment for PINV2350,,36300.0
+9/13/2024,Invoice,Total,PINV2063,Diesel Delivery,22400.0,
+9/13/2024,Payment,Engen,PAY_PINV2063,Payment for PINV2063,,22400.0
+9/13/2024,Invoice,Total,PINV2149,Diesel Delivery,32100.0,
+9/13/2024,Payment,Engen,PAY_PINV2149,Payment for PINV2149,,32100.0
+9/13/2024,Invoice,Total,PINV2392,Diesel Delivery,21600.0,
+9/13/2024,Payment,Engen,PAY_PINV2392,Payment for PINV2392,,21600.0
+9/13/2024,Invoice,Total,PINV2026,Diesel Delivery,32250.0,
+9/13/2024,Payment,Engen,PAY_PINV2026,Payment for PINV2026,,32250.0
+9/13/2024,Invoice,Total,PINV2219,Diesel Delivery,33000.0,
+9/13/2024,Payment,Engen,PAY_PINV2219,Payment for PINV2219,,33000.0
+9/14/2024,Invoice,Total,PINV2455,Gasoline Delivery,39000.0,
+9/14/2024,Payment,Engen,PAY_PINV2455,Payment for PINV2455,,39000.0
+9/14/2024,Invoice,Total,PINV2474,Gasoline Delivery,23000.0,
+9/14/2024,Payment,Engen,PAY_PINV2474,Payment for PINV2474,,23000.0
+9/14/2024,Invoice,Total,PINV2059,Gasoline Delivery,36900.0,
+9/14/2024,Payment,Engen,PAY_PINV2059,Payment for PINV2059,,36900.0
+9/14/2024,Invoice,Total,PINV2355,Diesel Delivery,21600.0,
+9/14/2024,Payment,Engen,PAY_PINV2355,Payment for PINV2355,,21600.0
+9/14/2024,Invoice,Total,PINV2377,Diesel Delivery,38700.0,
+9/14/2024,Payment,Engen,PAY_PINV2377,Payment for PINV2377,,38700.0
+9/14/2024,Invoice,Total,PINV2437,Diesel Delivery,34500.0,
+9/14/2024,Payment,Engen,PAY_PINV2437,Payment for PINV2437,,34500.0
+9/14/2024,Invoice,Total,PINV2442,Diesel Delivery,29000.0,
+9/14/2024,Payment,Engen,PAY_PINV2442,Payment for PINV2442,,29000.0
+9/15/2024,Invoice,Total,PINV2247,Diesel Delivery,19500.0,
+9/15/2024,Payment,Engen,PAY_PINV2247,Payment for PINV2247,,19500.0
+9/15/2024,Invoice,Total,PINV2394,Diesel Delivery,28000.0,
+9/15/2024,Payment,Engen,PAY_PINV2394,Payment for PINV2394,,28000.0
+9/15/2024,Invoice,Total,PINV2248,Gasoline Delivery,18000.0,
+9/15/2024,Payment,Engen,PAY_PINV2248,Payment for PINV2248,,18000.0
+9/15/2024,Invoice,Total,PINV2433,Diesel Delivery,25000.0,
+9/15/2024,Payment,Engen,PAY_PINV2433,Payment for PINV2433,,25000.0
+9/15/2024,Invoice,Total,PINV2042,Gasoline Delivery,38700.0,
+9/15/2024,Payment,Engen,PAY_PINV2042,Payment for PINV2042,,38700.0
+9/15/2024,Invoice,Total,PINV2534,Gasoline Delivery,24400.0,
+9/15/2024,Payment,Engen,PAY_PINV2534,Payment for PINV2534,,24400.0
+9/16/2024,Invoice,Total,PINV2011,Diesel Delivery,25800.0,
+9/16/2024,Payment,Engen,PAY_PINV2011,Payment for PINV2011,,25800.0
+9/16/2024,Invoice,Total,PINV2146,Diesel Delivery,17100.0,
+9/16/2024,Payment,Engen,PAY_PINV2146,Payment for PINV2146,,17100.0
+9/16/2024,Invoice,Total,PINV2004,Diesel Delivery,22200.0,
+9/16/2024,Payment,Engen,PAY_PINV2004,Payment for PINV2004,,22200.0
+9/16/2024,Invoice,Total,PINV2458,Gasoline Delivery,29000.0,
+9/16/2024,Payment,Engen,PAY_PINV2458,Payment for PINV2458,,29000.0
+9/16/2024,Invoice,Total,PINV2145,Gasoline Delivery,25200.0,
+9/16/2024,Payment,Engen,PAY_PINV2145,Payment for PINV2145,,25200.0
+9/16/2024,Invoice,Total,PINV2133,Gasoline Delivery,23000.0,
+9/16/2024,Payment,Engen,PAY_PINV2133,Payment for PINV2133,,23000.0
+9/17/2024,Invoice,Total,PINV2334,Diesel Delivery,30750.0,
+9/17/2024,Payment,Engen,PAY_PINV2334,Payment for PINV2334,,30750.0
+9/17/2024,Invoice,Total,PINV2148,Gasoline Delivery,37500.0,
+9/17/2024,Payment,Engen,PAY_PINV2148,Payment for PINV2148,,37500.0
+9/17/2024,Invoice,Total,PINV2213,Diesel Delivery,21400.0,
+9/17/2024,Payment,Engen,PAY_PINV2213,Payment for PINV2213,,21400.0
+9/17/2024,Invoice,Total,PINV2357,Gasoline Delivery,31000.0,
+9/17/2024,Payment,Engen,PAY_PINV2357,Payment for PINV2357,,31000.0
+9/17/2024,Invoice,Total,PINV2469,Gasoline Delivery,39900.0,
+9/17/2024,Payment,Engen,PAY_PINV2469,Payment for PINV2469,,39900.0
+9/17/2024,Invoice,Total,PINV2321,Diesel Delivery,21400.0,
+9/17/2024,Payment,Engen,PAY_PINV2321,Payment for PINV2321,,21400.0
+9/17/2024,Invoice,Total,PINV2362,Diesel Delivery,16650.0,
+9/17/2024,Payment,Engen,PAY_PINV2362,Payment for PINV2362,,16650.0
+9/17/2024,Invoice,Total,PINV2497,Gasoline Delivery,32500.0,
+9/17/2024,Payment,Engen,PAY_PINV2497,Payment for PINV2497,,32500.0
+9/17/2024,Invoice,Total,PINV2156,Gasoline Delivery,34200.0,
+9/17/2024,Payment,Engen,PAY_PINV2156,Payment for PINV2156,,34200.0
+9/18/2024,Invoice,Total,PINV2138,Diesel Delivery,30000.0,
+9/18/2024,Payment,Engen,PAY_PINV2138,Payment for PINV2138,,30000.0
+9/18/2024,Invoice,Total,PINV2369,Diesel Delivery,34500.0,
+9/18/2024,Payment,Engen,PAY_PINV2369,Payment for PINV2369,,34500.0
+9/18/2024,Invoice,Total,PINV2559,Gasoline Delivery,35400.0,
+9/18/2024,Payment,Engen,PAY_PINV2559,Payment for PINV2559,,35400.0
+9/18/2024,Invoice,Total,PINV2404,Diesel Delivery,22400.0,
+9/18/2024,Payment,Engen,PAY_PINV2404,Payment for PINV2404,,22400.0
+9/19/2024,Invoice,Total,PINV2547,Gasoline Delivery,20250.0,
+9/19/2024,Payment,Engen,PAY_PINV2547,Payment for PINV2547,,20250.0
+9/19/2024,Invoice,Total,PINV2139,Diesel Delivery,31250.0,
+9/19/2024,Payment,Engen,PAY_PINV2139,Payment for PINV2139,,31250.0
+9/19/2024,Invoice,Total,PINV2527,Gasoline Delivery,25600.0,
+9/19/2024,Payment,Engen,PAY_PINV2527,Payment for PINV2527,,25600.0
+9/20/2024,Invoice,Total,PINV2363,Diesel Delivery,23600.0,
+9/20/2024,Payment,Engen,PAY_PINV2363,Payment for PINV2363,,23600.0
+9/20/2024,Invoice,Total,PINV2141,Diesel Delivery,37200.0,
+9/20/2024,Payment,Engen,PAY_PINV2141,Payment for PINV2141,,37200.0
+9/20/2024,Invoice,Total,PINV2097,Diesel Delivery,32250.0,
+9/20/2024,Payment,Engen,PAY_PINV2097,Payment for PINV2097,,32250.0
+9/20/2024,Invoice,Total,PINV2257,Diesel Delivery,36000.0,
+9/20/2024,Payment,Engen,PAY_PINV2257,Payment for PINV2257,,36000.0
+9/20/2024,Invoice,Total,PINV2163,Gasoline Delivery,25200.0,
+9/20/2024,Payment,Engen,PAY_PINV2163,Payment for PINV2163,,25200.0
+9/21/2024,Invoice,Total,PINV2086,Gasoline Delivery,37800.0,
+9/21/2024,Payment,Engen,PAY_PINV2086,Payment for PINV2086,,37800.0
+9/21/2024,Invoice,Total,PINV2303,Gasoline Delivery,22200.0,
+9/21/2024,Payment,Engen,PAY_PINV2303,Payment for PINV2303,,22200.0
+9/21/2024,Invoice,Total,PINV2494,Gasoline Delivery,25600.0,
+9/21/2024,Payment,Engen,PAY_PINV2494,Payment for PINV2494,,25600.0
+9/21/2024,Invoice,Total,PINV2465,Gasoline Delivery,24400.0,
+9/21/2024,Payment,Engen,PAY_PINV2465,Payment for PINV2465,,24400.0
+9/21/2024,Invoice,Total,PINV2235,Diesel Delivery,19200.0,
+9/21/2024,Payment,Engen,PAY_PINV2235,Payment for PINV2235,,19200.0
+9/21/2024,Invoice,Total,PINV2431,Gasoline Delivery,23200.0,
+9/21/2024,Payment,Engen,PAY_PINV2431,Payment for PINV2431,,23200.0
+9/21/2024,Invoice,Total,PINV2366,Diesel Delivery,22800.0,
+9/21/2024,Payment,Engen,PAY_PINV2366,Payment for PINV2366,,22800.0
+9/22/2024,Invoice,Total,PINV2208,Gasoline Delivery,24800.0,
+9/22/2024,Payment,Engen,PAY_PINV2208,Payment for PINV2208,,24800.0
+9/22/2024,Invoice,Total,PINV2119,Gasoline Delivery,27750.0,
+9/22/2024,Payment,Engen,PAY_PINV2119,Payment for PINV2119,,27750.0
+9/22/2024,Invoice,Total,PINV2256,Gasoline Delivery,34500.0,
+9/22/2024,Payment,Engen,PAY_PINV2256,Payment for PINV2256,,34500.0
+9/22/2024,Invoice,Total,PINV2428,Gasoline Delivery,17550.0,
+9/22/2024,Payment,Engen,PAY_PINV2428,Payment for PINV2428,,17550.0
+9/22/2024,Invoice,Total,PINV2401,Diesel Delivery,28500.0,
+9/22/2024,Payment,Engen,PAY_PINV2401,Payment for PINV2401,,28500.0
+9/23/2024,Invoice,Total,PINV2019,Gasoline Delivery,24200.0,
+9/23/2024,Payment,Engen,PAY_PINV2019,Payment for PINV2019,,24200.0
+9/23/2024,Invoice,Total,PINV2064,Diesel Delivery,21200.0,
+9/23/2024,Payment,Engen,PAY_PINV2064,Payment for PINV2064,,21200.0
+9/23/2024,Invoice,Total,PINV2486,Gasoline Delivery,39300.0,
+9/23/2024,Payment,Engen,PAY_PINV2486,Payment for PINV2486,,39300.0
+9/23/2024,Invoice,Total,PINV2075,Diesel Delivery,25800.0,
+9/23/2024,Payment,Engen,PAY_PINV2075,Payment for PINV2075,,25800.0
+9/23/2024,Invoice,Total,PINV2111,Gasoline Delivery,27500.0,
+9/23/2024,Payment,Engen,PAY_PINV2111,Payment for PINV2111,,27500.0
+9/23/2024,Invoice,Total,PINV2425,Diesel Delivery,25000.0,
+9/23/2024,Payment,Engen,PAY_PINV2425,Payment for PINV2425,,25000.0
+9/23/2024,Invoice,Total,PINV2266,Gasoline Delivery,22800.0,
+9/23/2024,Payment,Engen,PAY_PINV2266,Payment for PINV2266,,22800.0
+9/24/2024,Invoice,Total,PINV2484,Gasoline Delivery,32250.0,
+9/24/2024,Payment,Engen,PAY_PINV2484,Payment for PINV2484,,32250.0
+9/24/2024,Invoice,Total,PINV2125,Diesel Delivery,17250.0,
+9/24/2024,Payment,Engen,PAY_PINV2125,Payment for PINV2125,,17250.0
+9/24/2024,Invoice,Total,PINV2152,Gasoline Delivery,19650.0,
+9/24/2024,Payment,Engen,PAY_PINV2152,Payment for PINV2152,,19650.0
+9/24/2024,Invoice,Total,PINV2375,Gasoline Delivery,28750.0,
+9/24/2024,Payment,Engen,PAY_PINV2375,Payment for PINV2375,,28750.0
+9/24/2024,Invoice,Total,PINV2334,Gasoline Delivery,19500.0,
+9/24/2024,Payment,Engen,PAY_PINV2334,Payment for PINV2334,,19500.0
+9/24/2024,Invoice,Total,PINV2403,Gasoline Delivery,29500.0,
+9/24/2024,Payment,Engen,PAY_PINV2403,Payment for PINV2403,,29500.0
+9/25/2024,Invoice,Total,PINV2328,Gasoline Delivery,30000.0,
+9/25/2024,Payment,Engen,PAY_PINV2328,Payment for PINV2328,,30000.0
+9/25/2024,Invoice,Total,PINV2414,Diesel Delivery,36900.0,
+9/25/2024,Payment,Engen,PAY_PINV2414,Payment for PINV2414,,36900.0
+9/25/2024,Invoice,Total,PINV2471,Gasoline Delivery,34200.0,
+9/25/2024,Payment,Engen,PAY_PINV2471,Payment for PINV2471,,34200.0
+9/25/2024,Invoice,Total,PINV2315,Gasoline Delivery,20100.0,
+9/25/2024,Payment,Engen,PAY_PINV2315,Payment for PINV2315,,20100.0
+9/26/2024,Invoice,Total,PINV2412,Gasoline Delivery,23600.0,
+9/26/2024,Payment,Engen,PAY_PINV2412,Payment for PINV2412,,23600.0
+9/26/2024,Invoice,Total,PINV2420,Gasoline Delivery,36300.0,
+9/26/2024,Payment,Engen,PAY_PINV2420,Payment for PINV2420,,36300.0
+9/26/2024,Invoice,Total,PINV2304,Gasoline Delivery,22200.0,
+9/26/2024,Payment,Engen,PAY_PINV2304,Payment for PINV2304,,22200.0
+9/26/2024,Invoice,Total,PINV2035,Diesel Delivery,32400.0,
+9/26/2024,Payment,Engen,PAY_PINV2035,Payment for PINV2035,,32400.0
+9/27/2024,Invoice,Total,PINV2165,Diesel Delivery,25800.0,
+9/27/2024,Payment,Engen,PAY_PINV2165,Payment for PINV2165,,25800.0
+9/28/2024,Invoice,Total,PINV2182,Diesel Delivery,18150.0,
+9/28/2024,Payment,Engen,PAY_PINV2182,Payment for PINV2182,,18150.0
+9/28/2024,Invoice,Total,PINV2237,Diesel Delivery,25600.0,
+9/28/2024,Payment,Engen,PAY_PINV2237,Payment for PINV2237,,25600.0
+9/28/2024,Invoice,Total,PINV2061,Gasoline Delivery,19500.0,
+9/28/2024,Payment,Engen,PAY_PINV2061,Payment for PINV2061,,19500.0
+9/28/2024,Invoice,Total,PINV2088,Diesel Delivery,21400.0,
+9/28/2024,Payment,Engen,PAY_PINV2088,Payment for PINV2088,,21400.0
+9/28/2024,Invoice,Total,PINV2132,Diesel Delivery,37200.0,
+9/28/2024,Payment,Engen,PAY_PINV2132,Payment for PINV2132,,37200.0
+9/28/2024,Invoice,Total,PINV2385,Gasoline Delivery,24800.0,
+9/28/2024,Payment,Engen,PAY_PINV2385,Payment for PINV2385,,24800.0
+9/29/2024,Invoice,Total,PINV2154,Gasoline Delivery,32250.0,
+9/29/2024,Payment,Engen,PAY_PINV2154,Payment for PINV2154,,32250.0
+9/29/2024,Invoice,Total,PINV2407,Gasoline Delivery,23800.0,
+9/29/2024,Payment,Engen,PAY_PINV2407,Payment for PINV2407,,23800.0
+9/29/2024,Invoice,Total,PINV2362,Gasoline Delivery,37800.0,
+9/29/2024,Payment,Engen,PAY_PINV2362,Payment for PINV2362,,37800.0
+9/29/2024,Invoice,Total,PINV2211,Diesel Delivery,16650.0,
+9/29/2024,Payment,Engen,PAY_PINV2211,Payment for PINV2211,,16650.0
+9/29/2024,Invoice,Total,PINV2253,Diesel Delivery,19350.0,
+9/29/2024,Payment,Engen,PAY_PINV2253,Payment for PINV2253,,19350.0
+9/30/2024,Invoice,Total,PINV2131,Gasoline Delivery,31500.0,
+9/30/2024,Payment,Engen,PAY_PINV2131,Payment for PINV2131,,31500.0
+9/30/2024,Invoice,Total,PINV2179,Gasoline Delivery,19800.0,
+9/30/2024,Payment,Engen,PAY_PINV2179,Payment for PINV2179,,19800.0
+9/30/2024,Invoice,Total,PINV2220,Diesel Delivery,28000.0,
+9/30/2024,Payment,Engen,PAY_PINV2220,Payment for PINV2220,,28000.0
+9/30/2024,Invoice,Total,PINV2162,Gasoline Delivery,18900.0,
+9/30/2024,Payment,Engen,PAY_PINV2162,Payment for PINV2162,,18900.0
+9/30/2024,Invoice,Total,PINV2016,Diesel Delivery,16050.0,
+9/30/2024,Payment,Engen,PAY_PINV2016,Payment for PINV2016,,16050.0
+9/30/2024,Invoice,Total,PINV2398,Diesel Delivery,17250.0,
+9/30/2024,Payment,Engen,PAY_PINV2398,Payment for PINV2398,,17250.0
+9/30/2024,Invoice,Total,PINV2206,Diesel Delivery,36600.0,
+9/30/2024,Payment,Engen,PAY_PINV2206,Payment for PINV2206,,36600.0
+10/1/2024,Invoice,Total,PINV2012,Gasoline Delivery,18900.0,
+10/1/2024,Payment,Engen,PAY_PINV2012,Payment for PINV2012,,18900.0
+10/1/2024,Invoice,Total,PINV2173,Diesel Delivery,16050.0,
+10/1/2024,Payment,Engen,PAY_PINV2173,Payment for PINV2173,,16050.0
+10/1/2024,Invoice,Total,PINV2287,Gasoline Delivery,33000.0,
+10/1/2024,Payment,Engen,PAY_PINV2287,Payment for PINV2287,,33000.0
+10/1/2024,Invoice,Total,PINV2421,Gasoline Delivery,17850.0,
+10/1/2024,Payment,Engen,PAY_PINV2421,Payment for PINV2421,,17850.0
+10/1/2024,Invoice,Total,PINV2045,Gasoline Delivery,19050.0,
+10/1/2024,Payment,Engen,PAY_PINV2045,Payment for PINV2045,,19050.0
+10/1/2024,Invoice,Total,PINV2461,Diesel Delivery,32100.0,
+10/1/2024,Payment,Engen,PAY_PINV2461,Payment for PINV2461,,32100.0
+10/1/2024,Invoice,Total,PINV2192,Diesel Delivery,18150.0,
+10/1/2024,Payment,Engen,PAY_PINV2192,Payment for PINV2192,,18150.0
+10/2/2024,Invoice,Total,PINV2282,Diesel Delivery,36600.0,
+10/2/2024,Payment,Engen,PAY_PINV2282,Payment for PINV2282,,36600.0
+10/2/2024,Invoice,Total,PINV2068,Gasoline Delivery,32500.0,
+10/2/2024,Payment,Engen,PAY_PINV2068,Payment for PINV2068,,32500.0
+10/2/2024,Invoice,Total,PINV2201,Diesel Delivery,19050.0,
+10/2/2024,Payment,Engen,PAY_PINV2201,Payment for PINV2201,,19050.0
+10/2/2024,Invoice,Total,PINV2206,Gasoline Delivery,24600.0,
+10/2/2024,Payment,Engen,PAY_PINV2206,Payment for PINV2206,,24600.0
+10/2/2024,Invoice,Total,PINV2439,Gasoline Delivery,17550.0,
+10/2/2024,Payment,Engen,PAY_PINV2439,Payment for PINV2439,,17550.0
+10/2/2024,Invoice,Total,PINV2124,Gasoline Delivery,35100.0,
+10/2/2024,Payment,Engen,PAY_PINV2124,Payment for PINV2124,,35100.0
+10/2/2024,Invoice,Total,PINV2217,Gasoline Delivery,33500.0,
+10/2/2024,Payment,Engen,PAY_PINV2217,Payment for PINV2217,,33500.0
+10/2/2024,Invoice,Total,PINV2329,Diesel Delivery,22800.0,
+10/2/2024,Payment,Engen,PAY_PINV2329,Payment for PINV2329,,22800.0
+10/3/2024,Invoice,Total,PINV2364,Diesel Delivery,21800.0,
+10/3/2024,Payment,Engen,PAY_PINV2364,Payment for PINV2364,,21800.0
+10/3/2024,Invoice,Total,PINV2105,Diesel Delivery,35400.0,
+10/3/2024,Payment,Engen,PAY_PINV2105,Payment for PINV2105,,35400.0
+10/3/2024,Invoice,Total,PINV2264,Gasoline Delivery,19800.0,
+10/3/2024,Payment,Engen,PAY_PINV2264,Payment for PINV2264,,19800.0
+10/3/2024,Invoice,Total,PINV2180,Diesel Delivery,16500.0,
+10/3/2024,Payment,Engen,PAY_PINV2180,Payment for PINV2180,,16500.0
+10/3/2024,Invoice,Total,PINV2196,Diesel Delivery,24000.0,
+10/3/2024,Payment,Engen,PAY_PINV2196,Payment for PINV2196,,24000.0
+10/4/2024,Invoice,Total,PINV2381,Gasoline Delivery,36900.0,
+10/4/2024,Payment,Engen,PAY_PINV2381,Payment for PINV2381,,36900.0
+10/4/2024,Invoice,Total,PINV2217,Diesel Delivery,35100.0,
+10/4/2024,Payment,Engen,PAY_PINV2217,Payment for PINV2217,,35100.0
+10/4/2024,Invoice,Total,PINV2424,Gasoline Delivery,31750.0,
+10/4/2024,Payment,Engen,PAY_PINV2424,Payment for PINV2424,,31750.0
+10/4/2024,Invoice,Total,PINV2259,Diesel Delivery,17100.0,
+10/4/2024,Payment,Engen,PAY_PINV2259,Payment for PINV2259,,17100.0
+10/4/2024,Invoice,Total,PINV2017,Gasoline Delivery,33250.0,
+10/4/2024,Payment,Engen,PAY_PINV2017,Payment for PINV2017,,33250.0
+10/5/2024,Invoice,Total,PINV2246,Diesel Delivery,18150.0,
+10/5/2024,Payment,Engen,PAY_PINV2246,Payment for PINV2246,,18150.0
+10/5/2024,Invoice,Total,PINV2250,Gasoline Delivery,22400.0,
+10/5/2024,Payment,Engen,PAY_PINV2250,Payment for PINV2250,,22400.0
+10/5/2024,Invoice,Total,PINV2065,Gasoline Delivery,22000.0,
+10/5/2024,Payment,Engen,PAY_PINV2065,Payment for PINV2065,,22000.0
+10/5/2024,Invoice,Total,PINV2135,Diesel Delivery,30750.0,
+10/5/2024,Payment,Engen,PAY_PINV2135,Payment for PINV2135,,30750.0
+10/5/2024,Invoice,Total,PINV2072,Diesel Delivery,24200.0,
+10/5/2024,Payment,Engen,PAY_PINV2072,Payment for PINV2072,,24200.0
+10/6/2024,Invoice,Total,PINV2427,Diesel Delivery,32250.0,
+10/6/2024,Payment,Engen,PAY_PINV2427,Payment for PINV2427,,32250.0
+10/6/2024,Invoice,Total,PINV2125,Gasoline Delivery,26200.0,
+10/6/2024,Payment,Engen,PAY_PINV2125,Payment for PINV2125,,26200.0
+10/6/2024,Invoice,Total,PINV2005,Diesel Delivery,25200.0,
+10/6/2024,Payment,Engen,PAY_PINV2005,Payment for PINV2005,,25200.0
+10/6/2024,Invoice,Total,PINV2522,Gasoline Delivery,36900.0,
+10/6/2024,Payment,Engen,PAY_PINV2522,Payment for PINV2522,,36900.0
+10/7/2024,Invoice,Total,PINV2121,Diesel Delivery,27750.0,
+10/7/2024,Payment,Engen,PAY_PINV2121,Payment for PINV2121,,27750.0
+10/7/2024,Invoice,Total,PINV2330,Gasoline Delivery,17550.0,
+10/7/2024,Payment,Engen,PAY_PINV2330,Payment for PINV2330,,17550.0
+10/7/2024,Invoice,Total,PINV2194,Gasoline Delivery,31500.0,
+10/7/2024,Payment,Engen,PAY_PINV2194,Payment for PINV2194,,31500.0
+10/7/2024,Invoice,Total,PINV2117,Gasoline Delivery,28250.0,
+10/7/2024,Payment,Engen,PAY_PINV2117,Payment for PINV2117,,28250.0
+10/7/2024,Invoice,Total,PINV2086,Diesel Delivery,31800.0,
+10/7/2024,Payment,Engen,PAY_PINV2086,Payment for PINV2086,,31800.0
+10/8/2024,Invoice,Total,PINV2233,Diesel Delivery,19500.0,
+10/8/2024,Payment,Engen,PAY_PINV2233,Payment for PINV2233,,19500.0
+10/8/2024,Invoice,Total,PINV2459,Diesel Delivery,19050.0,
+10/8/2024,Payment,Engen,PAY_PINV2459,Payment for PINV2459,,19050.0
+10/8/2024,Invoice,Total,PINV2052,Gasoline Delivery,37200.0,
+10/8/2024,Payment,Engen,PAY_PINV2052,Payment for PINV2052,,37200.0
+10/8/2024,Invoice,Total,PINV2254,Gasoline Delivery,19500.0,
+10/8/2024,Payment,Engen,PAY_PINV2254,Payment for PINV2254,,19500.0
+10/8/2024,Invoice,Total,PINV2480,Gasoline Delivery,22000.0,
+10/8/2024,Payment,Engen,PAY_PINV2480,Payment for PINV2480,,22000.0
+10/8/2024,Invoice,Total,PINV2413,Diesel Delivery,31500.0,
+10/8/2024,Payment,Engen,PAY_PINV2413,Payment for PINV2413,,31500.0
+10/8/2024,Invoice,Total,PINV2458,Diesel Delivery,23600.0,
+10/8/2024,Payment,Engen,PAY_PINV2458,Payment for PINV2458,,23600.0
+10/9/2024,Invoice,Total,PINV2121,Gasoline Delivery,29500.0,
+10/9/2024,Payment,Engen,PAY_PINV2121,Payment for PINV2121,,29500.0
+10/9/2024,Invoice,Total,PINV2233,Gasoline Delivery,38100.0,
+10/9/2024,Payment,Engen,PAY_PINV2233,Payment for PINV2233,,38100.0
+10/9/2024,Invoice,Total,PINV2405,Diesel Delivery,22400.0,
+10/9/2024,Payment,Engen,PAY_PINV2405,Payment for PINV2405,,22400.0
+10/9/2024,Invoice,Total,PINV2105,Gasoline Delivery,19500.0,
+10/9/2024,Payment,Engen,PAY_PINV2105,Payment for PINV2105,,19500.0
+10/9/2024,Invoice,Total,PINV2183,Diesel Delivery,24200.0,
+10/9/2024,Payment,Engen,PAY_PINV2183,Payment for PINV2183,,24200.0
+10/9/2024,Invoice,Total,PINV2095,Gasoline Delivery,19500.0,
+10/9/2024,Payment,Engen,PAY_PINV2095,Payment for PINV2095,,19500.0
+10/9/2024,Invoice,Total,PINV2160,Gasoline Delivery,32750.0,
+10/9/2024,Payment,Engen,PAY_PINV2160,Payment for PINV2160,,32750.0
+10/10/2024,Invoice,Total,PINV2115,Gasoline Delivery,17400.0,
+10/10/2024,Payment,Engen,PAY_PINV2115,Payment for PINV2115,,17400.0
+10/10/2024,Invoice,Total,PINV2211,Gasoline Delivery,17700.0,
+10/10/2024,Payment,Engen,PAY_PINV2211,Payment for PINV2211,,17700.0
+10/10/2024,Invoice,Total,PINV2318,Diesel Delivery,35100.0,
+10/10/2024,Payment,Engen,PAY_PINV2318,Payment for PINV2318,,35100.0
+10/10/2024,Invoice,Total,PINV2031,Gasoline Delivery,18750.0,
+10/10/2024,Payment,Engen,PAY_PINV2031,Payment for PINV2031,,18750.0
+10/10/2024,Invoice,Total,PINV2526,Gasoline Delivery,20100.0,
+10/10/2024,Payment,Engen,PAY_PINV2526,Payment for PINV2526,,20100.0
+10/10/2024,Invoice,Total,PINV2229,Diesel Delivery,29000.0,
+10/10/2024,Payment,Engen,PAY_PINV2229,Payment for PINV2229,,29000.0
+10/10/2024,Invoice,Total,PINV2050,Diesel Delivery,36000.0,
+10/10/2024,Payment,Engen,PAY_PINV2050,Payment for PINV2050,,36000.0
+10/11/2024,Invoice,Total,PINV2309,Diesel Delivery,37800.0,
+10/11/2024,Payment,Engen,PAY_PINV2309,Payment for PINV2309,,37800.0
+10/11/2024,Invoice,Total,PINV2260,Diesel Delivery,35400.0,
+10/11/2024,Payment,Engen,PAY_PINV2260,Payment for PINV2260,,35400.0
+10/11/2024,Invoice,Total,PINV2215,Diesel Delivery,17700.0,
+10/11/2024,Payment,Engen,PAY_PINV2215,Payment for PINV2215,,17700.0
+10/11/2024,Invoice,Total,PINV2235,Gasoline Delivery,17700.0,
+10/11/2024,Payment,Engen,PAY_PINV2235,Payment for PINV2235,,17700.0
+10/12/2024,Invoice,Total,PINV2475,Gasoline Delivery,20100.0,
+10/12/2024,Payment,Engen,PAY_PINV2475,Payment for PINV2475,,20100.0
+10/12/2024,Invoice,Total,PINV2171,Diesel Delivery,25200.0,
+10/12/2024,Payment,Engen,PAY_PINV2171,Payment for PINV2171,,25200.0
+10/12/2024,Invoice,Total,PINV2337,Diesel Delivery,35700.0,
+10/12/2024,Payment,Engen,PAY_PINV2337,Payment for PINV2337,,35700.0
+10/12/2024,Invoice,Total,PINV2432,Diesel Delivery,18000.0,
+10/12/2024,Payment,Engen,PAY_PINV2432,Payment for PINV2432,,18000.0
+10/12/2024,Invoice,Total,PINV2373,Diesel Delivery,36000.0,
+10/12/2024,Payment,Engen,PAY_PINV2373,Payment for PINV2373,,36000.0
+10/12/2024,Invoice,Total,PINV2422,Gasoline Delivery,34200.0,
+10/12/2024,Payment,Engen,PAY_PINV2422,Payment for PINV2422,,34200.0
+10/12/2024,Invoice,Total,PINV2406,Gasoline Delivery,25200.0,
+10/12/2024,Payment,Engen,PAY_PINV2406,Payment for PINV2406,,25200.0
+10/12/2024,Invoice,Total,PINV2353,Diesel Delivery,28250.0,
+10/12/2024,Payment,Engen,PAY_PINV2353,Payment for PINV2353,,28250.0
+10/12/2024,Invoice,Total,PINV2360,Diesel Delivery,32500.0,
+10/12/2024,Payment,Engen,PAY_PINV2360,Payment for PINV2360,,32500.0
+10/12/2024,Invoice,Total,PINV2365,Diesel Delivery,26500.0,
+10/12/2024,Payment,Engen,PAY_PINV2365,Payment for PINV2365,,26500.0
+10/13/2024,Invoice,Total,PINV2409,Diesel Delivery,17550.0,
+10/13/2024,Payment,Engen,PAY_PINV2409,Payment for PINV2409,,17550.0
+10/13/2024,Invoice,Total,PINV2004,Gasoline Delivery,19800.0,
+10/13/2024,Payment,Engen,PAY_PINV2004,Payment for PINV2004,,19800.0
+10/13/2024,Invoice,Total,PINV2423,Diesel Delivery,31750.0,
+10/13/2024,Payment,Engen,PAY_PINV2423,Payment for PINV2423,,31750.0
+10/13/2024,Invoice,Total,PINV2076,Diesel Delivery,28250.0,
+10/13/2024,Payment,Engen,PAY_PINV2076,Payment for PINV2076,,28250.0
+10/13/2024,Invoice,Total,PINV2001,Diesel Delivery,23000.0,
+10/13/2024,Payment,Engen,PAY_PINV2001,Payment for PINV2001,,23000.0
+10/13/2024,Invoice,Total,PINV2551,Gasoline Delivery,34500.0,
+10/13/2024,Payment,Engen,PAY_PINV2551,Payment for PINV2551,,34500.0
+10/13/2024,Invoice,Total,PINV2324,Gasoline Delivery,37800.0,
+10/13/2024,Payment,Engen,PAY_PINV2324,Payment for PINV2324,,37800.0
+10/14/2024,Invoice,Total,PINV2230,Gasoline Delivery,20100.0,
+10/14/2024,Payment,Engen,PAY_PINV2230,Payment for PINV2230,,20100.0
+10/14/2024,Invoice,Total,PINV2089,Diesel Delivery,21400.0,
+10/14/2024,Payment,Engen,PAY_PINV2089,Payment for PINV2089,,21400.0
+10/14/2024,Invoice,Total,PINV2175,Gasoline Delivery,27000.0,
+10/14/2024,Payment,Engen,PAY_PINV2175,Payment for PINV2175,,27000.0
+10/14/2024,Invoice,Total,PINV2136,Diesel Delivery,38700.0,
+10/14/2024,Payment,Engen,PAY_PINV2136,Payment for PINV2136,,38700.0
+10/14/2024,Invoice,Total,PINV2137,Gasoline Delivery,24400.0,
+10/14/2024,Payment,Engen,PAY_PINV2137,Payment for PINV2137,,24400.0
+10/14/2024,Invoice,Total,PINV2008,Diesel Delivery,27500.0,
+10/14/2024,Payment,Engen,PAY_PINV2008,Payment for PINV2008,,27500.0
+10/15/2024,Invoice,Total,PINV2090,Diesel Delivery,28000.0,
+10/15/2024,Payment,Engen,PAY_PINV2090,Payment for PINV2090,,28000.0
+10/15/2024,Invoice,Total,PINV2261,Diesel Delivery,25200.0,
+10/15/2024,Payment,Engen,PAY_PINV2261,Payment for PINV2261,,25200.0
+10/15/2024,Invoice,Total,PINV2057,Diesel Delivery,27500.0,
+10/15/2024,Payment,Engen,PAY_PINV2057,Payment for PINV2057,,27500.0
+10/16/2024,Invoice,Total,PINV2440,Gasoline Delivery,19950.0,
+10/16/2024,Payment,Engen,PAY_PINV2440,Payment for PINV2440,,19950.0
+10/16/2024,Invoice,Total,PINV2204,Diesel Delivery,37200.0,
+10/16/2024,Payment,Engen,PAY_PINV2204,Payment for PINV2204,,37200.0
+10/16/2024,Invoice,Total,PINV2051,Gasoline Delivery,19050.0,
+10/16/2024,Payment,Engen,PAY_PINV2051,Payment for PINV2051,,19050.0
+10/16/2024,Invoice,Total,PINV2515,Gasoline Delivery,19050.0,
+10/16/2024,Payment,Engen,PAY_PINV2515,Payment for PINV2515,,19050.0
+10/16/2024,Invoice,Total,PINV2122,Diesel Delivery,26500.0,
+10/16/2024,Payment,Engen,PAY_PINV2122,Payment for PINV2122,,26500.0
+10/16/2024,Invoice,Total,PINV2245,Diesel Delivery,28500.0,
+10/16/2024,Payment,Engen,PAY_PINV2245,Payment for PINV2245,,28500.0
+10/17/2024,Invoice,Total,PINV2221,Gasoline Delivery,31500.0,
+10/17/2024,Payment,Engen,PAY_PINV2221,Payment for PINV2221,,31500.0
+10/17/2024,Invoice,Total,PINV2063,Gasoline Delivery,31250.0,
+10/17/2024,Payment,Engen,PAY_PINV2063,Payment for PINV2063,,31250.0
+10/17/2024,Invoice,Total,PINV2501,Gasoline Delivery,22400.0,
+10/17/2024,Payment,Engen,PAY_PINV2501,Payment for PINV2501,,22400.0
+10/17/2024,Invoice,Total,PINV2153,Diesel Delivery,23000.0,
+10/17/2024,Payment,Engen,PAY_PINV2153,Payment for PINV2153,,23000.0
+10/17/2024,Invoice,Total,PINV2002,Diesel Delivery,21600.0,
+10/17/2024,Payment,Engen,PAY_PINV2002,Payment for PINV2002,,21600.0
+10/17/2024,Invoice,Total,PINV2330,Diesel Delivery,34500.0,
+10/17/2024,Payment,Engen,PAY_PINV2330,Payment for PINV2330,,34500.0
+10/18/2024,Invoice,Total,PINV2158,Diesel Delivery,18900.0,
+10/18/2024,Payment,Engen,PAY_PINV2158,Payment for PINV2158,,18900.0
+10/18/2024,Invoice,Total,PINV2214,Diesel Delivery,22000.0,
+10/18/2024,Payment,Engen,PAY_PINV2214,Payment for PINV2214,,22000.0
+10/18/2024,Invoice,Total,PINV2253,Gasoline Delivery,27000.0,
+10/18/2024,Payment,Engen,PAY_PINV2253,Payment for PINV2253,,27000.0
+10/19/2024,Invoice,Total,PINV2409,Gasoline Delivery,19800.0,
+10/19/2024,Payment,Engen,PAY_PINV2409,Payment for PINV2409,,19800.0
+10/19/2024,Invoice,Total,PINV2265,Diesel Delivery,27250.0,
+10/19/2024,Payment,Engen,PAY_PINV2265,Payment for PINV2265,,27250.0
+10/19/2024,Invoice,Total,PINV2445,Diesel Delivery,19350.0,
+10/19/2024,Payment,Engen,PAY_PINV2445,Payment for PINV2445,,19350.0
+10/19/2024,Invoice,Total,PINV2032,Gasoline Delivery,23000.0,
+10/19/2024,Payment,Engen,PAY_PINV2032,Payment for PINV2032,,23000.0
+10/20/2024,Invoice,Total,PINV2129,Diesel Delivery,32000.0,
+10/20/2024,Payment,Engen,PAY_PINV2129,Payment for PINV2129,,32000.0
+10/20/2024,Invoice,Total,PINV2481,Gasoline Delivery,28750.0,
+10/20/2024,Payment,Engen,PAY_PINV2481,Payment for PINV2481,,28750.0
+10/20/2024,Invoice,Total,PINV2292,Gasoline Delivery,38100.0,
+10/20/2024,Payment,Engen,PAY_PINV2292,Payment for PINV2292,,38100.0
+10/20/2024,Invoice,Total,PINV2082,Diesel Delivery,37200.0,
+10/20/2024,Payment,Engen,PAY_PINV2082,Payment for PINV2082,,37200.0
+10/21/2024,Invoice,Total,PINV2489,Gasoline Delivery,33000.0,
+10/21/2024,Payment,Engen,PAY_PINV2489,Payment for PINV2489,,33000.0
+10/21/2024,Invoice,Total,PINV2410,Gasoline Delivery,38400.0,
+10/21/2024,Payment,Engen,PAY_PINV2410,Payment for PINV2410,,38400.0
+10/21/2024,Invoice,Total,PINV2273,Diesel Delivery,36900.0,
+10/21/2024,Payment,Engen,PAY_PINV2273,Payment for PINV2273,,36900.0
+10/21/2024,Invoice,Total,PINV2176,Diesel Delivery,35100.0,
+10/21/2024,Payment,Engen,PAY_PINV2176,Payment for PINV2176,,35100.0
+10/21/2024,Invoice,Total,PINV2224,Gasoline Delivery,35100.0,
+10/21/2024,Payment,Engen,PAY_PINV2224,Payment for PINV2224,,35100.0
+10/21/2024,Invoice,Total,PINV2083,Gasoline Delivery,26200.0,
+10/21/2024,Payment,Engen,PAY_PINV2083,Payment for PINV2083,,26200.0
+10/21/2024,Invoice,Total,PINV2044,Diesel Delivery,36000.0,
+10/21/2024,Payment,Engen,PAY_PINV2044,Payment for PINV2044,,36000.0
+10/21/2024,Invoice,Total,PINV2467,Gasoline Delivery,17550.0,
+10/21/2024,Payment,Engen,PAY_PINV2467,Payment for PINV2467,,17550.0
+10/22/2024,Invoice,Total,PINV2269,Diesel Delivery,31250.0,
+10/22/2024,Payment,Engen,PAY_PINV2269,Payment for PINV2269,,31250.0
+10/22/2024,Invoice,Total,PINV2495,Gasoline Delivery,37200.0,
+10/22/2024,Payment,Engen,PAY_PINV2495,Payment for PINV2495,,37200.0
+10/22/2024,Invoice,Total,PINV2043,Diesel Delivery,23200.0,
+10/22/2024,Payment,Engen,PAY_PINV2043,Payment for PINV2043,,23200.0
+10/22/2024,Invoice,Total,PINV2373,Gasoline Delivery,35400.0,
+10/22/2024,Payment,Engen,PAY_PINV2373,Payment for PINV2373,,35400.0
+10/22/2024,Invoice,Total,PINV2079,Gasoline Delivery,30750.0,
+10/22/2024,Payment,Engen,PAY_PINV2079,Payment for PINV2079,,30750.0
+10/23/2024,Invoice,Total,PINV2430,Gasoline Delivery,33250.0,
+10/23/2024,Payment,Engen,PAY_PINV2430,Payment for PINV2430,,33250.0
+10/23/2024,Invoice,Total,PINV2294,Diesel Delivery,25400.0,
+10/23/2024,Payment,Engen,PAY_PINV2294,Payment for PINV2294,,25400.0
+10/23/2024,Invoice,Total,PINV2435,Diesel Delivery,31750.0,
+10/23/2024,Payment,Engen,PAY_PINV2435,Payment for PINV2435,,31750.0
+10/23/2024,Invoice,Total,PINV2261,Gasoline Delivery,31500.0,
+10/23/2024,Payment,Engen,PAY_PINV2261,Payment for PINV2261,,31500.0
+10/23/2024,Invoice,Total,PINV2239,Diesel Delivery,28000.0,
+10/23/2024,Payment,Engen,PAY_PINV2239,Payment for PINV2239,,28000.0
+10/24/2024,Invoice,Total,PINV2389,Diesel Delivery,16650.0,
+10/24/2024,Payment,Engen,PAY_PINV2389,Payment for PINV2389,,16650.0
+10/24/2024,Invoice,Total,PINV2464,Diesel Delivery,8378.0,
+10/24/2024,Payment,Engen,PAY_PINV2464,Payment for PINV2464,,8378.0
+10/24/2024,Invoice,Total,PINV2401,Gasoline Delivery,19500.0,
+10/24/2024,Payment,Engen,PAY_PINV2401,Payment for PINV2401,,19500.0
+10/25/2024,Invoice,Total,PINV2216,Diesel Delivery,30250.0,
+10/25/2024,Payment,Engen,PAY_PINV2216,Payment for PINV2216,,30250.0
+10/25/2024,Invoice,Total,PINV2203,Gasoline Delivery,22000.0,
+10/25/2024,Payment,Engen,PAY_PINV2203,Payment for PINV2203,,22000.0
+10/25/2024,Invoice,Total,PINV2293,Diesel Delivery,31750.0,
+10/25/2024,Payment,Engen,PAY_PINV2293,Payment for PINV2293,,31750.0
+10/25/2024,Invoice,Total,PINV2412,Diesel Delivery,23600.0,
+10/25/2024,Payment,Engen,PAY_PINV2412,Payment for PINV2412,,23600.0
+10/25/2024,Invoice,Total,PINV2276,Diesel Delivery,35100.0,
+10/25/2024,Payment,Engen,PAY_PINV2276,Payment for PINV2276,,35100.0
+10/26/2024,Invoice,Total,PINV2388,Gasoline Delivery,30500.0,
+10/26/2024,Payment,Engen,PAY_PINV2388,Payment for PINV2388,,30500.0
+10/26/2024,Invoice,Total,PINV2037,Gasoline Delivery,18300.0,
+10/26/2024,Payment,Engen,PAY_PINV2037,Payment for PINV2037,,18300.0
+10/26/2024,Invoice,Total,PINV2316,Diesel Delivery,31500.0,
+10/26/2024,Payment,Engen,PAY_PINV2316,Payment for PINV2316,,31500.0
+10/27/2024,Invoice,Total,PINV2223,Diesel Delivery,19350.0,
+10/27/2024,Payment,Engen,PAY_PINV2223,Payment for PINV2223,,19350.0
+10/27/2024,Invoice,Total,PINV2041,Diesel Delivery,31000.0,
+10/27/2024,Payment,Engen,PAY_PINV2041,Payment for PINV2041,,31000.0
+10/27/2024,Invoice,Total,PINV2379,Diesel Delivery,37200.0,
+10/27/2024,Payment,Engen,PAY_PINV2379,Payment for PINV2379,,37200.0
+10/27/2024,Invoice,Total,PINV2151,Gasoline Delivery,26000.0,
+10/27/2024,Payment,Engen,PAY_PINV2151,Payment for PINV2151,,26000.0
+10/28/2024,Invoice,Total,PINV2278,Gasoline Delivery,30500.0,
+10/28/2024,Payment,Engen,PAY_PINV2278,Payment for PINV2278,,30500.0
+10/28/2024,Invoice,Total,PINV2477,Gasoline Delivery,24000.0,
+10/28/2024,Payment,Engen,PAY_PINV2477,Payment for PINV2477,,24000.0
+10/28/2024,Invoice,Total,PINV2186,Diesel Delivery,32700.0,
+10/28/2024,Payment,Engen,PAY_PINV2186,Payment for PINV2186,,32700.0
+10/28/2024,Invoice,Total,PINV2383,Diesel Delivery,29750.0,
+10/28/2024,Payment,Engen,PAY_PINV2383,Payment for PINV2383,,29750.0
+10/28/2024,Invoice,Total,PINV2170,Diesel Delivery,32700.0,
+10/28/2024,Payment,Engen,PAY_PINV2170,Payment for PINV2170,,32700.0
+10/28/2024,Invoice,Total,PINV2395,Diesel Delivery,29500.0,
+10/28/2024,Payment,Engen,PAY_PINV2395,Payment for PINV2395,,29500.0
+10/28/2024,Invoice,Total,PINV2539,Gasoline Delivery,17700.0,
+10/28/2024,Payment,Engen,PAY_PINV2539,Payment for PINV2539,,17700.0
+10/28/2024,Invoice,Total,PINV2207,Gasoline Delivery,16650.0,
+10/28/2024,Payment,Engen,PAY_PINV2207,Payment for PINV2207,,16650.0
+10/28/2024,Invoice,Total,PINV2028,Gasoline Delivery,18600.0,
+10/28/2024,Payment,Engen,PAY_PINV2028,Payment for PINV2028,,18600.0
+10/28/2024,Invoice,Total,PINV2052,Diesel Delivery,32400.0,
+10/28/2024,Payment,Engen,PAY_PINV2052,Payment for PINV2052,,32400.0
+10/28/2024,Invoice,Total,PINV2443,Diesel Delivery,30000.0,
+10/28/2024,Payment,Engen,PAY_PINV2443,Payment for PINV2443,,30000.0
+10/29/2024,Invoice,Total,PINV2442,Gasoline Delivery,27750.0,
+10/29/2024,Payment,Engen,PAY_PINV2442,Payment for PINV2442,,27750.0
+10/29/2024,Invoice,Total,PINV2331,Diesel Delivery,30250.0,
+10/29/2024,Payment,Engen,PAY_PINV2331,Payment for PINV2331,,30250.0
+10/29/2024,Invoice,Total,PINV2116,Diesel Delivery,29500.0,
+10/29/2024,Payment,Engen,PAY_PINV2116,Payment for PINV2116,,29500.0
+10/29/2024,Invoice,Total,PINV2402,Gasoline Delivery,33750.0,
+10/29/2024,Payment,Engen,PAY_PINV2402,Payment for PINV2402,,33750.0
+10/29/2024,Invoice,Total,PINV2237,Gasoline Delivery,38100.0,
+10/29/2024,Payment,Engen,PAY_PINV2237,Payment for PINV2237,,38100.0
+10/29/2024,Invoice,Total,PINV2107,Diesel Delivery,27250.0,
+10/29/2024,Payment,Engen,PAY_PINV2107,Payment for PINV2107,,27250.0
+10/29/2024,Invoice,Total,PINV2397,Gasoline Delivery,33500.0,
+10/29/2024,Payment,Engen,PAY_PINV2397,Payment for PINV2397,,33500.0
+10/29/2024,Invoice,Total,PINV2466,Gasoline Delivery,37200.0,
+10/29/2024,Payment,Engen,PAY_PINV2466,Payment for PINV2466,,37200.0
+10/29/2024,Invoice,Total,PINV2155,Gasoline Delivery,26800.0,
+10/29/2024,Payment,Engen,PAY_PINV2155,Payment for PINV2155,,26800.0
+10/29/2024,Invoice,Total,PINV2020,Gasoline Delivery,31250.0,
+10/29/2024,Payment,Engen,PAY_PINV2020,Payment for PINV2020,,31250.0
+10/29/2024,Invoice,Total,PINV2129,Gasoline Delivery,24000.0,
+10/29/2024,Payment,Engen,PAY_PINV2129,Payment for PINV2129,,24000.0
+10/30/2024,Invoice,Total,PINV2108,Gasoline Delivery,27000.0,
+10/30/2024,Payment,Engen,PAY_PINV2108,Payment for PINV2108,,27000.0
+10/30/2024,Invoice,Total,PINV2130,Gasoline Delivery,26600.0,
+10/30/2024,Payment,Engen,PAY_PINV2130,Payment for PINV2130,,26600.0
+10/30/2024,Invoice,Total,PINV2254,Diesel Delivery,34500.0,
+10/30/2024,Payment,Engen,PAY_PINV2254,Payment for PINV2254,,34500.0
+10/30/2024,Invoice,Total,PINV2120,Diesel Delivery,34200.0,
+10/30/2024,Payment,Engen,PAY_PINV2120,Payment for PINV2120,,34200.0
+10/30/2024,Invoice,Total,PINV2446,Gasoline Delivery,33900.0,
+10/30/2024,Payment,Engen,PAY_PINV2446,Payment for PINV2446,,33900.0
+10/30/2024,Invoice,Total,PINV2118,Gasoline Delivery,25400.0,
+10/30/2024,Payment,Engen,PAY_PINV2118,Payment for PINV2118,,25400.0
+10/31/2024,Invoice,Total,PINV2365,Gasoline Delivery,24400.0,
+10/31/2024,Payment,Engen,PAY_PINV2365,Payment for PINV2365,,24400.0
+10/31/2024,Invoice,Total,PINV2159,Gasoline Delivery,27500.0,
+10/31/2024,Payment,Engen,PAY_PINV2159,Payment for PINV2159,,27500.0
+10/31/2024,Invoice,Total,PINV2178,Diesel Delivery,36300.0,
+10/31/2024,Payment,Engen,PAY_PINV2178,Payment for PINV2178,,36300.0
+10/31/2024,Invoice,Total,PINV2069,Gasoline Delivery,39000.0,
+10/31/2024,Payment,Engen,PAY_PINV2069,Payment for PINV2069,,39000.0
+10/31/2024,Invoice,Total,PINV2151,Diesel Delivery,21400.0,
+10/31/2024,Payment,Engen,PAY_PINV2151,Payment for PINV2151,,21400.0
+11/1/2024,Invoice,Total,PINV2402,Diesel Delivery,22200.0,
+11/1/2024,Payment,Engen,PAY_PINV2402,Payment for PINV2402,,22200.0
+11/1/2024,Invoice,Total,PINV2104,Diesel Delivery,17400.0,
+11/1/2024,Payment,Engen,PAY_PINV2104,Payment for PINV2104,,17400.0
+11/1/2024,Invoice,Total,PINV2242,Gasoline Delivery,38700.0,
+11/1/2024,Payment,Engen,PAY_PINV2242,Payment for PINV2242,,38700.0
+11/1/2024,Invoice,Total,PINV2029,Diesel Delivery,21200.0,
+11/1/2024,Payment,Engen,PAY_PINV2029,Payment for PINV2029,,21200.0
+11/1/2024,Invoice,Total,PINV2264,Diesel Delivery,28500.0,
+11/1/2024,Payment,Engen,PAY_PINV2264,Payment for PINV2264,,28500.0
+11/1/2024,Invoice,Total,PINV2319,Gasoline Delivery,29500.0,
+11/1/2024,Payment,Engen,PAY_PINV2319,Payment for PINV2319,,29500.0
+11/1/2024,Invoice,Total,PINV2384,Gasoline Delivery,18450.0,
+11/1/2024,Payment,Engen,PAY_PINV2384,Payment for PINV2384,,18450.0
+11/1/2024,Invoice,Total,PINV2378,Diesel Delivery,33600.0,
+11/1/2024,Payment,Engen,PAY_PINV2378,Payment for PINV2378,,33600.0
+11/1/2024,Invoice,Total,PINV2348,Diesel Delivery,17700.0,
+11/1/2024,Payment,Engen,PAY_PINV2348,Payment for PINV2348,,17700.0
+11/1/2024,Invoice,Total,PINV2487,Gasoline Delivery,40200.0,
+11/1/2024,Payment,Engen,PAY_PINV2487,Payment for PINV2487,,40200.0
+11/2/2024,Invoice,Total,PINV2400,Diesel Delivery,29750.0,
+11/2/2024,Payment,Engen,PAY_PINV2400,Payment for PINV2400,,29750.0
+11/3/2024,Invoice,Total,PINV2188,Gasoline Delivery,31250.0,
+11/3/2024,Payment,Engen,PAY_PINV2188,Payment for PINV2188,,31250.0
+11/3/2024,Invoice,Total,PINV2301,Diesel Delivery,29500.0,
+11/3/2024,Payment,Engen,PAY_PINV2301,Payment for PINV2301,,29500.0
+11/3/2024,Invoice,Total,PINV2239,Gasoline Delivery,34800.0,
+11/3/2024,Payment,Engen,PAY_PINV2239,Payment for PINV2239,,34800.0
+11/3/2024,Invoice,Total,PINV2296,Gasoline Delivery,20250.0,
+11/3/2024,Payment,Engen,PAY_PINV2296,Payment for PINV2296,,20250.0
+11/3/2024,Invoice,Total,PINV2427,Gasoline Delivery,27000.0,
+11/3/2024,Payment,Engen,PAY_PINV2427,Payment for PINV2427,,27000.0
+11/3/2024,Invoice,Total,PINV2308,Gasoline Delivery,37500.0,
+11/3/2024,Payment,Engen,PAY_PINV2308,Payment for PINV2308,,37500.0
+11/3/2024,Invoice,Total,PINV2158,Gasoline Delivery,38700.0,
+11/3/2024,Payment,Engen,PAY_PINV2158,Payment for PINV2158,,38700.0
+11/3/2024,Invoice,Total,PINV2543,Gasoline Delivery,22800.0,
+11/3/2024,Payment,Engen,PAY_PINV2543,Payment for PINV2543,,22800.0
+11/4/2024,Invoice,Total,PINV2510,Gasoline Delivery,35400.0,
+11/4/2024,Payment,Engen,PAY_PINV2510,Payment for PINV2510,,35400.0
+11/4/2024,Invoice,Total,PINV2281,Gasoline Delivery,31250.0,
+11/4/2024,Payment,Engen,PAY_PINV2281,Payment for PINV2281,,31250.0
+11/4/2024,Invoice,Total,PINV2332,Gasoline Delivery,35100.0,
+11/4/2024,Payment,Engen,PAY_PINV2332,Payment for PINV2332,,35100.0
+11/4/2024,Invoice,Total,PINV2215,Gasoline Delivery,23600.0,
+11/4/2024,Payment,Engen,PAY_PINV2215,Payment for PINV2215,,23600.0
+11/4/2024,Invoice,Total,PINV2168,Gasoline Delivery,23600.0,
+11/4/2024,Payment,Engen,PAY_PINV2168,Payment for PINV2168,,23600.0
+11/4/2024,Invoice,Total,PINV2015,Diesel Delivery,17100.0,
+11/4/2024,Payment,Engen,PAY_PINV2015,Payment for PINV2015,,17100.0
+11/4/2024,Invoice,Total,PINV2198,Gasoline Delivery,31750.0,
+11/4/2024,Payment,Engen,PAY_PINV2198,Payment for PINV2198,,31750.0
+11/5/2024,Invoice,Total,PINV2117,Diesel Delivery,16650.0,
+11/5/2024,Payment,Engen,PAY_PINV2117,Payment for PINV2117,,16650.0
+11/5/2024,Invoice,Total,PINV2452,Diesel Delivery,25200.0,
+11/5/2024,Payment,Engen,PAY_PINV2452,Payment for PINV2452,,25200.0
+11/5/2024,Invoice,Total,PINV2240,Diesel Delivery,17400.0,
+11/5/2024,Payment,Engen,PAY_PINV2240,Payment for PINV2240,,17400.0
+11/5/2024,Invoice,Total,PINV2036,Gasoline Delivery,27500.0,
+11/5/2024,Payment,Engen,PAY_PINV2036,Payment for PINV2036,,27500.0
+11/5/2024,Invoice,Total,PINV2300,Diesel Delivery,19500.0,
+11/5/2024,Payment,Engen,PAY_PINV2300,Payment for PINV2300,,19500.0
+11/6/2024,Invoice,Total,PINV2026,Gasoline Delivery,28000.0,
+11/6/2024,Payment,Engen,PAY_PINV2026,Payment for PINV2026,,28000.0
+11/6/2024,Invoice,Total,PINV2218,Gasoline Delivery,33000.0,
+11/6/2024,Payment,Engen,PAY_PINV2218,Payment for PINV2218,,33000.0
+11/6/2024,Invoice,Total,PINV2104,Gasoline Delivery,17250.0,
+11/6/2024,Payment,Engen,PAY_PINV2104,Payment for PINV2104,,17250.0
+11/6/2024,Invoice,Total,PINV2213,Gasoline Delivery,33500.0,
+11/6/2024,Payment,Engen,PAY_PINV2213,Payment for PINV2213,,33500.0
+11/6/2024,Invoice,Total,PINV2361,Gasoline Delivery,39300.0,
+11/6/2024,Payment,Engen,PAY_PINV2361,Payment for PINV2361,,39300.0
+11/6/2024,Invoice,Total,PINV2091,Diesel Delivery,16350.0,
+11/6/2024,Payment,Engen,PAY_PINV2091,Payment for PINV2091,,16350.0
+11/6/2024,Invoice,Total,PINV2089,Gasoline Delivery,24200.0,
+11/6/2024,Payment,Engen,PAY_PINV2089,Payment for PINV2089,,24200.0
+11/7/2024,Invoice,Total,PINV2124,Diesel Delivery,26500.0,
+11/7/2024,Payment,Engen,PAY_PINV2124,Payment for PINV2124,,26500.0
+11/7/2024,Invoice,Total,PINV2352,Diesel Delivery,36600.0,
+11/7/2024,Payment,Engen,PAY_PINV2352,Payment for PINV2352,,36600.0
+11/8/2024,Invoice,Total,PINV2094,Gasoline Delivery,18300.0,
+11/8/2024,Payment,Engen,PAY_PINV2094,Payment for PINV2094,,18300.0
+11/8/2024,Invoice,Total,PINV2405,Gasoline Delivery,37500.0,
+11/8/2024,Payment,Engen,PAY_PINV2405,Payment for PINV2405,,37500.0
+11/8/2024,Invoice,Total,PINV2379,Gasoline Delivery,36900.0,
+11/8/2024,Payment,Engen,PAY_PINV2379,Payment for PINV2379,,36900.0
+11/8/2024,Invoice,Total,PINV2309,Gasoline Delivery,31500.0,
+11/8/2024,Payment,Engen,PAY_PINV2309,Payment for PINV2309,,31500.0
+11/8/2024,Invoice,Total,PINV2201,Gasoline Delivery,33500.0,
+11/8/2024,Payment,Engen,PAY_PINV2201,Payment for PINV2201,,33500.0
+11/8/2024,Invoice,Total,PINV2191,Diesel Delivery,34200.0,
+11/8/2024,Payment,Engen,PAY_PINV2191,Payment for PINV2191,,34200.0
+11/8/2024,Invoice,Total,PINV2399,Gasoline Delivery,39600.0,
+11/8/2024,Payment,Engen,PAY_PINV2399,Payment for PINV2399,,39600.0
+11/8/2024,Invoice,Total,PINV2159,Diesel Delivery,33900.0,
+11/8/2024,Payment,Engen,PAY_PINV2159,Payment for PINV2159,,33900.0
+11/8/2024,Invoice,Total,PINV2349,Diesel Delivery,19050.0,
+11/8/2024,Payment,Engen,PAY_PINV2349,Payment for PINV2349,,19050.0
+11/9/2024,Invoice,Total,PINV2429,Diesel Delivery,15900.0,
+11/9/2024,Payment,Engen,PAY_PINV2429,Payment for PINV2429,,15900.0
+11/9/2024,Invoice,Total,PINV2222,Gasoline Delivery,25600.0,
+11/9/2024,Payment,Engen,PAY_PINV2222,Payment for PINV2222,,25600.0
+11/9/2024,Invoice,Total,PINV2022,Gasoline Delivery,27750.0,
+11/9/2024,Payment,Engen,PAY_PINV2022,Payment for PINV2022,,27750.0
+11/9/2024,Invoice,Total,PINV2221,Diesel Delivery,33300.0,
+11/9/2024,Payment,Engen,PAY_PINV2221,Payment for PINV2221,,33300.0
+11/10/2024,Invoice,Total,PINV2062,Diesel Delivery,25600.0,
+11/10/2024,Payment,Engen,PAY_PINV2062,Payment for PINV2062,,25600.0
+11/10/2024,Invoice,Total,PINV2325,Gasoline Delivery,32250.0,
+11/10/2024,Payment,Engen,PAY_PINV2325,Payment for PINV2325,,32250.0
+11/10/2024,Invoice,Total,PINV2080,Diesel Delivery,34800.0,
+11/10/2024,Payment,Engen,PAY_PINV2080,Payment for PINV2080,,34800.0
+11/10/2024,Invoice,Total,PINV2186,Gasoline Delivery,24400.0,
+11/10/2024,Payment,Engen,PAY_PINV2186,Payment for PINV2186,,24400.0
+11/10/2024,Invoice,Total,PINV2410,Diesel Delivery,18600.0,
+11/10/2024,Payment,Engen,PAY_PINV2410,Payment for PINV2410,,18600.0
+11/11/2024,Invoice,Total,PINV2289,Diesel Delivery,34200.0,
+11/11/2024,Payment,Engen,PAY_PINV2289,Payment for PINV2289,,34200.0
+11/11/2024,Invoice,Total,PINV2056,Gasoline Delivery,32250.0,
+11/11/2024,Payment,Engen,PAY_PINV2056,Payment for PINV2056,,32250.0
+11/11/2024,Invoice,Total,PINV2283,Diesel Delivery,16200.0,
+11/11/2024,Payment,Engen,PAY_PINV2283,Payment for PINV2283,,16200.0
+11/11/2024,Invoice,Total,PINV2404,Gasoline Delivery,31750.0,
+11/11/2024,Payment,Engen,PAY_PINV2404,Payment for PINV2404,,31750.0
+11/11/2024,Invoice,Total,PINV2317,Gasoline Delivery,33000.0,
+11/11/2024,Payment,Engen,PAY_PINV2317,Payment for PINV2317,,33000.0
+11/11/2024,Invoice,Total,PINV2326,Gasoline Delivery,22200.0,
+11/11/2024,Payment,Engen,PAY_PINV2326,Payment for PINV2326,,22200.0
+11/12/2024,Invoice,Total,PINV2038,Diesel Delivery,38100.0,
+11/12/2024,Payment,Engen,PAY_PINV2038,Payment for PINV2038,,38100.0
+11/12/2024,Invoice,Total,PINV2286,Gasoline Delivery,22200.0,
+11/12/2024,Payment,Engen,PAY_PINV2286,Payment for PINV2286,,22200.0
+11/12/2024,Invoice,Total,PINV2196,Gasoline Delivery,30250.0,
+11/12/2024,Payment,Engen,PAY_PINV2196,Payment for PINV2196,,30250.0
+11/12/2024,Invoice,Total,PINV2550,Gasoline Delivery,40500.0,
+11/12/2024,Payment,Engen,PAY_PINV2550,Payment for PINV2550,,40500.0
+11/12/2024,Invoice,Total,PINV2297,Gasoline Delivery,23000.0,
+11/12/2024,Payment,Engen,PAY_PINV2297,Payment for PINV2297,,23000.0
+11/12/2024,Invoice,Total,PINV2134,Diesel Delivery,16800.0,
+11/12/2024,Payment,Engen,PAY_PINV2134,Payment for PINV2134,,16800.0
+11/12/2024,Invoice,Total,PINV2087,Gasoline Delivery,19500.0,
+11/12/2024,Payment,Engen,PAY_PINV2087,Payment for PINV2087,,19500.0
+11/13/2024,Invoice,Total,PINV2445,Gasoline Delivery,20250.0,
+11/13/2024,Payment,Engen,PAY_PINV2445,Payment for PINV2445,,20250.0
+11/13/2024,Invoice,Total,PINV2285,Diesel Delivery,24600.0,
+11/13/2024,Payment,Engen,PAY_PINV2285,Payment for PINV2285,,24600.0
+11/13/2024,Invoice,Total,PINV2263,Diesel Delivery,31800.0,
+11/13/2024,Payment,Engen,PAY_PINV2263,Payment for PINV2263,,31800.0
+11/13/2024,Invoice,Total,PINV2345,Gasoline Delivery,18900.0,
+11/13/2024,Payment,Engen,PAY_PINV2345,Payment for PINV2345,,18900.0
+11/13/2024,Invoice,Total,PINV2290,Diesel Delivery,17550.0,
+11/13/2024,Payment,Engen,PAY_PINV2290,Payment for PINV2290,,17550.0
+11/13/2024,Invoice,Total,PINV2155,Diesel Delivery,38100.0,
+11/13/2024,Payment,Engen,PAY_PINV2155,Payment for PINV2155,,38100.0
+11/13/2024,Invoice,Total,PINV2347,Diesel Delivery,27500.0,
+11/13/2024,Payment,Engen,PAY_PINV2347,Payment for PINV2347,,27500.0
+11/13/2024,Invoice,Total,PINV2132,Gasoline Delivery,29750.0,
+11/13/2024,Payment,Engen,PAY_PINV2132,Payment for PINV2132,,29750.0
+11/14/2024,Invoice,Total,PINV2244,Diesel Delivery,32500.0,
+11/14/2024,Payment,Engen,PAY_PINV2244,Payment for PINV2244,,32500.0
+11/14/2024,Invoice,Total,PINV2078,Diesel Delivery,23600.0,
+11/14/2024,Payment,Engen,PAY_PINV2078,Payment for PINV2078,,23600.0
+11/14/2024,Invoice,Total,PINV2074,Diesel Delivery,31500.0,
+11/14/2024,Payment,Engen,PAY_PINV2074,Payment for PINV2074,,31500.0
+11/14/2024,Invoice,Total,PINV2323,Gasoline Delivery,33750.0,
+11/14/2024,Payment,Engen,PAY_PINV2323,Payment for PINV2323,,33750.0
+11/14/2024,Invoice,Total,PINV2316,Gasoline Delivery,30500.0,
+11/14/2024,Payment,Engen,PAY_PINV2316,Payment for PINV2316,,30500.0
+11/14/2024,Invoice,Total,PINV2246,Gasoline Delivery,32000.0,
+11/14/2024,Payment,Engen,PAY_PINV2246,Payment for PINV2246,,32000.0
+11/15/2024,Invoice,Total,PINV2530,Gasoline Delivery,19650.0,
+11/15/2024,Payment,Engen,PAY_PINV2530,Payment for PINV2530,,19650.0
+11/15/2024,Invoice,Total,PINV2018,Gasoline Delivery,16800.0,
+11/15/2024,Payment,Engen,PAY_PINV2018,Payment for PINV2018,,16800.0
+11/15/2024,Invoice,Total,PINV2417,Diesel Delivery,33600.0,
+11/15/2024,Payment,Engen,PAY_PINV2417,Payment for PINV2417,,33600.0
+11/15/2024,Invoice,Total,PINV2293,Gasoline Delivery,38400.0,
+11/15/2024,Payment,Engen,PAY_PINV2293,Payment for PINV2293,,38400.0
+11/16/2024,Invoice,Total,PINV2395,Gasoline Delivery,38100.0,
+11/16/2024,Payment,Engen,PAY_PINV2395,Payment for PINV2395,,38100.0
+11/16/2024,Invoice,Total,PINV2070,Gasoline Delivery,38100.0,
+11/16/2024,Payment,Engen,PAY_PINV2070,Payment for PINV2070,,38100.0
+11/16/2024,Invoice,Total,PINV2318,Gasoline Delivery,18750.0,
+11/16/2024,Payment,Engen,PAY_PINV2318,Payment for PINV2318,,18750.0
+11/16/2024,Invoice,Total,PINV2098,Gasoline Delivery,40200.0,
+11/16/2024,Payment,Engen,PAY_PINV2098,Payment for PINV2098,,40200.0
+11/17/2024,Invoice,Total,PINV2079,Diesel Delivery,23400.0,
+11/17/2024,Payment,Engen,PAY_PINV2079,Payment for PINV2079,,23400.0
+11/17/2024,Invoice,Total,PINV2287,Diesel Delivery,37800.0,
+11/17/2024,Payment,Engen,PAY_PINV2287,Payment for PINV2287,,37800.0
+11/17/2024,Invoice,Total,PINV2529,Gasoline Delivery,18300.0,
+11/17/2024,Payment,Engen,PAY_PINV2529,Payment for PINV2529,,18300.0
+11/17/2024,Invoice,Total,PINV2066,Gasoline Delivery,25000.0,
+11/17/2024,Payment,Engen,PAY_PINV2066,Payment for PINV2066,,25000.0
+11/17/2024,Invoice,Total,PINV2157,Diesel Delivery,34200.0,
+11/17/2024,Payment,Engen,PAY_PINV2157,Payment for PINV2157,,34200.0
+11/18/2024,Invoice,Total,PINV2169,Gasoline Delivery,19650.0,
+11/18/2024,Payment,Engen,PAY_PINV2169,Payment for PINV2169,,19650.0
+11/18/2024,Invoice,Total,PINV2390,Gasoline Delivery,22800.0,
+11/18/2024,Payment,Engen,PAY_PINV2390,Payment for PINV2390,,22800.0
+11/19/2024,Invoice,Total,PINV2305,Diesel Delivery,22800.0,
+11/19/2024,Payment,Engen,PAY_PINV2305,Payment for PINV2305,,22800.0
+11/19/2024,Invoice,Total,PINV2478,Gasoline Delivery,32000.0,
+11/19/2024,Payment,Engen,PAY_PINV2478,Payment for PINV2478,,32000.0
+11/19/2024,Invoice,Total,PINV2110,Diesel Delivery,30250.0,
+11/19/2024,Payment,Engen,PAY_PINV2110,Payment for PINV2110,,30250.0
+11/19/2024,Invoice,Total,PINV2434,Gasoline Delivery,24200.0,
+11/19/2024,Payment,Engen,PAY_PINV2434,Payment for PINV2434,,24200.0
+11/20/2024,Invoice,Total,PINV2456,Gasoline Delivery,39000.0,
+11/20/2024,Payment,Engen,PAY_PINV2456,Payment for PINV2456,,39000.0
+11/20/2024,Invoice,Total,PINV2198,Diesel Delivery,36300.0,
+11/20/2024,Payment,Engen,PAY_PINV2198,Payment for PINV2198,,36300.0
+11/20/2024,Invoice,Total,PINV2145,Diesel Delivery,21200.0,
+11/20/2024,Payment,Engen,PAY_PINV2145,Payment for PINV2145,,21200.0
+11/20/2024,Invoice,Total,PINV2507,Gasoline Delivery,26000.0,
+11/20/2024,Payment,Engen,PAY_PINV2507,Payment for PINV2507,,26000.0
+11/20/2024,Invoice,Total,PINV2050,Gasoline Delivery,29500.0,
+11/20/2024,Payment,Engen,PAY_PINV2050,Payment for PINV2050,,29500.0
+11/20/2024,Invoice,Total,PINV2257,Gasoline Delivery,18300.0,
+11/20/2024,Payment,Engen,PAY_PINV2257,Payment for PINV2257,,18300.0
+11/20/2024,Invoice,Total,PINV2301,Gasoline Delivery,25200.0,
+11/20/2024,Payment,Engen,PAY_PINV2301,Payment for PINV2301,,25200.0
+11/21/2024,Invoice,Total,PINV2342,Diesel Delivery,36000.0,
+11/21/2024,Payment,Engen,PAY_PINV2342,Payment for PINV2342,,36000.0
+11/21/2024,Invoice,Total,PINV2325,Diesel Delivery,36300.0,
+11/21/2024,Payment,Engen,PAY_PINV2325,Payment for PINV2325,,36300.0
+11/21/2024,Invoice,Total,PINV2332,Diesel Delivery,19200.0,
+11/21/2024,Payment,Engen,PAY_PINV2332,Payment for PINV2332,,19200.0
+11/21/2024,Invoice,Total,PINV2059,Diesel Delivery,28000.0,
+11/21/2024,Payment,Engen,PAY_PINV2059,Payment for PINV2059,,28000.0
+11/21/2024,Invoice,Total,PINV2502,Gasoline Delivery,32750.0,
+11/21/2024,Payment,Engen,PAY_PINV2502,Payment for PINV2502,,32750.0
+11/22/2024,Invoice,Total,PINV2322,Gasoline Delivery,18000.0,
+11/22/2024,Payment,Engen,PAY_PINV2322,Payment for PINV2322,,18000.0
+11/22/2024,Invoice,Total,PINV2294,Gasoline Delivery,29250.0,
+11/22/2024,Payment,Engen,PAY_PINV2294,Payment for PINV2294,,29250.0
+11/22/2024,Invoice,Total,PINV2346,Diesel Delivery,26750.0,
+11/22/2024,Payment,Engen,PAY_PINV2346,Payment for PINV2346,,26750.0
+11/22/2024,Invoice,Total,PINV2415,Gasoline Delivery,16800.0,
+11/22/2024,Payment,Engen,PAY_PINV2415,Payment for PINV2415,,16800.0
+11/22/2024,Invoice,Total,PINV2423,Gasoline Delivery,23400.0,
+11/22/2024,Payment,Engen,PAY_PINV2423,Payment for PINV2423,,23400.0
+11/23/2024,Invoice,Total,PINV2338,Diesel Delivery,18600.0,
+11/23/2024,Payment,Engen,PAY_PINV2338,Payment for PINV2338,,18600.0
+11/23/2024,Invoice,Total,PINV2277,Diesel Delivery,38400.0,
+11/23/2024,Payment,Engen,PAY_PINV2277,Payment for PINV2277,,38400.0
+11/23/2024,Invoice,Total,PINV2280,Diesel Delivery,17550.0,
+11/23/2024,Payment,Engen,PAY_PINV2280,Payment for PINV2280,,17550.0
+11/23/2024,Invoice,Total,PINV2513,Gasoline Delivery,17550.0,
+11/23/2024,Payment,Engen,PAY_PINV2513,Payment for PINV2513,,17550.0
+11/23/2024,Invoice,Total,PINV2548,Gasoline Delivery,17100.0,
+11/23/2024,Payment,Engen,PAY_PINV2548,Payment for PINV2548,,17100.0
+11/23/2024,Invoice,Total,PINV2542,Gasoline Delivery,18300.0,
+11/23/2024,Payment,Engen,PAY_PINV2542,Payment for PINV2542,,18300.0
+11/24/2024,Invoice,Total,PINV2093,Diesel Delivery,18900.0,
+11/24/2024,Payment,Engen,PAY_PINV2093,Payment for PINV2093,,18900.0
+11/24/2024,Invoice,Total,PINV2034,Diesel Delivery,26750.0,
+11/24/2024,Payment,Engen,PAY_PINV2034,Payment for PINV2034,,26750.0
+11/24/2024,Invoice,Total,PINV2112,Gasoline Delivery,26200.0,
+11/24/2024,Payment,Engen,PAY_PINV2112,Payment for PINV2112,,26200.0
+11/24/2024,Invoice,Total,PINV2073,Diesel Delivery,29000.0,
+11/24/2024,Payment,Engen,PAY_PINV2073,Payment for PINV2073,,29000.0
+11/25/2024,Invoice,Total,PINV2187,Diesel Delivery,23400.0,
+11/25/2024,Payment,Engen,PAY_PINV2187,Payment for PINV2187,,23400.0
+11/25/2024,Invoice,Total,PINV2413,Gasoline Delivery,28000.0,
+11/25/2024,Payment,Engen,PAY_PINV2413,Payment for PINV2413,,28000.0
+11/25/2024,Invoice,Total,PINV2017,Diesel Delivery,15750.0,
+11/25/2024,Payment,Engen,PAY_PINV2017,Payment for PINV2017,,15750.0
+11/25/2024,Invoice,Total,PINV2355,Gasoline Delivery,27750.0,
+11/25/2024,Payment,Engen,PAY_PINV2355,Payment for PINV2355,,27750.0
+11/25/2024,Invoice,Total,PINV2056,Diesel Delivery,17850.0,
+11/25/2024,Payment,Engen,PAY_PINV2056,Payment for PINV2056,,17850.0
+11/25/2024,Invoice,Total,PINV2165,Gasoline Delivery,18000.0,
+11/25/2024,Payment,Engen,PAY_PINV2165,Payment for PINV2165,,18000.0
+11/26/2024,Invoice,Total,PINV2397,Diesel Delivery,31250.0,
+11/26/2024,Payment,Engen,PAY_PINV2397,Payment for PINV2397,,31250.0
+11/26/2024,Invoice,Total,PINV2013,Gasoline Delivery,18750.0,
+11/26/2024,Payment,Engen,PAY_PINV2013,Payment for PINV2013,,18750.0
+11/26/2024,Invoice,Total,PINV2462,Gasoline Delivery,24000.0,
+11/26/2024,Payment,Engen,PAY_PINV2462,Payment for PINV2462,,24000.0
+11/26/2024,Invoice,Total,PINV2094,Diesel Delivery,25400.0,
+11/26/2024,Payment,Engen,PAY_PINV2094,Payment for PINV2094,,25400.0
+11/26/2024,Invoice,Total,PINV2313,Gasoline Delivery,29750.0,
+11/26/2024,Payment,Engen,PAY_PINV2313,Payment for PINV2313,,29750.0
+11/27/2024,Invoice,Total,PINV2009,Diesel Delivery,36300.0,
+11/27/2024,Payment,Engen,PAY_PINV2009,Payment for PINV2009,,36300.0
+11/27/2024,Invoice,Total,PINV2327,Diesel Delivery,31500.0,
+11/27/2024,Payment,Engen,PAY_PINV2327,Payment for PINV2327,,31500.0
+11/27/2024,Invoice,Total,PINV2080,Gasoline Delivery,23800.0,
+11/27/2024,Payment,Engen,PAY_PINV2080,Payment for PINV2080,,23800.0
+11/27/2024,Invoice,Total,PINV2107,Gasoline Delivery,35100.0,
+11/27/2024,Payment,Engen,PAY_PINV2107,Payment for PINV2107,,35100.0
+11/28/2024,Invoice,Total,PINV2163,Diesel Delivery,25200.0,
+11/28/2024,Payment,Engen,PAY_PINV2163,Payment for PINV2163,,25200.0
+11/28/2024,Invoice,Total,PINV2451,Gasoline Delivery,22000.0,
+11/28/2024,Payment,Engen,PAY_PINV2451,Payment for PINV2451,,22000.0
+11/28/2024,Invoice,Total,PINV2191,Gasoline Delivery,24400.0,
+11/28/2024,Payment,Engen,PAY_PINV2191,Payment for PINV2191,,24400.0
+11/28/2024,Invoice,Total,PINV2479,Gasoline Delivery,33000.0,
+11/28/2024,Payment,Engen,PAY_PINV2479,Payment for PINV2479,,33000.0
+11/28/2024,Invoice,Total,PINV2096,Diesel Delivery,33300.0,
+11/28/2024,Payment,Engen,PAY_PINV2096,Payment for PINV2096,,33300.0
+11/29/2024,Invoice,Total,PINV2305,Gasoline Delivery,31000.0,
+11/29/2024,Payment,Engen,PAY_PINV2305,Payment for PINV2305,,31000.0
+11/29/2024,Invoice,Total,PINV2268,Gasoline Delivery,23400.0,
+11/29/2024,Payment,Engen,PAY_PINV2268,Payment for PINV2268,,23400.0
+11/29/2024,Invoice,Total,PINV2179,Diesel Delivery,22000.0,
+11/29/2024,Payment,Engen,PAY_PINV2179,Payment for PINV2179,,22000.0
+11/29/2024,Invoice,Total,PINV2203,Diesel Delivery,25800.0,
+11/29/2024,Payment,Engen,PAY_PINV2203,Payment for PINV2203,,25800.0
+11/29/2024,Invoice,Total,PINV2069,Diesel Delivery,21600.0,
+11/29/2024,Payment,Engen,PAY_PINV2069,Payment for PINV2069,,21600.0
+11/29/2024,Invoice,Total,PINV2343,Gasoline Delivery,37200.0,
+11/29/2024,Payment,Engen,PAY_PINV2343,Payment for PINV2343,,37200.0
+11/29/2024,Invoice,Total,PINV2248,Diesel Delivery,36000.0,
+11/29/2024,Payment,Engen,PAY_PINV2248,Payment for PINV2248,,36000.0
+11/30/2024,Invoice,Total,PINV2100,Gasoline Delivery,36000.0,
+11/30/2024,Payment,Engen,PAY_PINV2100,Payment for PINV2100,,36000.0
+11/30/2024,Invoice,Total,PINV2302,Diesel Delivery,30000.0,
+11/30/2024,Payment,Engen,PAY_PINV2302,Payment for PINV2302,,30000.0
+11/30/2024,Invoice,Total,PINV2187,Gasoline Delivery,30000.0,
+11/30/2024,Payment,Engen,PAY_PINV2187,Payment for PINV2187,,30000.0
+11/30/2024,Invoice,Total,PINV2049,Gasoline Delivery,24400.0,
+11/30/2024,Payment,Engen,PAY_PINV2049,Payment for PINV2049,,24400.0
+11/30/2024,Invoice,Total,PINV2228,Gasoline Delivery,28250.0,
+11/30/2024,Payment,Engen,PAY_PINV2228,Payment for PINV2228,,28250.0
+11/30/2024,Invoice,Total,PINV2084,Diesel Delivery,33600.0,
+11/30/2024,Payment,Engen,PAY_PINV2084,Payment for PINV2084,,33600.0
+11/30/2024,Invoice,Total,PINV2014,Gasoline Delivery,33500.0,
+11/30/2024,Payment,Engen,PAY_PINV2014,Payment for PINV2014,,33500.0
+12/1/2024,Invoice,Total,PINV2030,Diesel Delivery,15750.0,
+12/1/2024,Payment,Engen,PAY_PINV2030,Payment for PINV2030,,15750.0
+12/1/2024,Invoice,Total,PINV2003,Diesel Delivery,22200.0,
+12/1/2024,Payment,Engen,PAY_PINV2003,Payment for PINV2003,,22200.0
+12/1/2024,Invoice,Total,PINV2536,Gasoline Delivery,16500.0,
+12/1/2024,Payment,Engen,PAY_PINV2536,Payment for PINV2536,,16500.0
+12/1/2024,Invoice,Total,PINV2358,Diesel Delivery,16350.0,
+12/1/2024,Payment,Engen,PAY_PINV2358,Payment for PINV2358,,16350.0
+12/2/2024,Invoice,Total,PINV2416,Gasoline Delivery,38400.0,
+12/2/2024,Payment,Engen,PAY_PINV2416,Payment for PINV2416,,38400.0
+12/2/2024,Invoice,Total,PINV2111,Diesel Delivery,16650.0,
+12/2/2024,Payment,Engen,PAY_PINV2111,Payment for PINV2111,,16650.0
+12/2/2024,Invoice,Total,PINV2169,Diesel Delivery,28250.0,
+12/2/2024,Payment,Engen,PAY_PINV2169,Payment for PINV2169,,28250.0
+12/3/2024,Invoice,Total,PINV2321,Gasoline Delivery,33900.0,
+12/3/2024,Payment,Engen,PAY_PINV2321,Payment for PINV2321,,33900.0
+12/3/2024,Invoice,Total,PINV2455,Diesel Delivery,17250.0,
+12/3/2024,Payment,Engen,PAY_PINV2455,Payment for PINV2455,,17250.0
+12/3/2024,Invoice,Total,PINV2220,Gasoline Delivery,26200.0,
+12/3/2024,Payment,Engen,PAY_PINV2220,Payment for PINV2220,,26200.0
+12/3/2024,Invoice,Total,PINV2007,Diesel Delivery,17550.0,
+12/3/2024,Payment,Engen,PAY_PINV2007,Payment for PINV2007,,17550.0
+12/3/2024,Invoice,Total,PINV2218,Diesel Delivery,31750.0,
+12/3/2024,Payment,Engen,PAY_PINV2218,Payment for PINV2218,,31750.0
+12/3/2024,Invoice,Total,PINV2408,Diesel Delivery,18600.0,
+12/3/2024,Payment,Engen,PAY_PINV2408,Payment for PINV2408,,18600.0
+12/3/2024,Invoice,Total,PINV2258,Gasoline Delivery,17400.0,
+12/3/2024,Payment,Engen,PAY_PINV2258,Payment for PINV2258,,17400.0
+12/3/2024,Invoice,Total,PINV2033,Gasoline Delivery,33250.0,
+12/3/2024,Payment,Engen,PAY_PINV2033,Payment for PINV2033,,33250.0
+12/3/2024,Invoice,Total,PINV2393,Diesel Delivery,27250.0,
+12/3/2024,Payment,Engen,PAY_PINV2393,Payment for PINV2393,,27250.0
+12/3/2024,Invoice,Total,PINV2176,Gasoline Delivery,33000.0,
+12/3/2024,Payment,Engen,PAY_PINV2176,Payment for PINV2176,,33000.0
+12/3/2024,Invoice,Total,PINV2068,Diesel Delivery,19050.0,
+12/3/2024,Payment,Engen,PAY_PINV2068,Payment for PINV2068,,19050.0
+12/3/2024,Invoice,Total,PINV2126,Diesel Delivery,31750.0,
+12/3/2024,Payment,Engen,PAY_PINV2126,Payment for PINV2126,,31750.0
+12/3/2024,Invoice,Total,PINV2520,Gasoline Delivery,31500.0,
+12/3/2024,Payment,Engen,PAY_PINV2520,Payment for PINV2520,,31500.0
+12/4/2024,Invoice,Total,PINV2036,Diesel Delivery,27000.0,
+12/4/2024,Payment,Engen,PAY_PINV2036,Payment for PINV2036,,27000.0
+12/4/2024,Invoice,Total,PINV2232,Gasoline Delivery,33600.0,
+12/4/2024,Payment,Engen,PAY_PINV2232,Payment for PINV2232,,33600.0
+12/4/2024,Invoice,Total,PINV2006,Diesel Delivery,17400.0,
+12/4/2024,Payment,Engen,PAY_PINV2006,Payment for PINV2006,,17400.0
+12/4/2024,Invoice,Total,PINV2064,Gasoline Delivery,27750.0,
+12/4/2024,Payment,Engen,PAY_PINV2064,Payment for PINV2064,,27750.0
+12/4/2024,Invoice,Total,PINV2418,Gasoline Delivery,26400.0,
+12/4/2024,Payment,Engen,PAY_PINV2418,Payment for PINV2418,,26400.0
+12/4/2024,Invoice,Total,PINV2019,Diesel Delivery,18000.0,
+12/4/2024,Payment,Engen,PAY_PINV2019,Payment for PINV2019,,18000.0
+12/5/2024,Invoice,Total,PINV2062,Gasoline Delivery,19650.0,
+12/5/2024,Payment,Engen,PAY_PINV2062,Payment for PINV2062,,19650.0
+12/5/2024,Invoice,Total,PINV2110,Gasoline Delivery,22400.0,
+12/5/2024,Payment,Engen,PAY_PINV2110,Payment for PINV2110,,22400.0
+12/5/2024,Invoice,Total,PINV2256,Diesel Delivery,27750.0,
+12/5/2024,Payment,Engen,PAY_PINV2256,Payment for PINV2256,,27750.0
+12/5/2024,Invoice,Total,PINV2255,Gasoline Delivery,32250.0,
+12/5/2024,Payment,Engen,PAY_PINV2255,Payment for PINV2255,,32250.0
+12/5/2024,Invoice,Total,PINV2049,Diesel Delivery,32250.0,
+12/5/2024,Payment,Engen,PAY_PINV2049,Payment for PINV2049,,32250.0
+12/5/2024,Invoice,Total,PINV2314,Gasoline Delivery,31250.0,
+12/5/2024,Payment,Engen,PAY_PINV2314,Payment for PINV2314,,31250.0
+12/5/2024,Invoice,Total,PINV2464,Gasoline Delivery,18000.0,
+12/5/2024,Payment,Engen,PAY_PINV2464,Payment for PINV2464,,18000.0
+12/5/2024,Invoice,Total,PINV2065,Diesel Delivery,27000.0,
+12/5/2024,Payment,Engen,PAY_PINV2065,Payment for PINV2065,,27000.0
+12/6/2024,Invoice,Total,PINV2030,Gasoline Delivery,18750.0,
+12/6/2024,Payment,Engen,PAY_PINV2030,Payment for PINV2030,,18750.0
+12/6/2024,Invoice,Total,PINV2216,Gasoline Delivery,29000.0,
+12/6/2024,Payment,Engen,PAY_PINV2216,Payment for PINV2216,,29000.0
+12/6/2024,Invoice,Total,PINV2190,Gasoline Delivery,33500.0,
+12/6/2024,Payment,Engen,PAY_PINV2190,Payment for PINV2190,,33500.0
+12/6/2024,Invoice,Total,PINV2157,Gasoline Delivery,25200.0,
+12/6/2024,Payment,Engen,PAY_PINV2157,Payment for PINV2157,,25200.0
+12/7/2024,Invoice,Total,PINV2058,Gasoline Delivery,26000.0,
+12/7/2024,Payment,Engen,PAY_PINV2058,Payment for PINV2058,,26000.0
+12/7/2024,Invoice,Total,PINV2376,Gasoline Delivery,32250.0,
+12/7/2024,Payment,Engen,PAY_PINV2376,Payment for PINV2376,,32250.0
+12/7/2024,Invoice,Total,PINV2360,Gasoline Delivery,18450.0,
+12/7/2024,Payment,Engen,PAY_PINV2360,Payment for PINV2360,,18450.0
+12/7/2024,Invoice,Total,PINV2015,Gasoline Delivery,35100.0,
+12/7/2024,Payment,Engen,PAY_PINV2015,Payment for PINV2015,,35100.0
+12/7/2024,Invoice,Total,PINV2509,Gasoline Delivery,36300.0,
+12/7/2024,Payment,Engen,PAY_PINV2509,Payment for PINV2509,,36300.0
+12/7/2024,Invoice,Total,PINV2389,Gasoline Delivery,32750.0,
+12/7/2024,Payment,Engen,PAY_PINV2389,Payment for PINV2389,,32750.0
+12/7/2024,Invoice,Total,PINV2275,Gasoline Delivery,33600.0,
+12/7/2024,Payment,Engen,PAY_PINV2275,Payment for PINV2275,,33600.0
+12/8/2024,Invoice,Total,PINV2284,Gasoline Delivery,18150.0,
+12/8/2024,Payment,Engen,PAY_PINV2284,Payment for PINV2284,,18150.0
+12/8/2024,Invoice,Total,PINV2441,Diesel Delivery,21000.0,
+12/8/2024,Payment,Engen,PAY_PINV2441,Payment for PINV2441,,21000.0
+12/8/2024,Invoice,Total,PINV2468,Gasoline Delivery,38400.0,
+12/8/2024,Payment,Engen,PAY_PINV2468,Payment for PINV2468,,38400.0
+12/9/2024,Invoice,Total,PINV2250,Diesel Delivery,17100.0,
+12/9/2024,Payment,Engen,PAY_PINV2250,Payment for PINV2250,,17100.0
+12/9/2024,Invoice,Total,PINV2236,Diesel Delivery,25600.0,
+12/9/2024,Payment,Engen,PAY_PINV2236,Payment for PINV2236,,25600.0
+12/9/2024,Invoice,Total,PINV2147,Diesel Delivery,17550.0,
+12/9/2024,Payment,Engen,PAY_PINV2147,Payment for PINV2147,,17550.0
+12/9/2024,Invoice,Total,PINV2450,Diesel Delivery,28250.0,
+12/9/2024,Payment,Engen,PAY_PINV2450,Payment for PINV2450,,28250.0
+12/10/2024,Invoice,Total,PINV2185,Diesel Delivery,30500.0,
+12/10/2024,Payment,Engen,PAY_PINV2185,Payment for PINV2185,,30500.0
+12/10/2024,Invoice,Total,PINV2057,Gasoline Delivery,29250.0,
+12/10/2024,Payment,Engen,PAY_PINV2057,Payment for PINV2057,,29250.0
+12/10/2024,Invoice,Total,PINV2205,Gasoline Delivery,24400.0,
+12/10/2024,Payment,Engen,PAY_PINV2205,Payment for PINV2205,,24400.0
+12/10/2024,Invoice,Total,PINV2249,Gasoline Delivery,32250.0,
+12/10/2024,Payment,Engen,PAY_PINV2249,Payment for PINV2249,,32250.0
+12/10/2024,Invoice,Total,PINV2292,Diesel Delivery,25800.0,
+12/10/2024,Payment,Engen,PAY_PINV2292,Payment for PINV2292,,25800.0
+12/10/2024,Invoice,Total,PINV2144,Gasoline Delivery,17100.0,
+12/10/2024,Payment,Engen,PAY_PINV2144,Payment for PINV2144,,17100.0
+12/10/2024,Invoice,Total,PINV2317,Diesel Delivery,18300.0,
+12/10/2024,Payment,Engen,PAY_PINV2317,Payment for PINV2317,,18300.0
+12/10/2024,Invoice,Total,PINV2367,Diesel Delivery,31500.0,
+12/10/2024,Payment,Engen,PAY_PINV2367,Payment for PINV2367,,31500.0
+12/11/2024,Invoice,Total,PINV2025,Diesel Delivery,22600.0,
+12/11/2024,Payment,Engen,PAY_PINV2025,Payment for PINV2025,,22600.0
+12/11/2024,Invoice,Total,PINV2356,Diesel Delivery,22400.0,
+12/11/2024,Payment,Engen,PAY_PINV2356,Payment for PINV2356,,22400.0
+12/11/2024,Invoice,Total,PINV2268,Diesel Delivery,19050.0,
+12/11/2024,Payment,Engen,PAY_PINV2268,Payment for PINV2268,,19050.0
+12/11/2024,Invoice,Total,PINV2076,Gasoline Delivery,18450.0,
+12/11/2024,Payment,Engen,PAY_PINV2076,Payment for PINV2076,,18450.0
+12/11/2024,Invoice,Total,PINV2247,Gasoline Delivery,35700.0,
+12/11/2024,Payment,Engen,PAY_PINV2247,Payment for PINV2247,,35700.0
+12/12/2024,Invoice,Total,PINV2060,Diesel Delivery,21400.0,
+12/12/2024,Payment,Engen,PAY_PINV2060,Payment for PINV2060,,21400.0
+12/12/2024,Invoice,Total,PINV2120,Gasoline Delivery,34200.0,
+12/12/2024,Payment,Engen,PAY_PINV2120,Payment for PINV2120,,34200.0
+12/12/2024,Invoice,Total,PINV2118,Diesel Delivery,36300.0,
+12/12/2024,Payment,Engen,PAY_PINV2118,Payment for PINV2118,,36300.0
+12/12/2024,Invoice,Total,PINV2306,Diesel Delivery,30250.0,
+12/12/2024,Payment,Engen,PAY_PINV2306,Payment for PINV2306,,30250.0
+12/12/2024,Invoice,Total,PINV2204,Gasoline Delivery,26400.0,
+12/12/2024,Payment,Engen,PAY_PINV2204,Payment for PINV2204,,26400.0
+12/12/2024,Invoice,Total,PINV2231,Gasoline Delivery,18300.0,
+12/12/2024,Payment,Engen,PAY_PINV2231,Payment for PINV2231,,18300.0
+12/12/2024,Invoice,Total,PINV2496,Gasoline Delivery,17400.0,
+12/12/2024,Payment,Engen,PAY_PINV2496,Payment for PINV2496,,17400.0
+12/12/2024,Invoice,Total,PINV2500,Gasoline Delivery,36000.0,
+12/12/2024,Payment,Engen,PAY_PINV2500,Payment for PINV2500,,36000.0
+12/12/2024,Invoice,Total,PINV2528,Gasoline Delivery,36000.0,
+12/12/2024,Payment,Engen,PAY_PINV2528,Payment for PINV2528,,36000.0
+12/13/2024,Invoice,Total,PINV2258,Diesel Delivery,23800.0,
+12/13/2024,Payment,Engen,PAY_PINV2258,Payment for PINV2258,,23800.0
+12/13/2024,Invoice,Total,PINV2392,Gasoline Delivery,33600.0,
+12/13/2024,Payment,Engen,PAY_PINV2392,Payment for PINV2392,,33600.0
+12/13/2024,Invoice,Total,PINV2319,Diesel Delivery,37800.0,
+12/13/2024,Payment,Engen,PAY_PINV2319,Payment for PINV2319,,37800.0
+12/14/2024,Invoice,Total,PINV2181,Diesel Delivery,26500.0,
+12/14/2024,Payment,Engen,PAY_PINV2181,Payment for PINV2181,,26500.0
+12/15/2024,Invoice,Total,PINV2387,Gasoline Delivery,26800.0,
+12/15/2024,Payment,Engen,PAY_PINV2387,Payment for PINV2387,,26800.0
+12/15/2024,Invoice,Total,PINV2460,Diesel Delivery,18000.0,
+12/15/2024,Payment,Engen,PAY_PINV2460,Payment for PINV2460,,18000.0
+12/15/2024,Invoice,Total,PINV2371,Diesel Delivery,18750.0,
+12/15/2024,Payment,Engen,PAY_PINV2371,Payment for PINV2371,,18750.0
+12/15/2024,Invoice,Total,PINV2045,Diesel Delivery,25200.0,
+12/15/2024,Payment,Engen,PAY_PINV2045,Payment for PINV2045,,25200.0
+12/15/2024,Invoice,Total,PINV2178,Gasoline Delivery,29250.0,
+12/15/2024,Payment,Engen,PAY_PINV2178,Payment for PINV2178,,29250.0
+12/16/2024,Invoice,Total,PINV2329,Gasoline Delivery,36600.0,
+12/16/2024,Payment,Engen,PAY_PINV2329,Payment for PINV2329,,36600.0
+12/16/2024,Invoice,Total,PINV2010,Diesel Delivery,25800.0,
+12/16/2024,Payment,Engen,PAY_PINV2010,Payment for PINV2010,,25800.0
+12/16/2024,Invoice,Total,PINV2185,Gasoline Delivery,19200.0,
+12/16/2024,Payment,Engen,PAY_PINV2185,Payment for PINV2185,,19200.0
+12/16/2024,Invoice,Total,PINV2383,Gasoline Delivery,39900.0,
+12/16/2024,Payment,Engen,PAY_PINV2383,Payment for PINV2383,,39900.0
+12/16/2024,Invoice,Total,PINV2448,Diesel Delivery,27000.0,
+12/16/2024,Payment,Engen,PAY_PINV2448,Payment for PINV2448,,27000.0
+12/16/2024,Invoice,Total,PINV2102,Diesel Delivery,19350.0,
+12/16/2024,Payment,Engen,PAY_PINV2102,Payment for PINV2102,,19350.0
+12/16/2024,Invoice,Total,PINV2449,Gasoline Delivery,18900.0,
+12/16/2024,Payment,Engen,PAY_PINV2449,Payment for PINV2449,,18900.0
+12/16/2024,Invoice,Total,PINV2200,Gasoline Delivery,36900.0,
+12/16/2024,Payment,Engen,PAY_PINV2200,Payment for PINV2200,,36900.0
+12/16/2024,Invoice,Total,PINV2144,Diesel Delivery,24200.0,
+12/16/2024,Payment,Engen,PAY_PINV2144,Payment for PINV2144,,24200.0
+12/16/2024,Invoice,Total,PINV2498,Gasoline Delivery,19200.0,
+12/16/2024,Payment,Engen,PAY_PINV2498,Payment for PINV2498,,19200.0
+12/17/2024,Invoice,Total,PINV2279,Diesel Delivery,17550.0,
+12/17/2024,Payment,Engen,PAY_PINV2279,Payment for PINV2279,,17550.0
+12/17/2024,Invoice,Total,PINV2385,Diesel Delivery,17700.0,
+12/17/2024,Payment,Engen,PAY_PINV2385,Payment for PINV2385,,17700.0
+12/17/2024,Invoice,Total,PINV2440,Diesel Delivery,36600.0,
+12/17/2024,Payment,Engen,PAY_PINV2440,Payment for PINV2440,,36600.0
+12/17/2024,Invoice,Total,PINV2356,Gasoline Delivery,18450.0,
+12/17/2024,Payment,Engen,PAY_PINV2356,Payment for PINV2356,,18450.0
+12/17/2024,Invoice,Total,PINV2073,Gasoline Delivery,30750.0,
+12/17/2024,Payment,Engen,PAY_PINV2073,Payment for PINV2073,,30750.0
+12/17/2024,Invoice,Total,PINV2000,Diesel Delivery,25800.0,
+12/17/2024,Payment,Engen,PAY_PINV2000,Payment for PINV2000,,25800.0
+12/17/2024,Invoice,Total,PINV2454,Gasoline Delivery,18600.0,
+12/17/2024,Payment,Engen,PAY_PINV2454,Payment for PINV2454,,18600.0
+12/17/2024,Invoice,Total,PINV2400,Gasoline Delivery,25200.0,
+12/17/2024,Payment,Engen,PAY_PINV2400,Payment for PINV2400,,25200.0
+12/18/2024,Invoice,Total,PINV2546,Gasoline Delivery,39300.0,
+12/18/2024,Payment,Engen,PAY_PINV2546,Payment for PINV2546,,39300.0
+12/18/2024,Invoice,Total,PINV2443,Gasoline Delivery,37500.0,
+12/18/2024,Payment,Engen,PAY_PINV2443,Payment for PINV2443,,37500.0
+12/18/2024,Invoice,Total,PINV2150,Diesel Delivery,33900.0,
+12/18/2024,Payment,Engen,PAY_PINV2150,Payment for PINV2150,,33900.0
+12/19/2024,Invoice,Total,PINV2209,Diesel Delivery,33600.0,
+12/19/2024,Payment,Engen,PAY_PINV2209,Payment for PINV2209,,33600.0
+12/19/2024,Invoice,Total,PINV2048,Gasoline Delivery,23400.0,
+12/19/2024,Payment,Engen,PAY_PINV2048,Payment for PINV2048,,23400.0
+12/19/2024,Invoice,Total,PINV2281,Diesel Delivery,24000.0,
+12/19/2024,Payment,Engen,PAY_PINV2281,Payment for PINV2281,,24000.0
+12/19/2024,Invoice,Total,PINV2414,Gasoline Delivery,33500.0,
+12/19/2024,Payment,Engen,PAY_PINV2414,Payment for PINV2414,,33500.0
+12/19/2024,Invoice,Total,PINV2202,Gasoline Delivery,33000.0,
+12/19/2024,Payment,Engen,PAY_PINV2202,Payment for PINV2202,,33000.0
+12/20/2024,Invoice,Total,PINV2195,Diesel Delivery,31500.0,
+12/20/2024,Payment,Engen,PAY_PINV2195,Payment for PINV2195,,31500.0
+12/20/2024,Invoice,Total,PINV2453,Diesel Delivery,27250.0,
+12/20/2024,Payment,Engen,PAY_PINV2453,Payment for PINV2453,,27250.0
+12/20/2024,Invoice,Total,PINV2558,Gasoline Delivery,26800.0,
+12/20/2024,Payment,Engen,PAY_PINV2558,Payment for PINV2558,,26800.0
+12/20/2024,Invoice,Total,PINV2222,Diesel Delivery,36900.0,
+12/20/2024,Payment,Engen,PAY_PINV2222,Payment for PINV2222,,36900.0
+12/20/2024,Invoice,Total,PINV2098,Diesel Delivery,15900.0,
+12/20/2024,Payment,Engen,PAY_PINV2098,Payment for PINV2098,,15900.0
+12/20/2024,Invoice,Total,PINV2444,Diesel Delivery,21800.0,
+12/20/2024,Payment,Engen,PAY_PINV2444,Payment for PINV2444,,21800.0
+12/21/2024,Invoice,Total,PINV2252,Gasoline Delivery,23800.0,
+12/21/2024,Payment,Engen,PAY_PINV2252,Payment for PINV2252,,23800.0
+12/21/2024,Invoice,Total,PINV2470,Gasoline Delivery,31500.0,
+12/21/2024,Payment,Engen,PAY_PINV2470,Payment for PINV2470,,31500.0
+12/21/2024,Invoice,Total,PINV2053,Gasoline Delivery,29500.0,
+12/21/2024,Payment,Engen,PAY_PINV2053,Payment for PINV2053,,29500.0
+12/21/2024,Invoice,Total,PINV2153,Gasoline Delivery,36600.0,
+12/21/2024,Payment,Engen,PAY_PINV2153,Payment for PINV2153,,36600.0
+12/21/2024,Invoice,Total,PINV2021,Diesel Delivery,29500.0,
+12/21/2024,Payment,Engen,PAY_PINV2021,Payment for PINV2021,,29500.0
+12/21/2024,Invoice,Total,PINV2149,Gasoline Delivery,30500.0,
+12/21/2024,Payment,Engen,PAY_PINV2149,Payment for PINV2149,,30500.0
+12/21/2024,Invoice,Total,PINV2048,Diesel Delivery,21600.0,
+12/21/2024,Payment,Engen,PAY_PINV2048,Payment for PINV2048,,21600.0
+12/21/2024,Invoice,Total,PINV2070,Diesel Delivery,36900.0,
+12/21/2024,Payment,Engen,PAY_PINV2070,Payment for PINV2070,,36900.0
+12/21/2024,Invoice,Total,PINV2419,Diesel Delivery,23800.0,
+12/21/2024,Payment,Engen,PAY_PINV2419,Payment for PINV2419,,23800.0
+12/22/2024,Invoice,Total,PINV2102,Gasoline Delivery,23600.0,
+12/22/2024,Payment,Engen,PAY_PINV2102,Payment for PINV2102,,23600.0
+12/22/2024,Invoice,Total,PINV2115,Diesel Delivery,22400.0,
+12/22/2024,Payment,Engen,PAY_PINV2115,Payment for PINV2115,,22400.0
+12/22/2024,Invoice,Total,PINV2172,Diesel Delivery,18000.0,
+12/22/2024,Payment,Engen,PAY_PINV2172,Payment for PINV2172,,18000.0
+12/22/2024,Invoice,Total,PINV2085,Diesel Delivery,19050.0,
+12/22/2024,Payment,Engen,PAY_PINV2085,Payment for PINV2085,,19050.0
+12/22/2024,Invoice,Total,PINV2346,Gasoline Delivery,16650.0,
+12/22/2024,Payment,Engen,PAY_PINV2346,Payment for PINV2346,,16650.0
+12/22/2024,Invoice,Total,PINV2364,Gasoline Delivery,38700.0,
+12/22/2024,Payment,Engen,PAY_PINV2364,Payment for PINV2364,,38700.0
+12/23/2024,Invoice,Total,PINV2433,Gasoline Delivery,33900.0,
+12/23/2024,Payment,Engen,PAY_PINV2433,Payment for PINV2433,,33900.0
+12/23/2024,Invoice,Total,PINV2387,Diesel Delivery,24200.0,
+12/23/2024,Payment,Engen,PAY_PINV2387,Payment for PINV2387,,24200.0
+12/23/2024,Invoice,Total,PINV2075,Gasoline Delivery,36300.0,
+12/23/2024,Payment,Engen,PAY_PINV2075,Payment for PINV2075,,36300.0
+12/23/2024,Invoice,Total,PINV2504,Gasoline Delivery,26200.0,
+12/23/2024,Payment,Engen,PAY_PINV2504,Payment for PINV2504,,26200.0
+12/23/2024,Invoice,Total,PINV2323,Diesel Delivery,19050.0,
+12/23/2024,Payment,Engen,PAY_PINV2323,Payment for PINV2323,,19050.0
+12/24/2024,Invoice,Total,PINV2431,Diesel Delivery,34800.0,
+12/24/2024,Payment,Engen,PAY_PINV2431,Payment for PINV2431,,34800.0
+12/24/2024,Invoice,Total,PINV2270,Diesel Delivery,30500.0,
+12/24/2024,Payment,Engen,PAY_PINV2270,Payment for PINV2270,,30500.0
+12/24/2024,Invoice,Total,PINV2368,Gasoline Delivery,32750.0,
+12/24/2024,Payment,Engen,PAY_PINV2368,Payment for PINV2368,,32750.0
+12/24/2024,Invoice,Total,PINV2422,Diesel Delivery,30750.0,
+12/24/2024,Payment,Engen,PAY_PINV2422,Payment for PINV2422,,30750.0
+12/24/2024,Invoice,Total,PINV2307,Diesel Delivery,22400.0,
+12/24/2024,Payment,Engen,PAY_PINV2307,Payment for PINV2307,,22400.0
+12/24/2024,Invoice,Total,PINV2167,Diesel Delivery,24000.0,
+12/24/2024,Payment,Engen,PAY_PINV2167,Payment for PINV2167,,24000.0
+12/24/2024,Invoice,Total,PINV2367,Gasoline Delivery,25000.0,
+12/24/2024,Payment,Engen,PAY_PINV2367,Payment for PINV2367,,25000.0
+12/24/2024,Invoice,Total,PINV2137,Diesel Delivery,28750.0,
+12/24/2024,Payment,Engen,PAY_PINV2137,Payment for PINV2137,,28750.0
+12/25/2024,Invoice,Total,PINV2434,Diesel Delivery,28750.0,
+12/25/2024,Payment,Engen,PAY_PINV2434,Payment for PINV2434,,28750.0
+12/25/2024,Invoice,Total,PINV2251,Gasoline Delivery,19350.0,
+12/25/2024,Payment,Engen,PAY_PINV2251,Payment for PINV2251,,19350.0
+12/25/2024,Invoice,Total,PINV2460,Gasoline Delivery,33500.0,
+12/25/2024,Payment,Engen,PAY_PINV2460,Payment for PINV2460,,33500.0
+12/25/2024,Invoice,Total,PINV2184,Gasoline Delivery,35100.0,
+12/25/2024,Payment,Engen,PAY_PINV2184,Payment for PINV2184,,35100.0
+12/25/2024,Invoice,Total,PINV2280,Gasoline Delivery,24800.0,
+12/25/2024,Payment,Engen,PAY_PINV2280,Payment for PINV2280,,24800.0
+12/25/2024,Invoice,Total,PINV2375,Diesel Delivery,29250.0,
+12/25/2024,Payment,Engen,PAY_PINV2375,Payment for PINV2375,,29250.0
+12/26/2024,Invoice,Total,PINV2024,Diesel Delivery,35400.0,
+12/26/2024,Payment,Engen,PAY_PINV2024,Payment for PINV2024,,35400.0
+12/26/2024,Invoice,Total,PINV2263,Gasoline Delivery,18150.0,
+12/26/2024,Payment,Engen,PAY_PINV2263,Payment for PINV2263,,18150.0
+12/27/2024,Invoice,Total,PINV2106,Diesel Delivery,21600.0,
+12/27/2024,Payment,Engen,PAY_PINV2106,Payment for PINV2106,,21600.0
+12/27/2024,Invoice,Total,PINV2449,Diesel Delivery,27000.0,
+12/27/2024,Payment,Engen,PAY_PINV2449,Payment for PINV2449,,27000.0
+12/27/2024,Invoice,Total,PINV2461,Gasoline Delivery,22600.0,
+12/27/2024,Payment,Engen,PAY_PINV2461,Payment for PINV2461,,22600.0
+12/27/2024,Invoice,Total,PINV2341,Diesel Delivery,30500.0,
+12/27/2024,Payment,Engen,PAY_PINV2341,Payment for PINV2341,,30500.0
+12/27/2024,Invoice,Total,PINV2335,Diesel Delivery,18750.0,
+12/27/2024,Payment,Engen,PAY_PINV2335,Payment for PINV2335,,18750.0
+12/27/2024,Invoice,Total,PINV2226,Diesel Delivery,29000.0,
+12/27/2024,Payment,Engen,PAY_PINV2226,Payment for PINV2226,,29000.0
+12/27/2024,Invoice,Total,PINV2023,Diesel Delivery,34200.0,
+12/27/2024,Payment,Engen,PAY_PINV2023,Payment for PINV2023,,34200.0
+12/27/2024,Invoice,Total,PINV2127,Gasoline Delivery,31000.0,
+12/27/2024,Payment,Engen,PAY_PINV2127,Payment for PINV2127,,31000.0
+12/28/2024,Invoice,Total,PINV2279,Gasoline Delivery,18750.0,
+12/28/2024,Payment,Engen,PAY_PINV2279,Payment for PINV2279,,18750.0
+12/28/2024,Invoice,Total,PINV2114,Diesel Delivery,25600.0,
+12/28/2024,Payment,Engen,PAY_PINV2114,Payment for PINV2114,,25600.0
+12/28/2024,Invoice,Total,PINV2560,Gasoline Delivery,31750.0,
+12/28/2024,Payment,Engen,PAY_PINV2560,Payment for PINV2560,,31750.0
+12/28/2024,Invoice,Total,PINV2164,Diesel Delivery,17250.0,
+12/28/2024,Payment,Engen,PAY_PINV2164,Payment for PINV2164,,17250.0
+12/28/2024,Invoice,Total,PINV2561,Gasoline Delivery,24320.0,
+12/28/2024,Payment,Engen,PAY_PINV2561,Payment for PINV2561,,24320.0
+12/29/2024,Invoice,Total,PINV2274,Diesel Delivery,18000.0,
+12/29/2024,Payment,Engen,PAY_PINV2274,Payment for PINV2274,,18000.0
+12/29/2024,Invoice,Total,PINV2425,Gasoline Delivery,39300.0,
+12/29/2024,Payment,Engen,PAY_PINV2425,Payment for PINV2425,,39300.0
+12/29/2024,Invoice,Total,PINV2193,Gasoline Delivery,24000.0,
+12/29/2024,Payment,Engen,PAY_PINV2193,Payment for PINV2193,,24000.0
+12/29/2024,Invoice,Total,PINV2521,Gasoline Delivery,18600.0,
+12/29/2024,Payment,Engen,PAY_PINV2521,Payment for PINV2521,,18600.0
+12/29/2024,Invoice,Total,PINV2099,Gasoline Delivery,31000.0,
+12/29/2024,Payment,Engen,PAY_PINV2099,Payment for PINV2099,,31000.0
+12/29/2024,Invoice,Total,PINV2040,Gasoline Delivery,30500.0,
+12/29/2024,Payment,Engen,PAY_PINV2040,Payment for PINV2040,,30500.0
+12/29/2024,Invoice,Total,PINV2103,Diesel Delivery,36900.0,
+12/29/2024,Payment,Engen,PAY_PINV2103,Payment for PINV2103,,36900.0
+12/29/2024,Invoice,Total,PINV2148,Diesel Delivery,21000.0,
+12/29/2024,Payment,Engen,PAY_PINV2148,Payment for PINV2148,,21000.0
+12/30/2024,Invoice,Total,PINV2436,Gasoline Delivery,33250.0,
+12/30/2024,Payment,Engen,PAY_PINV2436,Payment for PINV2436,,33250.0
+12/30/2024,Invoice,Total,PINV2112,Diesel Delivery,38100.0,
+12/30/2024,Payment,Engen,PAY_PINV2112,Payment for PINV2112,,38100.0
+12/30/2024,Invoice,Total,PINV2054,Gasoline Delivery,37800.0,
+12/30/2024,Payment,Engen,PAY_PINV2054,Payment for PINV2054,,37800.0
+12/30/2024,Invoice,Total,PINV2554,Gasoline Delivery,19200.0,
+12/30/2024,Payment,Engen,PAY_PINV2554,Payment for PINV2554,,19200.0
+12/31/2024,Invoice,Total,PINV2326,Diesel Delivery,18150.0,
+12/31/2024,Payment,Engen,PAY_PINV2326,Payment for PINV2326,,18150.0
+12/31/2024,Invoice,Total,PINV2092,Gasoline Delivery,17850.0,
+12/31/2024,Payment,Engen,PAY_PINV2092,Payment for PINV2092,,17850.0
+12/31/2024,Invoice,Total,PINV2428,Diesel Delivery,32250.0,
+12/31/2024,Payment,Engen,PAY_PINV2428,Payment for PINV2428,,32250.0
+12/31/2024,Invoice,Total,PINV2350,Diesel Delivery,19500.0,
+12/31/2024,Payment,Engen,PAY_PINV2350,Payment for PINV2350,,19500.0
+12/31/2024,Invoice,Total,PINV2138,Gasoline Delivery,26400.0,
+12/31/2024,Payment,Engen,PAY_PINV2138,Payment for PINV2138,,26400.0
+12/31/2024,Invoice,Total,PINV2291,Gasoline Delivery,24200.0,
+12/31/2024,Payment,Engen,PAY_PINV2291,Payment for PINV2291,,24200.0
+12/31/2024,Invoice,Total,PINV2448,Gasoline Delivery,22000.0,
+12/31/2024,Payment,Engen,PAY_PINV2448,Payment for PINV2448,,22000.0
+12/31/2024,Invoice,Total,PINV2128,Diesel Delivery,16050.0,
+12/31/2024,Payment,Engen,PAY_PINV2128,Payment for PINV2128,,16050.0
+12/31/2024,Invoice,Total,PINV2482,Gasoline Delivery,30250.0,
+12/31/2024,Payment,Engen,PAY_PINV2482,Payment for PINV2482,,30250.0
