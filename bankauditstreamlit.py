@@ -185,11 +185,9 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
-st.subheader("🚀 Try It Out")
+st.subheader("🚀 Try Out Fraud Detection")
 import openai
 from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
-
-st.subheader("🚀 Try Out Fraud Detection")
 
 st.markdown("### 🧾 Enter a New Transaction")
 
