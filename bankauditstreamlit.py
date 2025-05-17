@@ -3,9 +3,6 @@ import streamlit as st
 from streamlit.components.v1 import html
 import pandas as pd
 
-with open("model_context.txt", "r") as f:
-    model_context = f.read()
-
 # --- Page Config ---
 st.set_page_config(page_title="Audit Portal", layout="wide")
 
@@ -172,6 +169,11 @@ csv_files = {
     "Bank Transactions": {
         "path": "data/bank_transactions_data_2.csv",
         "summary": "🔍 A full export of processed bank transactions including dates, vendors, and amounts."
+    },
+
+    "Flagged Transactions (Given from Ensemble Model)": {
+        "path": "flagged.csv",
+        "summary": "List of all flagged transactions that the ensemble method gave back. The ensemble method provided the fraudulent transaction that all the models (SVM, Isolation Forest, DBSCAN) agreed on.
     }
 }
 
@@ -194,6 +196,12 @@ st.markdown("<div id='demo'>", unsafe_allow_html=True)
 from openai import OpenAI
 from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
 
+with open("model_context.txt", "r") as f
+    model_context = f.read()
+
+# Read the flagged data (CSV)
+flagged_df = pd.read_csv("flagged.csv")  # or "flagged.txt" if it's named that
+
 # --- LLM Assistant ---
 st.markdown("### 🤖 Ask the Audit Assistant")
 
@@ -204,10 +212,6 @@ from openai import OpenAI
 
 # Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-
-# Load model context from a file
-with open("model_context.txt", "r") as f:
-    model_context = f.read()
 
 if "messages" not in st.session_state:
     # Add system message with model context only once at the start
