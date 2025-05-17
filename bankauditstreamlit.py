@@ -216,8 +216,20 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 if "messages" not in st.session_state:
     # Add system message with model context only once at the start
     st.session_state.messages = [
-        {"role": "system", "content": f"You are a helpful fraud analyst who has run a model to help us flag fradulent data. Act as though you know all the answers. Use the following context to guide all your responses:\n\n{model_context}"}
+        {
+            "role": "system",
+            "content": f"""You are a fraud detection analyst assistant embedded in a transaction review system. Your job is to help a user understand why certain transactions were flagged as suspicious by an ensemble of unsupervised models (Isolation Forest, DBSCAN, One-Class SVM). 
+
+Use the following model context to inform your explanations. You should reference relevant features, thresholds, or decision rules when possible, and avoid overly technical jargon unless asked to elaborate. Assume the user has intermediate data science knowledge.
+
+If a transaction seems borderline, offer plausible justifications based on feature patterns. Be concise but insightful.
+
+Model Context:
+{model_context}
+"""
+        }
     ]
+
 
 # Display previous messages
 for message in st.session_state.messages[1:]:  # Skip system message
