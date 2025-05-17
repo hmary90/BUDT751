@@ -169,39 +169,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
-st.subheader("🚀 Try Out Fraud Detection")
-import openai
-from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
 
-st.markdown("### 🧾 Enter a New Transaction")
-
-with st.form("fraud_form"):
-    tx_date = st.date_input("Transaction Date")
-    tx_amount = st.number_input("Transaction Amount", value=100.0)
-    tx_type = st.selectbox("Transaction Type", ["Online", "POS", "Transfer"])
-    channel = st.selectbox("Channel", ["Web", "Mobile", "ATM"])
-    device = st.text_input("Device ID", value="device_001")
-
-    submitted = st.form_submit_button("Run Fraud Check")
-
-if submitted:
-    input_df = pd.DataFrame([{
-        "TransactionDate": pd.to_datetime(tx_date),
-        "TransactionAmount": tx_amount,
-        "TransactionType": tx_type,
-        "Channel": channel,
-        "DeviceID": device
-    }])
-
-    results = predict_ensemble(input_df)
-    st.success(f"Prediction: {'⚠️ Fraud' if results['ensemble'] else '✅ Not Fraud'}")
-    
-    st.write("### Model Breakdown")
-    st.write(f"- Isolation Forest: {'Fraud' if results['isolation_forest'] else 'Not Fraud'}")
-    st.write(f"- DBSCAN: {'Fraud' if results['dbscan'] else 'Not Fraud'}")
-    st.write(f"- One-Class SVM: {'Fraud' if results['ocsvm'] else 'Not Fraud'}")
-
-# --- LLM Interaction ---
 st.markdown("### 🤖 Ask the Audit Assistant")
 
 st.markdown("Use the AI assistant to explain fraud reasons, summarize risk patterns, or answer questions about the data or model behavior.")
