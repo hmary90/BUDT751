@@ -143,29 +143,13 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
 # --- CSV Viewer Section ---
 st.subheader("📄 Audit Data Explorer")
-st.write(f"Here is the data that has been given to the demo model. These files are every business transaction for an Oil Comapany in one quarter. Data Consultants are given the task to audit their books. There are thousands of transactions and it would take months to go through.")
+st.write(f"Here is the data that has been given to the demo model. Sterling Oak Bank has hired Data Consultants to find fraudlent transactions in a log of past transactions. There are thousands of transactions and it would take months to go through.")
 
 # Define your CSV paths and summaries
 csv_files = {
     "Bank Transactions": {
-        "path": "data/bank_statement.csv",
+        "path": "data/bank_transactions_data_2.csv",
         "summary": "🔍 A full export of processed bank transactions including dates, vendors, and amounts."
-    },
-    "Vendor Payments": {
-        "path": "data/purchase_invoices.csv",
-        "summary": " 🏦Payment records for vendors, showing invoice dates and summary of order."
-    },
-    "Receipt of Sales": {
-        "path": "data/receipts.csv",
-        "summary": "📋 Record of sale given to customers of the oil company."
-    },
-    "Log of Sales": {
-        "path": "data/sales_invoices.csv",
-        "summary": "💰 Internal record of sales. Helps to recogize quantity of oil being sold."
-    },
-    "Outgoing/Pending Payments": {
-        "path": "data/supplier_statements.csv",
-        "summary": "🏦Payment records for vendors, showing invoice dates, and recognizes payment status."
     }
 }
 
