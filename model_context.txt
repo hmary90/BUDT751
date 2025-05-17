@@ -101,6 +101,10 @@ The fraud detection system was built using a comprehensive unsupervised learning
 
 📈 **Evaluation & Agreement Analysis:**
 
+*Fradulent Transactions Found:
+ * 110 flagged transactions
+ * Ensemble method used to create the list of flagged transactions
+
 * Anomaly agreement rates:
 
   * Isolation Forest & DBSCAN: \~87%
