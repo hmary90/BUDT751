@@ -180,44 +180,48 @@ st.markdown("### 🤖 Ask the Audit Assistant")
 
 st.markdown("Use the AI assistant to explain fraud results, patterns, or anything about the models.")
 
+import streamlit as st
 from openai import OpenAI
 
+# Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-st.markdown("### 🤖 Ask the Audit Assistant")
-user_prompt = st.text_area("Type your question for the assistant", key="user_prompt_box")
+# Load model context from a file
+with open("model_context.txt", "r") as f:
+    model_context = f.read()
 
-if st.button("Ask Assistant"):
-    if not user_prompt.strip():
-        st.warning("Please enter a question before clicking Ask.")
-    else:
-        with st.spinner("Thinking..."):
-            try:
-                response = client.chat.completions.create(
-                    model="gpt-4",
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": "You are a helpful audit and fraud detection assistant who understands unsupervised machine learning, anomaly detection, and the user's model details."
-                        },
-                        {
-                            "role": "user",
-                            "content": f"""
-Here is full context about the user's model:
+if "messages" not in st.session_state:
+    # Add system message with model context only once at the start
+    st.session_state.messages = [
+        {"role": "system", "content": f"You are a helpful fraud analyst. Use the following context to guide all your responses:\n\n{model_context}"}
+    ]
 
-{model_context}
+# Display previous messages
+for message in st.session_state.messages[1:]:  # Skip system message
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
 
-Now answer the following question from the user:
-{user_prompt}
-"""
-                        }
-                    ]
-                )
-                st.markdown("**Response:**")
-                st.write(response.choices[0].message.content)
-            except Exception as e:
-                st.error(f"Oops, something went wrong: {e}")
+# Chat input
+if prompt := st.chat_input("Ask something about fraud detection..."):
+    # Store user message
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
 
+    # Send message list to OpenAI (includes model context at the top)
+    try:
+        stream = client.chat.completions.create(
+            model="gpt-4",
+            messages=st.session_state.messages,
+            stream=True,
+        )
+
+        with st.chat_message("assistant"):
+            response = st.write_stream(stream)
+        st.session_state.messages.append({"role": "assistant", "content": response})
+
+    except Exception as e:
+        st.error(f"Something went wrong: {e}")
 
 
 st.markdown("</div>", unsafe_allow_html=True)
