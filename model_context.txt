@@ -122,6 +122,30 @@ The fraud detection system was built using a comprehensive unsupervised learning
  * 110 flagged transactions
  * Ensemble method used to create the list of flagged transactions
 
+ Summary of Fraud Detection Rules:
+ 
+ The following decision rules are used to identify transactions as potentially fraudulent:
+ 
+ 1. When LoginAttempts <= 3.5:
+    - If TransactionAmount > 959.19 and MerchantID <= 4.5 → classify as fraud.
+    - If TransactionDuration > 262.5:
+      - If TransactionType <= 0.5 and Location > 27 → classify as fraud.
+      - If TransactionType > 0.5 and MerchantID > 97.5 → classify as fraud.
+    - If TransactionAmount > 1289.39 and:
+      - MerchantID <= 89.0 and CustomerAge > 18.5 and AccountBalance <= 1894.64 → classify as fraud.
+      - MerchantID <= 89.0 and CustomerAge > 18.5 and AccountBalance > 1894.64 → classify as fraud.
+ 
+ 2. When LoginAttempts > 3.5:
+    - If TransactionAmount <= 393.88:
+      - If Amount_to_AvgByType_Ratio <= 1.04 and AccountBalance > 10336.47 → classify as fraud.
+      - If Amount_to_AvgByType_Ratio <= 1.04 and LoginAttempts > 4.5 → classify as fraud.
+    - If TransactionAmount > 393.88:
+      - If DeviceID <= 632.5 → classify as fraud.
+      - If DeviceID > 632.5 and MerchantID <= 20 → classify as fraud.
+ 
+ All other cases are classified as non-fraudulent.
+
+
 * Anomaly agreement rates:
 
   * Isolation Forest & DBSCAN: \~87%
