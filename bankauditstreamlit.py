@@ -196,7 +196,7 @@ st.markdown("<div id='demo'>", unsafe_allow_html=True)
 from openai import OpenAI
 from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
 
-with open("model_context.txt", "r") as f
+with open("model_context.txt", "r") as f:
     model_context = f.read()
 
 # Read the flagged data (CSV)
