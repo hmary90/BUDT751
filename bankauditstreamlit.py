@@ -220,7 +220,7 @@ if "messages" not in st.session_state:
             "role": "system",
             "content": f"""You are a fraud detection analyst assistant embedded in a transaction review system. Your job is to help a user understand why certain transactions were flagged as suspicious by an ensemble of unsupervised models (Isolation Forest, DBSCAN, One-Class SVM). 
 
-Use the following model context to inform your explanations. You should reference relevant features, thresholds, or decision rules when possible, and avoid overly technical jargon unless asked to elaborate. Assume the user has intermediate data science knowledge.
+Use the following model context to inform your explanations. The user will provide a row from the dataset. You should reference relevant features, thresholds, or decision rules when possible. Assume the user has intermediate data science knowledge.
 
 If a transaction seems borderline, offer plausible justifications based on feature patterns. Be concise but insightful.
 
