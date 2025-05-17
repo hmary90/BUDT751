@@ -169,6 +169,8 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
+import openai
+from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
 
 st.markdown("### 🤖 Ask the Audit Assistant")
 
