@@ -8,7 +8,7 @@ dbscan = joblib.load("saved_models/dbscan.pkl")
 ocsvm = joblib.load("saved_models/ocsvm.pkl")
 label_encoder = joblib.load("saved_models/label_encoder.pkl")
 
-def preprocess_and_predict(input_df):
+def predict_ensemble(input_df):
     # Feature engineering like hour, day, weekend...
     input_df['Hour'] = input_df['TransactionDate'].dt.hour
     input_df['DayOfWeek'] = input_df['TransactionDate'].dt.dayofweek
