@@ -68,6 +68,26 @@ custom_css = """
         padding: 3rem 2rem;
         text-align: center;
     }
+
+     /* Container for messages with fixed height and scroll */
+    #message-container {
+        height: 400px;
+        overflow-y: auto;
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin-bottom: 10px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    /* Sticky/fixed input container */
+    #input-container {
+        position: sticky;
+        bottom: 0;
+        background: white;
+        padding-top: 10px;
+        border-top: 1px solid #ddd;
+    }
 </style>
 """
 st.markdown(custom_css, unsafe_allow_html=True)
@@ -177,54 +197,38 @@ from model_utils import predict_ensemble  # Make sure model_utils.py is in your 
 
 # --- LLM Assistant ---
 st.markdown("### 🤖 Ask the Audit Assistant")
-
 st.markdown("Use the AI assistant to explain fraud results, patterns, or anything about the models.")
 
-import streamlit as st
-from openai import OpenAI
+# Messages container
+st.markdown('<div id="message-container">', unsafe_allow_html=True)
 
-# Load your OpenAI API key securely
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-
-# Load model context from a file
-with open("model_context.txt", "r") as f:
-    model_context = f.read()
-
-if "messages" not in st.session_state:
-    # Add system message with model context only once at the start
-    st.session_state.messages = [
-        {"role": "system", "content": f"You are a helpful fraud analyst. Use the following context to guide all your responses:\n\n{model_context}"}
-    ]
-
-# Display previous messages
 for message in st.session_state.messages[1:]:  # Skip system message
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Chat input
+st.markdown('</div>', unsafe_allow_html=True)
+
+# Input container fixed at bottom of div
+st.markdown('<div id="input-container">', unsafe_allow_html=True)
+
 if prompt := st.chat_input("Ask something about fraud detection..."):
-    # Store user message
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # Send message list to OpenAI (includes model context at the top)
     try:
         stream = client.chat.completions.create(
             model="gpt-4",
             messages=st.session_state.messages,
             stream=True,
         )
-
         with st.chat_message("assistant"):
             response = st.write_stream(stream)
         st.session_state.messages.append({"role": "assistant", "content": response})
-
     except Exception as e:
         st.error(f"Something went wrong: {e}")
 
-
-st.markdown("</div>", unsafe_allow_html=True)
+st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Call to Action ---
 st.markdown("""
