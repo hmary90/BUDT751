@@ -173,7 +173,7 @@ csv_files = {
 
     "Flagged Transactions (Given from Ensemble Model)": {
         "path": "flagged.csv",
-        "summary": "List of all flagged transactions that the ensemble method gave back. The ensemble method provided the fraudulent transaction that all the models (SVM, Isolation Forest, DBSCAN) agreed on.
+        "summary": "List of all flagged transactions that the ensemble method gave back. The ensemble method provided the fraudulent transaction that all the models (SVM, Isolation Forest, DBSCAN) agreed on."
     }
 }
 
