@@ -169,7 +169,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Interactive Demo ---
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
-import openai
+from openai import OpenAI
 from model_utils import predict_ensemble  # Make sure model_utils.py is in your project
 
 # --- LLM Assistant ---
@@ -177,9 +177,7 @@ st.markdown("### 🤖 Ask the Audit Assistant")
 
 st.markdown("Use the AI assistant to explain fraud results, patterns, or anything about the models.")
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
-
-user_prompt = st.text_area("Type your question for the assistant")
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 if st.button("Ask Assistant"):
     if not user_prompt.strip():
@@ -187,7 +185,7 @@ if st.button("Ask Assistant"):
     else:
         with st.spinner("Thinking..."):
             try:
-                response = openai.ChatCompletion.create(
+                response = client.chat.completions.create(
                     model="gpt-4",
                     messages=[
                         {"role": "system", "content": "You are a helpful fraud detection assistant. Answer based on ensemble anomaly detection methods like Isolation Forest, DBSCAN, and One-Class SVM."},
@@ -198,6 +196,7 @@ if st.button("Ask Assistant"):
                 st.write(response.choices[0].message.content)
             except Exception as e:
                 st.error(f"Oops, something went wrong: {e}")
+
 
 st.markdown("</div>", unsafe_allow_html=True)
 
