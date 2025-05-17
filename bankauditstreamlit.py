@@ -6,6 +6,11 @@ import pandas as pd
 with open("model_context.txt", "r") as f:
     model_context = f.read()
 
+if "messages" not in st.session_state:
+    st.session_state.messages = [
+        {"role": "system", "content": f"You are a helpful fraud analyst. Use the following context to guide all your responses:\n\n{model_context}"}
+    ]
+
 
 # --- Page Config ---
 st.set_page_config(page_title="Audit Portal", layout="wide")
