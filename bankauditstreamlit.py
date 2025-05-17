@@ -3,6 +3,9 @@ import streamlit as st
 from streamlit.components.v1 import html
 import pandas as pd
 
+with open("model_context.txt", "r") as f:
+    model_context = f.read()
+
 
 # --- Page Config ---
 st.set_page_config(page_title="Audit Portal", layout="wide")
@@ -177,9 +180,11 @@ st.markdown("### 🤖 Ask the Audit Assistant")
 
 st.markdown("Use the AI assistant to explain fraud results, patterns, or anything about the models.")
 
+from openai import OpenAI
+
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-# ✅ Define user_prompt BEFORE the button is clicked
+st.markdown("### 🤖 Ask the Audit Assistant")
 user_prompt = st.text_area("Type your question for the assistant", key="user_prompt_box")
 
 if st.button("Ask Assistant"):
@@ -189,16 +194,30 @@ if st.button("Ask Assistant"):
         with st.spinner("Thinking..."):
             try:
                 response = client.chat.completions.create(
-                    model="gpt-3.5-turbo",
+                    model="gpt-4",
                     messages=[
-                        {"role": "system", "content": "You are a helpful fraud detection assistant. Answer based on ensemble anomaly detection methods like Isolation Forest, DBSCAN, and One-Class SVM."},
-                        {"role": "user", "content": user_prompt}
+                        {
+                            "role": "system",
+                            "content": "You are a helpful audit and fraud detection assistant who understands unsupervised machine learning, anomaly detection, and the user's model details."
+                        },
+                        {
+                            "role": "user",
+                            "content": f"""
+Here is full context about the user's model:
+
+{model_context}
+
+Now answer the following question from the user:
+{user_prompt}
+"""
+                        }
                     ]
                 )
                 st.markdown("**Response:**")
                 st.write(response.choices[0].message.content)
             except Exception as e:
                 st.error(f"Oops, something went wrong: {e}")
+
 
 
 st.markdown("</div>", unsafe_allow_html=True)
