@@ -179,6 +179,9 @@ st.markdown("Use the AI assistant to explain fraud results, patterns, or anythin
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
+# ✅ Define user_prompt BEFORE the button is clicked
+user_prompt = st.text_area("Type your question for the assistant", key="user_prompt_box")
+
 if st.button("Ask Assistant"):
     if not user_prompt.strip():
         st.warning("Please enter a question before clicking Ask.")
@@ -186,7 +189,7 @@ if st.button("Ask Assistant"):
         with st.spinner("Thinking..."):
             try:
                 response = client.chat.completions.create(
-                    model="gpt-4",
+                    model="gpt-3.5-turbo",
                     messages=[
                         {"role": "system", "content": "You are a helpful fraud detection assistant. Answer based on ensemble anomaly detection methods like Isolation Forest, DBSCAN, and One-Class SVM."},
                         {"role": "user", "content": user_prompt}
