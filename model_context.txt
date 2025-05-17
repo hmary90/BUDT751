@@ -1,0 +1,145 @@
+The fraud detection system was built using a comprehensive unsupervised learning pipeline on transactional banking data. Here are the key components:
+
+📊 **Data Overview:**
+
+* Dataset: Banking transactions from customers at Sterling Oak Bank
+* Rows: \~10,000+
+* Columns included: TransactionAmount, TransactionDate, DeviceID, TransactionType, Channel, AccountID, IP Address, etc.
+* Initial exploration checked for missing data, duplicates, and statistical summaries
+
+🛠️ **Feature Engineering:**
+
+* Extracted temporal features:
+
+  * `Hour`, `DayOfWeek`, `Weekend` (1 if Sat/Sun), `Month`
+* Time-based behavioral feature:
+
+  * `TimeSinceLastTx` (in hours)
+* Statistical outlier detection:
+
+  * Z-score computed on TransactionAmount
+* Ratio features:
+
+  * `Amount_to_AvgByType_Ratio` = TransactionAmount / Avg for that TransactionType
+* Behavioral count feature:
+
+  * `DeviceTxCount` = total transactions per DeviceID
+
+🧹 **Preprocessing:**
+
+* Dropped non-model-useful fields: TransactionID, AccountID, IP Address, date columns
+* Label-encoded categorical variables (e.g., Channel, TransactionType)
+* StandardScaler applied to all numeric features
+* Final dataset shape: \~10–15 numerical columns after processing
+
+🧠 **Unsupervised Models Used:**
+
+1. **Isolation Forest:**
+
+   * Grid search performed for tuning
+   * Best params: `n_estimators=200`, `contamination=0.02`, `max_samples='auto'`
+   * Outputs:
+
+     * `IF_Anomaly`: 1 if predicted as anomaly, 0 otherwise
+     * `IF_Score`: distance from anomaly boundary
+
+2. **DBSCAN:**
+
+   * Used KNN distance plot to tune `eps`
+   * Best params found: `eps=2.0`, `min_samples=10`
+   * Outputs:
+
+     * `DBSCAN_Label`: cluster number or -1 for anomaly
+     * `DBSCAN_Anomaly`: 1 if label is -1, else 0
+
+3. **One-Class SVM:**
+
+   * Kernel: RBF
+   * `nu=0.05`, `gamma='auto'`
+   * Outputs:
+
+     * `OCSVM_Anomaly`: 1 if predicted as anomaly, 0 otherwise
+     * `OCSVM_Score`: signed distance from the separating hyperplane
+
+🧩 **Ensemble Model Logic:**
+
+* Target variable: `Ensemble_Anomaly`
+* Defined as 1 (fraud) if **2 or more models** predict an anomaly
+* Combines predictions from `IF_Anomaly`, `DBSCAN_Anomaly`, and `OCSVM_Anomaly`
+
+📊 **Visual & Statistical Analysis:**
+
+* Compared fraud vs. non-fraud across:
+
+  * `TransactionAmount`, `Hour`, `Channel`, `TransactionType`
+* Found frauds more likely:
+
+  * At night, during weekends
+  * Through certain channels (e.g., web/mobile)
+* Outlier transactions had higher Z-scores
+
+🌲 **Decision Tree Model (for rule explanation):**
+
+* Trained to learn rules from ensemble-labeled data
+* Max depth = 5
+* Used `plot_tree()` and `export_text()` to extract human-readable rules
+* Example rule:
+
+  * If `TransactionAmount > 9000` and `Hour > 20` and `Channel = Mobile`, then high fraud likelihood
+
+🔥 **Feature Importance (Random Forest):**
+
+* Most important features:
+
+  1. `TransactionAmount`
+  2. `Hour`
+  3. `Channel`
+  4. `TransactionType`
+  5. `DayOfWeek`
+  6. `Amount_to_AvgByType_Ratio`
+  7. `DeviceTxCount`
+
+📈 **Evaluation & Agreement Analysis:**
+
+* Anomaly agreement rates:
+
+  * Isolation Forest & DBSCAN: \~87%
+  * Isolation Forest & OCSVM: \~84%
+  * DBSCAN & OCSVM: \~81%
+* Ensemble agreement across all: \~84%
+
+📌 **Conclusion and Recommendation:**
+
+#### Fraud Detection System Summary:
+
+---
+
+1. **Data Exploration:**
+
+   * Analyzed transaction patterns by time, amount, type, and channel
+   * Identified initial data characteristics and potential anomalies
+
+2. **Feature Engineering:**
+
+   * Created time-based features (hour, day, weekend flag)
+   * Engineered behavioral features (deviation from typical patterns)
+   * Added transaction velocity and pattern-based features
+
+3. **Modeling Approach:**
+
+   * Applied multiple unsupervised algorithms (Isolation Forest, DBSCAN, One-Class SVM, LOF)
+   * Created ensemble model combining multiple algorithm outputs
+   * Implemented cluster analysis to identify transaction segments
+
+4. **Anomaly Characterization:**
+
+   * Identified key features distinguishing anomalies from normal transactions
+   * Analyzed temporal patterns of anomalies
+   * Created comprehensive risk scoring system
+
+5. **Model Evaluation:**
+
+   * Compared model agreement levels
+   * Observed consistent patterns across multiple anomaly detection methods
+
+This unsupervised fraud detection system identifies anomalous transactions based on a majority vote across 3 models. Feature engineering emphasized behavioral timing, transaction types, and device usage. Ensemble learning improves robustness, while the decision tree helps auditors understand *why* a transaction was flagged.
