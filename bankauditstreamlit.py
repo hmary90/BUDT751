@@ -213,70 +213,25 @@ from openai import OpenAI
 # Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-if prompt := st.chat_input("XXXXXXX"):
+# Load your OpenAI API key securely
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-    # Example: Predict ensemble for the current input row
-    input_df = pd.DataFrame([{
-        "TransactionDate": ...,  # Whatever fields you capture from the user
-        "TransactionAmount": ...,
-        ...
-    }])
+if "messages" not in st.session_state:
+    # Add system message with model context only once at the start
+    st.session_state.messages = [
+        {
+            "role": "system",
+            "content": f"""You are a fraud detection analyst assistant embedded in a transaction review system. Your job is to help a user understand why certain transactions were flagged as suspicious by an ensemble of unsupervised models (Isolation Forest, DBSCAN, One-Class SVM). 
 
-    result = predict_ensemble(input_df)
+Use the following model context to inform your explanations. The user will provide a row from the dataset. You should reference relevant features, thresholds, or decision rules when possible. Assume the user has intermediate data science knowledge.
 
-    # Format the results as context
-    transaction_summary = f"""
-Transaction flagged as: {'FRAUD' if result['ensemble'] else 'NOT FRAUD'}
+If a transaction seems borderline, offer plausible justifications based on feature patterns. Be concise but insightful.
 
-Model breakdown:
-- Isolation Forest: {'Anomaly' if result['isolation_forest'] else 'Normal'}
-- DBSCAN: {'Anomaly' if result['dbscan'] else 'Normal'}
-- One-Class SVM: {'Anomaly' if result['ocsvm'] else 'Normal'}
-
-Transaction Details: {input_df.to_dict(orient='records')[0]}
+Model Context:
+{model_context}
 """
-
-    # Add user prompt with transaction context
-    full_user_prompt = f"""
-User question: {prompt}
-
-Please interpret this transaction in light of the following prediction:
-{transaction_summary}
-"""
-
-    # Add user message
-    st.session_state.messages.append({"role": "user", "content": full_user_prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
-
-
-# Display previous messages
-for message in st.session_state.messages[1:]:  # Skip system message
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
-
-# Chat input
-if prompt := st.chat_input("Why was this flagged?"):
-    # Store user message
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
-
-    # Send message list to OpenAI (includes model context at the top)
-    try:
-        stream = client.chat.completions.create(
-            model="gpt-4",
-            messages=st.session_state.messages,
-            stream=True,
-        )
-
-        with st.chat_message("assistant"):
-            response = st.write_stream(stream)
-        st.session_state.messages.append({"role": "assistant", "content": response})
-
-    except Exception as e:
-        st.error(f"Something went wrong: {e}")
-
+        }
+    ]
 
 st.markdown("</div>", unsafe_allow_html=True)
 
