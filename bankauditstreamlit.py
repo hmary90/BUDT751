@@ -213,7 +213,7 @@ from openai import OpenAI
 # Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-if prompt := st.chat_input("Ask something about this transaction..."):
+if prompt := st.chat_input("XXXXXXX"):
 
     # Example: Predict ensemble for the current input row
     input_df = pd.DataFrame([{
