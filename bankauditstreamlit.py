@@ -122,7 +122,7 @@ with col1:
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnn0tssCtl_n6XAJ7L15NW1hgaqQghfeO0g&s" width="100%"/>
                 <h3 STYLE="color:#000000">Catches More Errors & Risks (Improved Accuracy) </h3>
                 <ul STYLE="color:#000000">
-                    <li>Instead of spending hours manually checking invoices or journal entries, the AI scans thousands of records in minutes.</li>
+                    <li>Instead of spending hours manually checking invoices or transactions, the AI scans thousands of records in minutes.</li>
                     <li>Auditors can now focus soley on the flagged issues, not the entire dataset</li>
                     <li>Can spot patterns of fraud or errors that humans might miss—like duplicate invoices or unusual transactions at odd times.</li>
                 </ul>
@@ -162,7 +162,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("<div id='demo'>", unsafe_allow_html=True)
 # --- CSV Viewer Section ---
 st.subheader("📄 Audit Data Explorer")
-st.write(f"Here is the data that has been given to the demo model. Sterling Oak Bank has hired Data Consultants to find fraudlent transactions in a log of past transactions. There are thousands of transactions and it would take months to go through.")
+st.write(f"Here is the data that has been given to the demo model. Sterling Oak Bank has hired Data Consultants to find fraudlent transactions in a log of past transactions. There are thousands of transactions and it would take days to go through.")
 
 # Define your CSV paths and summaries
 csv_files = {
