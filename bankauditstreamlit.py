@@ -213,9 +213,6 @@ from openai import OpenAI
 # Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-# Load your OpenAI API key securely
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-
 if "messages" not in st.session_state:
     # Add system message with model context only once at the start
     st.session_state.messages = [
