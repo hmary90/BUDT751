@@ -256,7 +256,7 @@ for message in st.session_state.messages[1:]:  # Skip system message
         st.markdown(message["content"])
 
 # Chat input
-if prompt := st.chat_input("Ask something about fraud detection..."):
+if prompt := st.chat_input("Why was this flagged?"):
     # Store user message
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
