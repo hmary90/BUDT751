@@ -150,7 +150,7 @@ with col3:
                     <li>Auditors can ask the AI questions like:
                         <ul>
                             <li>“Why was this flagged?”</li>
-                            <li>“Summarize all contract risks.”</li>
+                            <li>“Summarize patterns in flagged data.”</li>
                         </ul>
                     </li>
                     <li>The model gives quick, knowledgeable answers based on the data.</li>
