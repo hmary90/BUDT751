@@ -230,6 +230,35 @@ Model Context:
         }
     ]
 
+
+# Display previous messages
+for message in st.session_state.messages[1:]:  # Skip system message
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+# Chat input
+if prompt := st.chat_input("Ask something about fraud detection..."):
+    # Store user message
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    # Send message list to OpenAI (includes model context at the top)
+    try:
+        stream = client.chat.completions.create(
+            model="gpt-4",
+            messages=st.session_state.messages,
+            stream=True,
+        )
+
+        with st.chat_message("assistant"):
+            response = st.write_stream(stream)
+        st.session_state.messages.append({"role": "assistant", "content": response})
+
+    except Exception as e:
+        st.error(f"Something went wrong: {e}")
+
+
 st.markdown("</div>", unsafe_allow_html=True)
 
 # --- Call to Action ---
@@ -258,4 +287,3 @@ st.markdown("""
     <p>&copy; 2025 Your Company Name. All rights reserved.</p>
 </footer>
 """, unsafe_allow_html=True)
-
