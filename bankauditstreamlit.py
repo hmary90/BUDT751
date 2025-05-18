@@ -213,22 +213,41 @@ from openai import OpenAI
 # Load your OpenAI API key securely
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-if "messages" not in st.session_state:
-    # Add system message with model context only once at the start
-    st.session_state.messages = [
-        {
-            "role": "system",
-            "content": f"""You are a fraud detection analyst assistant embedded in a transaction review system. Your job is to help a user understand why certain transactions were flagged as suspicious by an ensemble of unsupervised models (Isolation Forest, DBSCAN, One-Class SVM). 
+if prompt := st.chat_input("Ask something about this transaction..."):
 
-Use the following model context to inform your explanations. The user will provide a row from the dataset. You should reference relevant features, thresholds, or decision rules when possible. Assume the user has intermediate data science knowledge.
+    # Example: Predict ensemble for the current input row
+    input_df = pd.DataFrame([{
+        "TransactionDate": ...,  # Whatever fields you capture from the user
+        "TransactionAmount": ...,
+        ...
+    }])
 
-If a transaction seems borderline, offer plausible justifications based on feature patterns. Be concise but insightful.
+    result = predict_ensemble(input_df)
 
-Model Context:
-{model_context}
+    # Format the results as context
+    transaction_summary = f"""
+Transaction flagged as: {'FRAUD' if result['ensemble'] else 'NOT FRAUD'}
+
+Model breakdown:
+- Isolation Forest: {'Anomaly' if result['isolation_forest'] else 'Normal'}
+- DBSCAN: {'Anomaly' if result['dbscan'] else 'Normal'}
+- One-Class SVM: {'Anomaly' if result['ocsvm'] else 'Normal'}
+
+Transaction Details: {input_df.to_dict(orient='records')[0]}
 """
-        }
-    ]
+
+    # Add user prompt with transaction context
+    full_user_prompt = f"""
+User question: {prompt}
+
+Please interpret this transaction in light of the following prediction:
+{transaction_summary}
+"""
+
+    # Add user message
+    st.session_state.messages.append({"role": "user", "content": full_user_prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
 
 
 # Display previous messages
