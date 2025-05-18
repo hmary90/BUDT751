@@ -146,6 +146,26 @@ The fraud detection system was built using a comprehensive unsupervised learning
  All other cases are classified as non-fraudulent.
 
 
+**Detected Patterns in Flagged Data (compared to the overall dataset, implicitly):**
+
+Based on the columns included in the `anomalies_table` and the feature engineering steps, the ensemble anomaly detection likely flagged transactions that exhibit the following patterns:
+
+1.  **Unusual Transaction Amount:** The `Amount_to_AvgByType_Ratio` feature is likely a strong indicator. Flagged transactions might have:
+    *   Significantly higher `TransactionAmount` compared to the average amount for their specific `TransactionType`.
+    *   Potentially significantly lower `TransactionAmount` if the ratio is very small (though high amounts are more typical for fraud).
+    *   The Z-score outlier detection was performed earlier, suggesting extreme amounts are a potential pattern.
+2.  **Unusual Timing:**
+    *   **`TimeSinceLastTx`:** Anomalies might occur after unusually long or unusually short periods since the previous transaction for that account (if `PreviousTransactionDate` was available and used). Very short times might indicate rapid, potentially automated activity, while very long times might indicate activity on a dormant account.
+    *   **`Hour`:** Certain hours might have a higher proportion of anomalies. For example, transactions occurring very early in the morning or late at night might be more suspicious depending on the typical user behavior.
+3.  **Unusual Transaction Duration:** The `TransactionDuration` feature (time difference between transaction date and previous transaction date, although the column name might be slightly misleading given the calculation description) being significantly different from the norm could be a pattern.
+4.  **Unusual Device Activity:** The `DeviceTxCount` feature measures the transaction frequency for a specific device. Anomalies might be associated with:
+    *   Devices with a very low number of total transactions (potentially a new or unknown device).
+    *   Alternatively, devices with an unusually high burst of transactions in a short period (if the count reflects recent activity, though here it seems to be a total count).
+5.  **Specific Transaction Types:** While not explicitly summarized in the printouts, certain `TransactionType` values might be disproportionately represented in the anomaly set. For example, international transfers or high-value withdrawals might be more likely to be flagged. You would need to analyze the distribution of `TransactionType` within the `anomalies_table`.
+6.  **Specific Locations or Devices:** Similar to transaction types, certain `Location` values or `DeviceID` values might appear more frequently in the anomaly set, suggesting compromised devices or suspicious locations.
+
+To get a more precise understanding of the patterns, you would typically perform a comparative statistical analysis between the `anomalies_table` and a sample of the normal transactions, looking at the mean, median, and distribution of the features and the frequency of categorical values within the anomaly set versus the normal set. The `display(anomalies_table)` output itself allows for a visual inspection of individual anomalous records.
+
 * Anomaly agreement rates:
 
   * Isolation Forest & DBSCAN: \~87%
